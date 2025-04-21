@@ -6,7 +6,7 @@ from sklearn.preprocessing import LabelEncoder
 from sklearn.metrics import accuracy_score
 
 # Load and preprocess the dataset
-data = pd.read_csv('breast_cancer_data_old.csv')
+data = pd.read_csv('breast_cancer_data.csv')
 data['diagnosis'] = LabelEncoder().fit_transform(data['diagnosis'])
 
 # Drop the 'id' column if present
@@ -33,4 +33,4 @@ y_pred = clf.predict(x_test)
 accuracy = accuracy_score(y_test, y_pred)
 print(f"Accuracy using all features: {accuracy:.5f}")
 
-# Gives output - Accuracy using all features: 0.96491
+# Gives output - Accuracy using all features: 0.95322
