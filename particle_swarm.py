@@ -18,12 +18,12 @@ if 'id' in data.columns:
     data.drop(columns=['id'], inplace=True)
 
 # Separate features and target
-X = data.drop(columns=['diagnosis'])
+x = data.drop(columns=['diagnosis'])
 y = data['diagnosis']
 
 # Split into training and testing sets
-X_train, X_test, y_train, y_test = train_test_split(
-    X, y, test_size=0.3, random_state=42, shuffle=True
+x_train, x_test, y_train, y_test = train_test_split(
+    x, y, test_size=0.3, random_state=42, shuffle=True
 )
 
 # Define the objective function for PSO
@@ -42,8 +42,8 @@ def objective_function(particles):
         clf = RandomForestClassifier(
             n_estimators=100, max_depth=2, criterion='gini', random_state=42
         )
-        clf.fit(X_train.iloc[:, mask], y_train)
-        y_pred = clf.predict(X_test.iloc[:, mask])
+        clf.fit(x_train.iloc[:, mask], y_train)
+        y_pred = clf.predict(x_test.iloc[:, mask])
         acc = accuracy_score(y_test, y_pred)
         scores.append(acc)
 
@@ -51,12 +51,14 @@ def objective_function(particles):
     return -np.array(scores)
 
 # Initialize Binary PSO
-n_features = X.shape[1]
+n_features = x.shape[1]
 options = {'c1': 2, 'c2': 2, 'w': 0.9, 'k': 5, 'p': 2}
 optimizer = BinaryPSO(n_particles=30, dimensions=n_features, options=options)
 
 # Perform optimization
 cost, pos = optimizer.optimize(objective_function, iters=20)
+
+best_score_during_training = -cost
 
 # Evaluate the selected features
 selected_features = np.nonzero(pos == 1)[0]
@@ -67,11 +69,21 @@ print(f"Number of selected features: {len(selected_features)}")
 clf = RandomForestClassifier(
     n_estimators=100, max_depth=2, criterion='gini', random_state=42
 )
-clf.fit(X_train.iloc[:, selected_features], y_train)
-y_pred = clf.predict(X_test.iloc[:, selected_features])
+clf.fit(x_train.iloc[:, selected_features], y_train)
+y_pred = clf.predict(x_test.iloc[:, selected_features])
 final_accuracy = accuracy_score(y_test, y_pred)
 print(f"Accuracy with selected features: {final_accuracy:.5f}")
+print(f"Best accuracy score during PSO search (training): {best_score_during_training:.5f}")
 
-""" Gives output - Selected features indices: [ 0  1  3  4  5  8 11 12 14 15 16 19 20 21 22 23 27 28 29]
+""" Runs for 20 iterations (and gives same accuray for most of them)
+Gives output - Selected features indices: [ 0  1  3  4  5  8 11 12 14 15 16 19 20 21 22 23 27 28 29]
 Number of selected features: 19
-Accuracy with selected features: 0.98246 """
+Accuracy with selected features: 0.98246 
+
+Output 2 - Selected features indices: [ 1  2  4  5  6  8  9 11 14 21 22 23 24 25 26]
+Number of selected features: 15
+Accuracy with selected features: 0.98246
+
+Output 3 - Selected features indices: [ 1  4  5  8  9 13 14 15 16 19 20 21 23 24 27 28 29]
+Number of selected features: 17
+Accuracy with selected features: 0.98246"""
