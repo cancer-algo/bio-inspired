@@ -1,36 +1,52 @@
-import numpy as np
 import pandas as pd
 from sklearn.model_selection import train_test_split
 from sklearn.ensemble import RandomForestClassifier
-from sklearn.preprocessing import LabelEncoder
-from sklearn.metrics import accuracy_score
 
-# Load and preprocess the dataset
-data = pd.read_csv('breast_cancer_data.csv')
-data['diagnosis'] = LabelEncoder().fit_transform(data['diagnosis'])
 
-# Drop the 'id' column if present
-if 'id' in data.columns:
-    data.drop(columns=['id'], inplace=True)
+class FeatureSelection:
+    def __init__(self, data_path='1000_encoded_gastric_cancer_data.csv', test_size=0.3, random_state=42):
+        self.df = pd.read_csv(data_path)
 
-# Separate features and target
-x = data.drop(columns=['diagnosis'])
-y = data['diagnosis']
+        # Split into features and label
+        self.x = self.df.iloc[:, :-1]
+        self.y = self.df.iloc[:, -1]
 
-# Split into training and testing sets
-x_train, x_test, y_train, y_test = train_test_split(
-    x, y, test_size=0.3, random_state=42, shuffle=True
-)
+        # Train-test split
+        self.x_train, self.x_test, self.y_train, self.y_test = train_test_split(
+            self.x, self.y, test_size=test_size, random_state=random_state, shuffle=True
+        )
 
-# Train Random Forest classifier using all features
-clf = RandomForestClassifier(
-    n_estimators=100, max_depth=2, criterion='gini', random_state=42
-)
-clf.fit(x_train, y_train)
+        # Random Forest model initialization and training
+        self.model = RandomForestClassifier(
+            n_estimators=100,
+            max_depth=2,
+            criterion="gini",
+            random_state=random_state
+        )
+        self.model.fit(self.x_train, self.y_train)
 
-# Predict and evaluate
-y_pred = clf.predict(x_test)
-accuracy = accuracy_score(y_test, y_pred)
-print(f"Accuracy using all features: {accuracy:.5f}")
+    def __len__(self):
+        return self.x.shape[1]
 
-# Gives output - Accuracy using all features: 0.95322
+    def accuracy(self, feature_mask):
+        """
+        Evaluates model accuracy using a given binary feature mask.
+        """
+        selected_indices = [i for i, selected in enumerate(feature_mask) if selected == 1]
+        if not selected_indices:
+            return 0.0  # Prevent evaluation on empty feature set
+
+        x_test_selected = self.x_test.iloc[:, selected_indices]
+        return self.model.score(x_test_selected, self.y_test)
+
+
+def main():
+    fs = FeatureSelection()
+    all_features_mask = [1] * len(fs)
+    accuracy_score = round(fs.accuracy(all_features_mask), 5)
+
+    print(f'Accuracy with all {len(fs.x.columns)} features: {accuracy_score}')
+
+
+if __name__ == "__main__":
+    main()

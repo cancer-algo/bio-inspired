@@ -1,89 +1,123 @@
-# https://pyswarms.readthedocs.io/en/development/examples/feature_subset_selection.html
-# https://joss.theoj.org/papers/10.21105/joss.00433
-
 import numpy as np
 import pandas as pd
-from sklearn.model_selection import train_test_split
-from sklearn.ensemble import RandomForestClassifier
-from sklearn.preprocessing import LabelEncoder
-from sklearn.metrics import accuracy_score
-from pyswarms.discrete import BinaryPSO
+import sys
+from Py_FS.wrapper.population_based.algorithm import Algorithm
+from Py_FS.wrapper.population_based._utilities import sort_agents
+from Py_FS.wrapper.population_based._transfer_functions import get_trans_function
+from random_forest import FeatureSelection
 
-# Load and preprocess the dataset
-data = pd.read_csv('breast_cancer_data.csv')
-data['diagnosis'] = LabelEncoder().fit_transform(data['diagnosis'])
 
-# Drop the 'id' column
-if 'id' in data.columns:
-    data.drop(columns=['id'], inplace=True)
-
-# Separate features and target
-x = data.drop(columns=['diagnosis'])
-y = data['diagnosis']
-
-# Split into training and testing sets
-x_train, x_test, y_train, y_test = train_test_split(
-    x, y, test_size=0.3, random_state=42, shuffle=True
-)
-
-# Define the objective function for PSO
-def objective_function(particles):
-    n_particles = particles.shape[0]
-    scores = []
-
-    for i in range(n_particles):
-        # Select features where the particle has a value of 1
-        mask = particles[i].astype(bool)
-        if np.count_nonzero(mask) == 0:
-            scores.append(0)
-            continue
-
-        # Train the classifier with selected features
-        clf = RandomForestClassifier(
-            n_estimators=100, max_depth=2, criterion='gini', random_state=42
+class ParticleSwarmOptimizer(Algorithm):
+    def __init__(
+        self,
+        num_agents,
+        max_iter,
+        train_data,
+        train_label,
+        test_data=None,
+        test_label=None,
+        save_conv_graph=False,
+        seed=0,
+        default_mode=False,
+        verbose=True
+    ):
+        super().__init__(
+            num_agents=num_agents,
+            max_iter=max_iter,
+            train_data=train_data,
+            train_label=train_label,
+            test_data=test_data,
+            test_label=test_label,
+            save_conv_graph=save_conv_graph,
+            seed=seed,
+            default_mode=default_mode,
+            verbose=verbose
         )
-        clf.fit(x_train.iloc[:, mask], y_train)
-        y_pred = clf.predict(x_test.iloc[:, mask])
-        acc = accuracy_score(y_test, y_pred)
-        scores.append(acc)
+        self.algo_name = 'PSO'
+        self.agent_name = 'Particle' 
+        self.trans_function = get_trans_function('s')
 
-    # Since PySwarms minimizes the objective, return negative accuracy
-    return -np.array(scores)
+    def initialize(self):
+        super().initialize()
+        self.global_best = [0] * self.num_features
+        self.global_best_fitness = float('-inf')
+        self.local_best = [[0] * self.num_features for _ in range(self.num_agents)]
+        self.local_best_fitness = [float('-inf')] * self.num_agents
+        self.velocity = [[0.0] * self.num_features for _ in range(self.num_agents)]
+        self.weight = 1.0
 
-# Initialize Binary PSO
-n_features = x.shape[1]
-options = {'c1': 2, 'c2': 2, 'w': 0.9, 'k': 5, 'p': 2}
-optimizer = BinaryPSO(n_particles=30, dimensions=n_features, options=options)
+    def update_swarm(self):
+        header = f"\n{'='*80}\nIteration - {self.cur_iter + 1}\n{'='*80}"
+        self.print(header)
 
-# Perform optimization
-cost, pos = optimizer.optimize(objective_function, iters=20)
+        self.weight = 1.0 - (self.cur_iter / self.max_iter)
 
-best_score_during_training = -cost
+        for i in range(self.num_agents):
+            for j in range(self.num_features):
+                r1, r2 = np.random.random(2)
+                self.velocity[i][j] = (
+                    self.weight * self.velocity[i][j]
+                    + r1 * (self.local_best[i][j] - self.population[i][j])
+                    + r2 * (self.global_best[j] - self.population[i][j])
+                )
 
-# Evaluate the selected features
-selected_features = np.nonzero(pos == 1)[0]
-print(f"Selected features indices: {selected_features}")
-print(f"Number of selected features: {len(selected_features)}")
+        for i in range(self.num_agents):
+            for j in range(self.num_features):
+                trans_val = self.trans_function(self.velocity[i][j])
+                self.population[i][j] = int(np.random.random() < trans_val)
 
-# Train and evaluate the classifier with selected features
-clf = RandomForestClassifier(
-    n_estimators=100, max_depth=2, criterion='gini', random_state=42
-)
-clf.fit(x_train.iloc[:, selected_features], y_train)
-y_pred = clf.predict(x_test.iloc[:, selected_features])
-final_accuracy = accuracy_score(y_test, y_pred)
-print(f"Accuracy with selected features: {final_accuracy:.5f}")
-print(f"Best accuracy score during PSO search (training): {best_score_during_training:.5f}")
+        self.fitness = self.obj_function(self.population, self.training_data)
+        self.population, self.fitness = sort_agents(self.population, self.fitness)
 
-""" Runs for 20 iterations (and gives same accuray for most of them)
-Gives output - Selected features indices: [ 0  1  3  4  5  8 11 12 14 15 16 19 20 21 22 23 27 28 29]
-Number of selected features: 19
-Accuracy with selected features: 0.98246 
+        for idx, fit in enumerate(self.fitness):
+            if fit > self.local_best_fitness[idx]:
+                self.local_best_fitness[idx] = fit
+                self.local_best[idx] = self.population[idx][:]
+            if fit > self.global_best_fitness:
+                self.global_best_fitness = fit
+                self.global_best = self.population[idx][:]
 
-Output 2 - Selected features indices: [ 1  2  4  5  6  8  9 11 14 21 22 23 24 25 26]
-Number of selected features: 15
-Accuracy with selected features: 0.98246
+        self.global_best = [int(x) for x in self.global_best]
+        self.cur_iter += 1
 
-Output 3 - Selected features indices: [ 1  4  5  8  9 13 14 15 16 19 20 21 23 24 27 28 29]
-Number of selected features: 17
-Accuracy with selected features: 0.98246"""
+    next = update_swarm
+
+
+def main():
+    with open('pso_output.txt', 'w') as f:
+        original_stdout = sys.stdout
+        sys.stdout = f
+        try:
+            fs = FeatureSelection(data_path='1000_encoded_gastric_cancer_data.csv')
+            full_mask = [1] * len(fs)
+            baseline = round(fs.accuracy(full_mask), 5)
+            print(f"\nAccuracy using all {len(fs.x.columns)} features: {baseline}")
+
+            df = pd.read_csv('1000_encoded_gastric_cancer_data.csv')
+            X, y = df.iloc[:, :-1], df.iloc[:, -1]
+            feature_names = X.columns.tolist()
+
+            pso = ParticleSwarmOptimizer(
+                num_agents=30,
+                max_iter=20,
+                train_data=X,
+                train_label=y,
+                default_mode=True
+            )
+            solution = pso.run()
+
+            best_vec = np.array(solution.global_best)
+            selected = [feature_names[i] for i, bit in enumerate(best_vec) if bit]
+            best_acc = round(solution.global_best_fitness, 5)
+
+            print("\n------------- Leader Agent ------------------------")
+            print(f"Fitness: {best_acc}")
+            print(f"Vector: {best_vec}")
+            print(f"Selected {len(selected)} features: {selected}")
+            print("---------------------------------------------------")
+        finally:
+            sys.stdout = original_stdout
+
+
+if __name__ == '__main__':
+    main()

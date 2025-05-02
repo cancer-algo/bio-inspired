@@ -1,0 +1,894 @@
+
+Accuracy using all 28 features: 0.89667
+
+================================================================================
+Iteration - 1
+================================================================================
+
+Number of agents: 30
+
+------------- Best Agent ---------------
+Fitness: 0.9328571428571429
+Number of Features: 2
+----------------------------------------
+
+Ant 1 - Fitness: 0.9328571428571429, Number of Features: 2
+Ant 2 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 3 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 4 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 5 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 6 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 7 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 8 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 9 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 10 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 11 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 12 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 13 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 14 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 15 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 16 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 17 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 18 - Fitness: 0.8992857142857144, Number of Features: 3
+Ant 19 - Fitness: 0.8764285714285714, Number of Features: 1
+Ant 20 - Fitness: 0.8657142857142857, Number of Features: 4
+Ant 21 - Fitness: 0.0, Number of Features: 0
+Ant 22 - Fitness: 0.0, Number of Features: 0
+Ant 23 - Fitness: 0.0, Number of Features: 0
+Ant 24 - Fitness: 0.0, Number of Features: 0
+Ant 25 - Fitness: 0.0, Number of Features: 0
+Ant 26 - Fitness: 0.0, Number of Features: 0
+Ant 27 - Fitness: 0.0, Number of Features: 0
+Ant 28 - Fitness: 0.0, Number of Features: 0
+Ant 29 - Fitness: 0.0, Number of Features: 0
+Ant 30 - Fitness: 0.0, Number of Features: 0
+================================================================================
+
+
+================================================================================
+Iteration - 2
+================================================================================
+
+Number of agents: 30
+
+------------- Best Agent ---------------
+Fitness: 0.9064285714285715
+Number of Features: 1
+----------------------------------------
+
+Ant 1 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 2 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 3 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 4 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 5 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 6 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 7 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 8 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 9 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 10 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 11 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 12 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 13 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 14 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 15 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 16 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 17 - Fitness: 0.8992857142857144, Number of Features: 3
+Ant 18 - Fitness: 0.8992857142857144, Number of Features: 3
+Ant 19 - Fitness: 0.8992857142857144, Number of Features: 3
+Ant 20 - Fitness: 0.8992857142857144, Number of Features: 3
+Ant 21 - Fitness: 0.8764285714285714, Number of Features: 1
+Ant 22 - Fitness: 0.8728571428571429, Number of Features: 2
+Ant 23 - Fitness: 0.0, Number of Features: 0
+Ant 24 - Fitness: 0.0, Number of Features: 0
+Ant 25 - Fitness: 0.0, Number of Features: 0
+Ant 26 - Fitness: 0.0, Number of Features: 0
+Ant 27 - Fitness: 0.0, Number of Features: 0
+Ant 28 - Fitness: 0.0, Number of Features: 0
+Ant 29 - Fitness: 0.0, Number of Features: 0
+Ant 30 - Fitness: 0.0, Number of Features: 0
+================================================================================
+
+
+================================================================================
+Iteration - 3
+================================================================================
+
+Number of agents: 30
+
+------------- Best Agent ---------------
+Fitness: 0.9064285714285715
+Number of Features: 1
+----------------------------------------
+
+Ant 1 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 2 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 3 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 4 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 5 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 6 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 7 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 8 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 9 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 10 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 11 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 12 - Fitness: 0.8992857142857144, Number of Features: 3
+Ant 13 - Fitness: 0.8992857142857144, Number of Features: 3
+Ant 14 - Fitness: 0.8992857142857144, Number of Features: 3
+Ant 15 - Fitness: 0.8728571428571429, Number of Features: 2
+Ant 16 - Fitness: 0.0, Number of Features: 0
+Ant 17 - Fitness: 0.0, Number of Features: 0
+Ant 18 - Fitness: 0.0, Number of Features: 0
+Ant 19 - Fitness: 0.0, Number of Features: 0
+Ant 20 - Fitness: 0.0, Number of Features: 0
+Ant 21 - Fitness: 0.0, Number of Features: 0
+Ant 22 - Fitness: 0.0, Number of Features: 0
+Ant 23 - Fitness: 0.0, Number of Features: 0
+Ant 24 - Fitness: 0.0, Number of Features: 0
+Ant 25 - Fitness: 0.0, Number of Features: 0
+Ant 26 - Fitness: 0.0, Number of Features: 0
+Ant 27 - Fitness: 0.0, Number of Features: 0
+Ant 28 - Fitness: 0.0, Number of Features: 0
+Ant 29 - Fitness: 0.0, Number of Features: 0
+Ant 30 - Fitness: 0.0, Number of Features: 0
+================================================================================
+
+
+================================================================================
+Iteration - 4
+================================================================================
+
+Number of agents: 30
+
+------------- Best Agent ---------------
+Fitness: 0.9064285714285715
+Number of Features: 1
+----------------------------------------
+
+Ant 1 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 2 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 3 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 4 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 5 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 6 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 7 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 8 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 9 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 10 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 11 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 12 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 13 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 14 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 15 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 16 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 17 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 18 - Fitness: 0.8992857142857144, Number of Features: 3
+Ant 19 - Fitness: 0.8992857142857144, Number of Features: 3
+Ant 20 - Fitness: 0.8764285714285714, Number of Features: 1
+Ant 21 - Fitness: 0.8728571428571429, Number of Features: 2
+Ant 22 - Fitness: 0.8692857142857143, Number of Features: 3
+Ant 23 - Fitness: 0.0, Number of Features: 0
+Ant 24 - Fitness: 0.0, Number of Features: 0
+Ant 25 - Fitness: 0.0, Number of Features: 0
+Ant 26 - Fitness: 0.0, Number of Features: 0
+Ant 27 - Fitness: 0.0, Number of Features: 0
+Ant 28 - Fitness: 0.0, Number of Features: 0
+Ant 29 - Fitness: 0.0, Number of Features: 0
+Ant 30 - Fitness: 0.0, Number of Features: 0
+================================================================================
+
+
+================================================================================
+Iteration - 5
+================================================================================
+
+Number of agents: 30
+
+------------- Best Agent ---------------
+Fitness: 0.9064285714285715
+Number of Features: 1
+----------------------------------------
+
+Ant 1 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 2 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 3 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 4 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 5 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 6 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 7 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 8 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 9 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 10 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 11 - Fitness: 0.8992857142857144, Number of Features: 3
+Ant 12 - Fitness: 0.8992857142857144, Number of Features: 3
+Ant 13 - Fitness: 0.8957142857142857, Number of Features: 4
+Ant 14 - Fitness: 0.8957142857142857, Number of Features: 4
+Ant 15 - Fitness: 0.8764285714285714, Number of Features: 1
+Ant 16 - Fitness: 0.0, Number of Features: 0
+Ant 17 - Fitness: 0.0, Number of Features: 0
+Ant 18 - Fitness: 0.0, Number of Features: 0
+Ant 19 - Fitness: 0.0, Number of Features: 0
+Ant 20 - Fitness: 0.0, Number of Features: 0
+Ant 21 - Fitness: 0.0, Number of Features: 0
+Ant 22 - Fitness: 0.0, Number of Features: 0
+Ant 23 - Fitness: 0.0, Number of Features: 0
+Ant 24 - Fitness: 0.0, Number of Features: 0
+Ant 25 - Fitness: 0.0, Number of Features: 0
+Ant 26 - Fitness: 0.0, Number of Features: 0
+Ant 27 - Fitness: 0.0, Number of Features: 0
+Ant 28 - Fitness: 0.0, Number of Features: 0
+Ant 29 - Fitness: 0.0, Number of Features: 0
+Ant 30 - Fitness: 0.0, Number of Features: 0
+================================================================================
+
+
+================================================================================
+Iteration - 6
+================================================================================
+
+Number of agents: 30
+
+------------- Best Agent ---------------
+Fitness: 0.9328571428571429
+Number of Features: 2
+----------------------------------------
+
+Ant 1 - Fitness: 0.9328571428571429, Number of Features: 2
+Ant 2 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 3 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 4 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 5 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 6 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 7 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 8 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 9 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 10 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 11 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 12 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 13 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 14 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 15 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 16 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 17 - Fitness: 0.8992857142857144, Number of Features: 3
+Ant 18 - Fitness: 0.8992857142857144, Number of Features: 3
+Ant 19 - Fitness: 0.8728571428571429, Number of Features: 2
+Ant 20 - Fitness: 0.8728571428571429, Number of Features: 2
+Ant 21 - Fitness: 0.8692857142857143, Number of Features: 3
+Ant 22 - Fitness: 0.0, Number of Features: 0
+Ant 23 - Fitness: 0.0, Number of Features: 0
+Ant 24 - Fitness: 0.0, Number of Features: 0
+Ant 25 - Fitness: 0.0, Number of Features: 0
+Ant 26 - Fitness: 0.0, Number of Features: 0
+Ant 27 - Fitness: 0.0, Number of Features: 0
+Ant 28 - Fitness: 0.0, Number of Features: 0
+Ant 29 - Fitness: 0.0, Number of Features: 0
+Ant 30 - Fitness: 0.0, Number of Features: 0
+================================================================================
+
+
+================================================================================
+Iteration - 7
+================================================================================
+
+Number of agents: 30
+
+------------- Best Agent ---------------
+Fitness: 0.9064285714285715
+Number of Features: 1
+----------------------------------------
+
+Ant 1 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 2 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 3 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 4 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 5 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 6 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 7 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 8 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 9 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 10 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 11 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 12 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 13 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 14 - Fitness: 0.8957142857142857, Number of Features: 4
+Ant 15 - Fitness: 0.8957142857142857, Number of Features: 4
+Ant 16 - Fitness: 0.8957142857142857, Number of Features: 4
+Ant 17 - Fitness: 0.8764285714285714, Number of Features: 1
+Ant 18 - Fitness: 0.0, Number of Features: 0
+Ant 19 - Fitness: 0.0, Number of Features: 0
+Ant 20 - Fitness: 0.0, Number of Features: 0
+Ant 21 - Fitness: 0.0, Number of Features: 0
+Ant 22 - Fitness: 0.0, Number of Features: 0
+Ant 23 - Fitness: 0.0, Number of Features: 0
+Ant 24 - Fitness: 0.0, Number of Features: 0
+Ant 25 - Fitness: 0.0, Number of Features: 0
+Ant 26 - Fitness: 0.0, Number of Features: 0
+Ant 27 - Fitness: 0.0, Number of Features: 0
+Ant 28 - Fitness: 0.0, Number of Features: 0
+Ant 29 - Fitness: 0.0, Number of Features: 0
+Ant 30 - Fitness: 0.0, Number of Features: 0
+================================================================================
+
+
+================================================================================
+Iteration - 8
+================================================================================
+
+Number of agents: 30
+
+------------- Best Agent ---------------
+Fitness: 0.9064285714285715
+Number of Features: 1
+----------------------------------------
+
+Ant 1 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 2 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 3 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 4 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 5 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 6 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 7 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 8 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 9 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 10 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 11 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 12 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 13 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 14 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 15 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 16 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 17 - Fitness: 0.8728571428571429, Number of Features: 2
+Ant 18 - Fitness: 0.8728571428571429, Number of Features: 2
+Ant 19 - Fitness: 0.0, Number of Features: 0
+Ant 20 - Fitness: 0.0, Number of Features: 0
+Ant 21 - Fitness: 0.0, Number of Features: 0
+Ant 22 - Fitness: 0.0, Number of Features: 0
+Ant 23 - Fitness: 0.0, Number of Features: 0
+Ant 24 - Fitness: 0.0, Number of Features: 0
+Ant 25 - Fitness: 0.0, Number of Features: 0
+Ant 26 - Fitness: 0.0, Number of Features: 0
+Ant 27 - Fitness: 0.0, Number of Features: 0
+Ant 28 - Fitness: 0.0, Number of Features: 0
+Ant 29 - Fitness: 0.0, Number of Features: 0
+Ant 30 - Fitness: 0.0, Number of Features: 0
+================================================================================
+
+
+================================================================================
+Iteration - 9
+================================================================================
+
+Number of agents: 30
+
+------------- Best Agent ---------------
+Fitness: 0.9328571428571429
+Number of Features: 2
+----------------------------------------
+
+Ant 1 - Fitness: 0.9328571428571429, Number of Features: 2
+Ant 2 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 3 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 4 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 5 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 6 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 7 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 8 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 9 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 10 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 11 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 12 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 13 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 14 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 15 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 16 - Fitness: 0.8992857142857144, Number of Features: 3
+Ant 17 - Fitness: 0.8992857142857144, Number of Features: 3
+Ant 18 - Fitness: 0.8992857142857144, Number of Features: 3
+Ant 19 - Fitness: 0.8992857142857144, Number of Features: 3
+Ant 20 - Fitness: 0.8957142857142857, Number of Features: 4
+Ant 21 - Fitness: 0.8957142857142857, Number of Features: 4
+Ant 22 - Fitness: 0.8921428571428571, Number of Features: 5
+Ant 23 - Fitness: 0.0, Number of Features: 0
+Ant 24 - Fitness: 0.0, Number of Features: 0
+Ant 25 - Fitness: 0.0, Number of Features: 0
+Ant 26 - Fitness: 0.0, Number of Features: 0
+Ant 27 - Fitness: 0.0, Number of Features: 0
+Ant 28 - Fitness: 0.0, Number of Features: 0
+Ant 29 - Fitness: 0.0, Number of Features: 0
+Ant 30 - Fitness: 0.0, Number of Features: 0
+================================================================================
+
+
+================================================================================
+Iteration - 10
+================================================================================
+
+Number of agents: 30
+
+------------- Best Agent ---------------
+Fitness: 0.9064285714285715
+Number of Features: 1
+----------------------------------------
+
+Ant 1 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 2 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 3 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 4 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 5 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 6 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 7 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 8 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 9 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 10 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 11 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 12 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 13 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 14 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 15 - Fitness: 0.8992857142857144, Number of Features: 3
+Ant 16 - Fitness: 0.8992857142857144, Number of Features: 3
+Ant 17 - Fitness: 0.8992857142857144, Number of Features: 3
+Ant 18 - Fitness: 0.8992857142857144, Number of Features: 3
+Ant 19 - Fitness: 0.8992857142857144, Number of Features: 3
+Ant 20 - Fitness: 0.8957142857142857, Number of Features: 4
+Ant 21 - Fitness: 0.8764285714285714, Number of Features: 1
+Ant 22 - Fitness: 0.8728571428571429, Number of Features: 2
+Ant 23 - Fitness: 0.0, Number of Features: 0
+Ant 24 - Fitness: 0.0, Number of Features: 0
+Ant 25 - Fitness: 0.0, Number of Features: 0
+Ant 26 - Fitness: 0.0, Number of Features: 0
+Ant 27 - Fitness: 0.0, Number of Features: 0
+Ant 28 - Fitness: 0.0, Number of Features: 0
+Ant 29 - Fitness: 0.0, Number of Features: 0
+Ant 30 - Fitness: 0.0, Number of Features: 0
+================================================================================
+
+
+================================================================================
+Iteration - 11
+================================================================================
+
+Number of agents: 30
+
+------------- Best Agent ---------------
+Fitness: 0.9328571428571429
+Number of Features: 2
+----------------------------------------
+
+Ant 1 - Fitness: 0.9328571428571429, Number of Features: 2
+Ant 2 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 3 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 4 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 5 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 6 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 7 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 8 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 9 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 10 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 11 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 12 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 13 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 14 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 15 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 16 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 17 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 18 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 19 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 20 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 21 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 22 - Fitness: 0.8992857142857144, Number of Features: 3
+Ant 23 - Fitness: 0.0, Number of Features: 0
+Ant 24 - Fitness: 0.0, Number of Features: 0
+Ant 25 - Fitness: 0.0, Number of Features: 0
+Ant 26 - Fitness: 0.0, Number of Features: 0
+Ant 27 - Fitness: 0.0, Number of Features: 0
+Ant 28 - Fitness: 0.0, Number of Features: 0
+Ant 29 - Fitness: 0.0, Number of Features: 0
+Ant 30 - Fitness: 0.0, Number of Features: 0
+================================================================================
+
+
+================================================================================
+Iteration - 12
+================================================================================
+
+Number of agents: 30
+
+------------- Best Agent ---------------
+Fitness: 0.9328571428571429
+Number of Features: 2
+----------------------------------------
+
+Ant 1 - Fitness: 0.9328571428571429, Number of Features: 2
+Ant 2 - Fitness: 0.9328571428571429, Number of Features: 2
+Ant 3 - Fitness: 0.9328571428571429, Number of Features: 2
+Ant 4 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 5 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 6 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 7 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 8 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 9 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 10 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 11 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 12 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 13 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 14 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 15 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 16 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 17 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 18 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 19 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 20 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 21 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 22 - Fitness: 0.8992857142857144, Number of Features: 3
+Ant 23 - Fitness: 0.0, Number of Features: 0
+Ant 24 - Fitness: 0.0, Number of Features: 0
+Ant 25 - Fitness: 0.0, Number of Features: 0
+Ant 26 - Fitness: 0.0, Number of Features: 0
+Ant 27 - Fitness: 0.0, Number of Features: 0
+Ant 28 - Fitness: 0.0, Number of Features: 0
+Ant 29 - Fitness: 0.0, Number of Features: 0
+Ant 30 - Fitness: 0.0, Number of Features: 0
+================================================================================
+
+
+================================================================================
+Iteration - 13
+================================================================================
+
+Number of agents: 30
+
+------------- Best Agent ---------------
+Fitness: 0.9328571428571429
+Number of Features: 2
+----------------------------------------
+
+Ant 1 - Fitness: 0.9328571428571429, Number of Features: 2
+Ant 2 - Fitness: 0.9328571428571429, Number of Features: 2
+Ant 3 - Fitness: 0.9328571428571429, Number of Features: 2
+Ant 4 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 5 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 6 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 7 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 8 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 9 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 10 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 11 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 12 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 13 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 14 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 15 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 16 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 17 - Fitness: 0.8992857142857144, Number of Features: 3
+Ant 18 - Fitness: 0.8992857142857144, Number of Features: 3
+Ant 19 - Fitness: 0.8764285714285714, Number of Features: 1
+Ant 20 - Fitness: 0.8728571428571429, Number of Features: 2
+Ant 21 - Fitness: 0.8428571428571429, Number of Features: 2
+Ant 22 - Fitness: 0.0, Number of Features: 0
+Ant 23 - Fitness: 0.0, Number of Features: 0
+Ant 24 - Fitness: 0.0, Number of Features: 0
+Ant 25 - Fitness: 0.0, Number of Features: 0
+Ant 26 - Fitness: 0.0, Number of Features: 0
+Ant 27 - Fitness: 0.0, Number of Features: 0
+Ant 28 - Fitness: 0.0, Number of Features: 0
+Ant 29 - Fitness: 0.0, Number of Features: 0
+Ant 30 - Fitness: 0.0, Number of Features: 0
+================================================================================
+
+
+================================================================================
+Iteration - 14
+================================================================================
+
+Number of agents: 30
+
+------------- Best Agent ---------------
+Fitness: 0.9328571428571429
+Number of Features: 2
+----------------------------------------
+
+Ant 1 - Fitness: 0.9328571428571429, Number of Features: 2
+Ant 2 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 3 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 4 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 5 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 6 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 7 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 8 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 9 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 10 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 11 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 12 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 13 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 14 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 15 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 16 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 17 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 18 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 19 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 20 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 21 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 22 - Fitness: 0.8992857142857144, Number of Features: 3
+Ant 23 - Fitness: 0.8764285714285714, Number of Features: 1
+Ant 24 - Fitness: 0.0, Number of Features: 0
+Ant 25 - Fitness: 0.0, Number of Features: 0
+Ant 26 - Fitness: 0.0, Number of Features: 0
+Ant 27 - Fitness: 0.0, Number of Features: 0
+Ant 28 - Fitness: 0.0, Number of Features: 0
+Ant 29 - Fitness: 0.0, Number of Features: 0
+Ant 30 - Fitness: 0.0, Number of Features: 0
+================================================================================
+
+
+================================================================================
+Iteration - 15
+================================================================================
+
+Number of agents: 30
+
+------------- Best Agent ---------------
+Fitness: 0.9328571428571429
+Number of Features: 2
+----------------------------------------
+
+Ant 1 - Fitness: 0.9328571428571429, Number of Features: 2
+Ant 2 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 3 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 4 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 5 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 6 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 7 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 8 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 9 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 10 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 11 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 12 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 13 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 14 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 15 - Fitness: 0.8921428571428571, Number of Features: 5
+Ant 16 - Fitness: 0.8728571428571429, Number of Features: 2
+Ant 17 - Fitness: 0.8392857142857143, Number of Features: 3
+Ant 18 - Fitness: 0.0, Number of Features: 0
+Ant 19 - Fitness: 0.0, Number of Features: 0
+Ant 20 - Fitness: 0.0, Number of Features: 0
+Ant 21 - Fitness: 0.0, Number of Features: 0
+Ant 22 - Fitness: 0.0, Number of Features: 0
+Ant 23 - Fitness: 0.0, Number of Features: 0
+Ant 24 - Fitness: 0.0, Number of Features: 0
+Ant 25 - Fitness: 0.0, Number of Features: 0
+Ant 26 - Fitness: 0.0, Number of Features: 0
+Ant 27 - Fitness: 0.0, Number of Features: 0
+Ant 28 - Fitness: 0.0, Number of Features: 0
+Ant 29 - Fitness: 0.0, Number of Features: 0
+Ant 30 - Fitness: 0.0, Number of Features: 0
+================================================================================
+
+
+================================================================================
+Iteration - 16
+================================================================================
+
+Number of agents: 30
+
+------------- Best Agent ---------------
+Fitness: 0.9328571428571429
+Number of Features: 2
+----------------------------------------
+
+Ant 1 - Fitness: 0.9328571428571429, Number of Features: 2
+Ant 2 - Fitness: 0.9328571428571429, Number of Features: 2
+Ant 3 - Fitness: 0.9328571428571429, Number of Features: 2
+Ant 4 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 5 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 6 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 7 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 8 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 9 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 10 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 11 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 12 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 13 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 14 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 15 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 16 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 17 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 18 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 19 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 20 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 21 - Fitness: 0.8992857142857144, Number of Features: 3
+Ant 22 - Fitness: 0.8728571428571429, Number of Features: 2
+Ant 23 - Fitness: 0.0, Number of Features: 0
+Ant 24 - Fitness: 0.0, Number of Features: 0
+Ant 25 - Fitness: 0.0, Number of Features: 0
+Ant 26 - Fitness: 0.0, Number of Features: 0
+Ant 27 - Fitness: 0.0, Number of Features: 0
+Ant 28 - Fitness: 0.0, Number of Features: 0
+Ant 29 - Fitness: 0.0, Number of Features: 0
+Ant 30 - Fitness: 0.0, Number of Features: 0
+================================================================================
+
+
+================================================================================
+Iteration - 17
+================================================================================
+
+Number of agents: 30
+
+------------- Best Agent ---------------
+Fitness: 0.9328571428571429
+Number of Features: 2
+----------------------------------------
+
+Ant 1 - Fitness: 0.9328571428571429, Number of Features: 2
+Ant 2 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 3 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 4 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 5 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 6 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 7 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 8 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 9 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 10 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 11 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 12 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 13 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 14 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 15 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 16 - Fitness: 0.8992857142857144, Number of Features: 3
+Ant 17 - Fitness: 0.8992857142857144, Number of Features: 3
+Ant 18 - Fitness: 0.8428571428571429, Number of Features: 2
+Ant 19 - Fitness: 0.0, Number of Features: 0
+Ant 20 - Fitness: 0.0, Number of Features: 0
+Ant 21 - Fitness: 0.0, Number of Features: 0
+Ant 22 - Fitness: 0.0, Number of Features: 0
+Ant 23 - Fitness: 0.0, Number of Features: 0
+Ant 24 - Fitness: 0.0, Number of Features: 0
+Ant 25 - Fitness: 0.0, Number of Features: 0
+Ant 26 - Fitness: 0.0, Number of Features: 0
+Ant 27 - Fitness: 0.0, Number of Features: 0
+Ant 28 - Fitness: 0.0, Number of Features: 0
+Ant 29 - Fitness: 0.0, Number of Features: 0
+Ant 30 - Fitness: 0.0, Number of Features: 0
+================================================================================
+
+
+================================================================================
+Iteration - 18
+================================================================================
+
+Number of agents: 30
+
+------------- Best Agent ---------------
+Fitness: 0.9328571428571429
+Number of Features: 2
+----------------------------------------
+
+Ant 1 - Fitness: 0.9328571428571429, Number of Features: 2
+Ant 2 - Fitness: 0.9328571428571429, Number of Features: 2
+Ant 3 - Fitness: 0.9328571428571429, Number of Features: 2
+Ant 4 - Fitness: 0.9328571428571429, Number of Features: 2
+Ant 5 - Fitness: 0.9292857142857144, Number of Features: 3
+Ant 6 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 7 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 8 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 9 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 10 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 11 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 12 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 13 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 14 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 15 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 16 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 17 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 18 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 19 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 20 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 21 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 22 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 23 - Fitness: 0.0, Number of Features: 0
+Ant 24 - Fitness: 0.0, Number of Features: 0
+Ant 25 - Fitness: 0.0, Number of Features: 0
+Ant 26 - Fitness: 0.0, Number of Features: 0
+Ant 27 - Fitness: 0.0, Number of Features: 0
+Ant 28 - Fitness: 0.0, Number of Features: 0
+Ant 29 - Fitness: 0.0, Number of Features: 0
+Ant 30 - Fitness: 0.0, Number of Features: 0
+================================================================================
+
+
+================================================================================
+Iteration - 19
+================================================================================
+
+Number of agents: 30
+
+------------- Best Agent ---------------
+Fitness: 0.9328571428571429
+Number of Features: 2
+----------------------------------------
+
+Ant 1 - Fitness: 0.9328571428571429, Number of Features: 2
+Ant 2 - Fitness: 0.9328571428571429, Number of Features: 2
+Ant 3 - Fitness: 0.9328571428571429, Number of Features: 2
+Ant 4 - Fitness: 0.9328571428571429, Number of Features: 2
+Ant 5 - Fitness: 0.9328571428571429, Number of Features: 2
+Ant 6 - Fitness: 0.9328571428571429, Number of Features: 2
+Ant 7 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 8 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 9 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 10 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 11 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 12 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 13 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 14 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 15 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 16 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 17 - Fitness: 0.8992857142857144, Number of Features: 3
+Ant 18 - Fitness: 0.8764285714285714, Number of Features: 1
+Ant 19 - Fitness: 0.0, Number of Features: 0
+Ant 20 - Fitness: 0.0, Number of Features: 0
+Ant 21 - Fitness: 0.0, Number of Features: 0
+Ant 22 - Fitness: 0.0, Number of Features: 0
+Ant 23 - Fitness: 0.0, Number of Features: 0
+Ant 24 - Fitness: 0.0, Number of Features: 0
+Ant 25 - Fitness: 0.0, Number of Features: 0
+Ant 26 - Fitness: 0.0, Number of Features: 0
+Ant 27 - Fitness: 0.0, Number of Features: 0
+Ant 28 - Fitness: 0.0, Number of Features: 0
+Ant 29 - Fitness: 0.0, Number of Features: 0
+Ant 30 - Fitness: 0.0, Number of Features: 0
+================================================================================
+
+
+================================================================================
+Iteration - 20
+================================================================================
+
+Number of agents: 30
+
+------------- Best Agent ---------------
+Fitness: 0.9328571428571429
+Number of Features: 2
+----------------------------------------
+
+Ant 1 - Fitness: 0.9328571428571429, Number of Features: 2
+Ant 2 - Fitness: 0.9328571428571429, Number of Features: 2
+Ant 3 - Fitness: 0.9328571428571429, Number of Features: 2
+Ant 4 - Fitness: 0.9328571428571429, Number of Features: 2
+Ant 5 - Fitness: 0.9328571428571429, Number of Features: 2
+Ant 6 - Fitness: 0.9328571428571429, Number of Features: 2
+Ant 7 - Fitness: 0.9328571428571429, Number of Features: 2
+Ant 8 - Fitness: 0.9328571428571429, Number of Features: 2
+Ant 9 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 10 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 11 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 12 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 13 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 14 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 15 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 16 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 17 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 18 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 19 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 20 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 21 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 22 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 23 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 24 - Fitness: 0.8992857142857144, Number of Features: 3
+Ant 25 - Fitness: 0.0, Number of Features: 0
+Ant 26 - Fitness: 0.0, Number of Features: 0
+Ant 27 - Fitness: 0.0, Number of Features: 0
+Ant 28 - Fitness: 0.0, Number of Features: 0
+Ant 29 - Fitness: 0.0, Number of Features: 0
+Ant 30 - Fitness: 0.0, Number of Features: 0
+================================================================================
+
+
+------------- Leader Agent ---------------
+Fitness: 0.9328571428571429
+Number of Features: 2
+----------------------------------------
+
+
+------------- Leader Agent ------------------------
+Fitness: 0.93286
+Vector: [0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0]
+Selected 2 features: ['helicobacter_pylori_infection', 'elmmo']
+---------------------------------------------------
