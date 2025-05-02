@@ -35,42 +35,49 @@ class AntColonyOptimizer(Algorithm):
         self.algo_name = 'ACO'
         self.agent_name = 'Ant'
         self.evaporation_rate = 0.1
-        self.alpha = 1.0
-        self.beta = 2.0
+        self.alpha = 1.0  # pheromone importance
+        self.beta = 2.0   # heuristic importance
 
     def initialize(self):
         super().initialize()
+        # initial pheromone and heuristic values
         self.pheromone = [1.0] * self.num_features
         self.heuristic = [1.0] * self.num_features
         self.global_best = [0] * self.num_features
         self.global_best_fitness = float('-inf')
-        self.weight = None
+        self.weight = None 
 
     def update_colony(self):
         header = f"\n{'='*80}\nIteration - {self.cur_iter + 1}\n{'='*80}"
         self.print(header)
 
+        # build probability distribution based on pheromone and heuristic
         pher = np.array(self.pheromone)
         heur = np.array(self.heuristic)
         probs = (pher ** self.alpha) * (heur ** self.beta)
         probs = probs / np.sum(probs)
 
+        # generate new population and convert to numpy array
         new_pop = []
         for _ in range(self.num_agents):
             particle = [1 if np.random.random() < p else 0 for p in probs]
             new_pop.append(particle)
         self.population = np.array(new_pop)
 
+        # evaluate and sort
         self.fitness = self.obj_function(self.population, self.training_data)
         self.population, self.fitness = sort_agents(self.population, self.fitness)
 
+        # update global best
         best_fit = self.fitness[0]
         best_part = self.population[0][:]
         if best_fit > self.global_best_fitness:
             self.global_best_fitness = best_fit
             self.global_best = best_part[:]
 
+        # pheromone evaporation
         self.pheromone = [(1 - self.evaporation_rate) * t for t in self.pheromone]
+        # pheromone deposit on best features
         for idx, bit in enumerate(self.global_best):
             if bit:
                 self.pheromone[idx] += self.global_best_fitness
@@ -81,19 +88,23 @@ class AntColonyOptimizer(Algorithm):
 
 
 def main():
+    # redirect output to file
     with open('aco_output.txt', 'w') as f:
         original_stdout = sys.stdout
         sys.stdout = f
         try:
+            # 1) baseline accuracy with all features
             fs = FeatureSelection(data_path='1000_encoded_gastric_cancer_data.csv')
             full_mask = [1] * len(fs)
             baseline = round(fs.accuracy(full_mask), 5)
             print(f"\nAccuracy using all {len(fs.x.columns)} features: {baseline}")
 
+            # 2) load data
             df = pd.read_csv('1000_encoded_gastric_cancer_data.csv')
             X, y = df.iloc[:, :-1], df.iloc[:, -1]
             feature_names = X.columns.tolist()
 
+            # 3) run ACO
             aco = AntColonyOptimizer(
                 num_agents=30,
                 max_iter=20,
@@ -103,6 +114,7 @@ def main():
             )
             solution = aco.run()
 
+            # 4) report results
             best_vec = np.array(solution.global_best)
             selected = [feature_names[i] for i, bit in enumerate(best_vec) if bit]
             best_acc = round(solution.global_best_fitness, 5)
