@@ -5,7 +5,8 @@ from Py_FS.wrapper.population_based.algorithm import Algorithm
 from Py_FS.wrapper.population_based._utilities import sort_agents
 from Py_FS.wrapper.population_based._transfer_functions import get_trans_function
 from random_forest import FeatureSelection
-
+import matplotlib.pyplot as plt
+from matplotlib.animation import FuncAnimation, writers
 
 class ParticleSwarmOptimizer(Algorithm):
     def __init__(
@@ -37,6 +38,11 @@ class ParticleSwarmOptimizer(Algorithm):
         self.agent_name = 'Particle'
         self.trans_function = get_trans_function('s')
 
+        if hasattr(train_data, 'columns'):
+            self.feature_names = list(train_data.columns)
+        else:
+            self.feature_names = [str(i) for i in range(self.num_features)]
+
     def initialize(self):
         super().initialize()
         self.global_best = [0] * self.num_features
@@ -45,6 +51,10 @@ class ParticleSwarmOptimizer(Algorithm):
         self.local_best_fitness = [float('-inf')] * self.num_agents
         self.velocity = [[0.0] * self.num_features for _ in range(self.num_agents)]
         self.weight = 1.0
+
+        # History buffers for visualization
+        self.history_global_best_fitness = []
+        self.history_global_best_vector  = []
 
     def update_swarm(self):
         header = f"\n{'='*80}\nIteration - {self.cur_iter + 1}\n{'='*80}"
@@ -84,9 +94,74 @@ class ParticleSwarmOptimizer(Algorithm):
 
         # ensure binary output and increment iteration
         self.global_best = [int(x) for x in self.global_best]
-        self.cur_iter += 1
 
+        # Record history for visualization
+        self.history_global_best_fitness.append(self.global_best_fitness)
+        self.history_global_best_vector.append(self.global_best.copy())
+
+        self.cur_iter += 1
+    
     next = update_swarm
+
+
+    def visualize(self, save_as=None):
+        """
+        Animates two panels:
+         1) Global-best fitness over iterations (categorical iterations).
+         2) Global-best feature-mask as a bar-chart with feature names.
+        Saves to pso_output.mov
+        """
+        iters = len(self.history_global_best_fitness)
+        fig, (ax1, ax2) = plt.subplots(2, 1, figsize=(12, 8), gridspec_kw={'height_ratios':[1,1]})
+
+        # Panel 1: fitness curve
+        ax1.set_title("Global-Best Fitness over Iterations")
+        ax1.set_xlabel("Iteration")
+        ax1.set_ylabel("Fitness")
+        line, = ax1.plot([], [], lw=2, marker='o')
+        ax1.set_xticks(list(range(iters)))
+        ax1.set_xticklabels([str(i+1) for i in range(iters)])
+        ax1.set_ylim(min(self.history_global_best_fitness)*0.9,
+                     max(self.history_global_best_fitness)*1.1)
+
+        # Panel 2: feature mask with names
+        ax2.set_title("Global-Best Feature Mask")
+        ax2.set_xlabel("Feature")
+        ax2.set_ylabel("Selected (1) vs Not (0)")
+        bar_rects = ax2.bar(self.feature_names, [0]*self.num_features)
+        ax2.set_ylim(0, 1)
+        plt.setp(ax2.get_xticklabels(), rotation=90, fontsize=6)
+
+        def init():
+            line.set_data([], [])
+            for r in bar_rects:
+                r.set_height(0)
+            return [line, *bar_rects]
+
+        def update(frame):
+            # fitness curve
+            x = list(range(frame+1))
+            y = self.history_global_best_fitness[:frame+1]
+            line.set_data(x, y)
+            # bar heights
+            vec = self.history_global_best_vector[frame]
+            for idx, r in enumerate(bar_rects):
+                r.set_height(vec[idx])
+                # highlight selected
+                r.set_alpha(1.0 if vec[idx] else 0.3)
+            # annotate iteration
+            ax1.set_title(f"Global-Best Fitness (Iteration {frame+1})")
+            return [line, *bar_rects]
+
+        anim = FuncAnimation(fig, update, frames=iters, init_func=init,
+                             blit=True, repeat=False, interval=500)
+        plt.tight_layout()
+
+        if save_as:
+            writer = writers['ffmpeg'](fps=2)
+            anim.save(save_as, writer=writer)
+        else:
+            plt.show()
 
 
 def main():
@@ -126,6 +201,10 @@ def main():
             print(f"Vector: {best_vec}")
             print(f"Selected {len(selected)} features: {selected}")
             print("---------------------------------------------------")
+
+            # Visualize the optimization process and save
+            pso.visualize(save_as="pso_output.mov")
+
         finally:
             sys.stdout = original_stdout
 
