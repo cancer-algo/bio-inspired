@@ -20,7 +20,7 @@ class AntColonyOptimizer(Algorithm):
         save_conv_graph=False,
         seed=0,
         evaporation_rate=0.4,
-        max_pheromone=5.0,
+        max_pheromone=5,
         default_mode=False,
         verbose=True
     ):
@@ -40,7 +40,7 @@ class AntColonyOptimizer(Algorithm):
         self.agent_name = 'Ant'
 
         # ACO-specific parameters
-        self.evaporation_rate = 0.4
+        self.evaporation_rate = 9.0
         self.alpha = 1.0
         self.beta = 1.0
         self.min_pheromone = 0.01
@@ -247,7 +247,7 @@ def main():
             # 3) run ACO
             aco = AntColonyOptimizer(
                 num_agents=30,
-                max_iter=20,
+                max_iter=50,
                 train_data=X,
                 train_label=y,
                 default_mode=True

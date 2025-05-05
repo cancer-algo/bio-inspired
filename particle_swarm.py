@@ -184,7 +184,7 @@ def main():
             # 3) run PSO
             pso = ParticleSwarmOptimizer(
                 num_agents=30,
-                max_iter=20,
+                max_iter=50,
                 train_data=X,
                 train_label=y,
                 default_mode=True
