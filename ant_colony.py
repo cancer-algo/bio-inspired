@@ -19,6 +19,8 @@ class AntColonyOptimizer(Algorithm):
         test_label=None,
         save_conv_graph=False,
         seed=0,
+        evaporation_rate=0.4,
+        max_pheromone=5.0,
         default_mode=False,
         verbose=True
     ):
@@ -76,12 +78,9 @@ class AntColonyOptimizer(Algorithm):
         return np.array(fitness)
 
     def update_colony(self):
-        header = f"\n{'='*80}\nIteration - {self.cur_iter + 1}\n{'='*80}"
-        self.print(header)
 
         # periodically reset pheromones to avoid premature convergence
         if self.cur_iter > 0 and self.cur_iter % self.reset_interval == 0:
-            self.print("[INFO] Resetting pheromone levels to mitigate early convergence.")
             self.pheromone = [1.0] * self.num_features
 
         # compute probabilities based on pheromone and heuristic
@@ -101,6 +100,7 @@ class AntColonyOptimizer(Algorithm):
 
         # evaluate fitness and sort
         self.fitness = self.obj_function(self.population, self.training_data)
+        avg_fitness = np.mean(self.fitness) 
         self.population, self.fitness = sort_agents(self.population, self.fitness)
 
         # update global best
@@ -128,6 +128,13 @@ class AntColonyOptimizer(Algorithm):
         self.history_global_best_fitness.append(self.global_best_fitness)
         self.history_pheromone.append(self.pheromone.copy())
         self.history_selected_features.append(self.global_best[:])
+        
+        selected = [self.feature_names[i] for i, bit in enumerate(self.global_best) if bit]
+
+        # Print the best and average fitness
+        print(f"Iteration {self.cur_iter + 1}: Best Fitness={self.global_best_fitness:.5f}, "
+            f"Avg Fitness={avg_fitness:.5f}, Selected Features ({len(selected)}): {selected}")
+
         self.cur_iter += 1
 
     next = update_colony
