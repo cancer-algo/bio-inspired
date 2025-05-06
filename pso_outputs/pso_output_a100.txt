@@ -1,0 +1,2294 @@
+
+Accuracy using all 28 features: 0.89667
+
+================================================================================
+Iteration - 1
+================================================================================
+
+Number of agents: 100
+
+------------- Best Agent ---------------
+Fitness: 0.8885714285714286
+Number of Features: 6
+----------------------------------------
+
+Particle 1 - Fitness: 0.8885714285714286, Number of Features: 6
+Particle 2 - Fitness: 0.885, Number of Features: 7
+Particle 3 - Fitness: 0.885, Number of Features: 7
+Particle 4 - Fitness: 0.885, Number of Features: 7
+Particle 5 - Fitness: 0.8814285714285715, Number of Features: 8
+Particle 6 - Fitness: 0.8814285714285715, Number of Features: 8
+Particle 7 - Fitness: 0.8814285714285715, Number of Features: 8
+Particle 8 - Fitness: 0.8814285714285715, Number of Features: 8
+Particle 9 - Fitness: 0.8778571428571429, Number of Features: 9
+Particle 10 - Fitness: 0.8778571428571429, Number of Features: 9
+Particle 11 - Fitness: 0.8778571428571429, Number of Features: 9
+Particle 12 - Fitness: 0.8778571428571429, Number of Features: 9
+Particle 13 - Fitness: 0.8778571428571429, Number of Features: 9
+Particle 14 - Fitness: 0.8778571428571429, Number of Features: 9
+Particle 15 - Fitness: 0.8778571428571429, Number of Features: 9
+Particle 16 - Fitness: 0.8778571428571429, Number of Features: 9
+Particle 17 - Fitness: 0.8778571428571429, Number of Features: 9
+Particle 18 - Fitness: 0.8778571428571429, Number of Features: 9
+Particle 19 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 20 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 21 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 22 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 23 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 24 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 25 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 26 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 27 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 28 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 29 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 30 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 31 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 32 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 33 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 34 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 35 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 36 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 37 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 38 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 39 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 40 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 41 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 42 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 43 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 44 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 45 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 46 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 47 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 48 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 49 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 50 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 51 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 52 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 53 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 54 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 55 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 56 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 57 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 58 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 59 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 60 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 61 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 62 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 63 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 64 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 65 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 66 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 67 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 68 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 69 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 70 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 71 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 72 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 73 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 74 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 75 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 76 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 77 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 78 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 79 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 80 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 81 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 82 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 83 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 84 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 85 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 86 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 87 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 88 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 89 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 90 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 91 - Fitness: 0.855, Number of Features: 7
+Particle 92 - Fitness: 0.8528571428571429, Number of Features: 16
+Particle 93 - Fitness: 0.8528571428571429, Number of Features: 16
+Particle 94 - Fitness: 0.8528571428571429, Number of Features: 16
+Particle 95 - Fitness: 0.8492857142857143, Number of Features: 17
+Particle 96 - Fitness: 0.8492857142857143, Number of Features: 17
+Particle 97 - Fitness: 0.8421428571428572, Number of Features: 19
+Particle 98 - Fitness: 0.8407142857142857, Number of Features: 11
+Particle 99 - Fitness: 0.8335714285714286, Number of Features: 13
+Particle 100 - Fitness: 0.8300000000000001, Number of Features: 14
+================================================================================
+
+
+================================================================================
+Iteration - 2
+================================================================================
+
+Number of agents: 100
+
+------------- Best Agent ---------------
+Fitness: 0.8921428571428571
+Number of Features: 5
+----------------------------------------
+
+Particle 1 - Fitness: 0.8921428571428571, Number of Features: 5
+Particle 2 - Fitness: 0.8885714285714286, Number of Features: 6
+Particle 3 - Fitness: 0.8885714285714286, Number of Features: 6
+Particle 4 - Fitness: 0.8885714285714286, Number of Features: 6
+Particle 5 - Fitness: 0.8885714285714286, Number of Features: 6
+Particle 6 - Fitness: 0.885, Number of Features: 7
+Particle 7 - Fitness: 0.885, Number of Features: 7
+Particle 8 - Fitness: 0.885, Number of Features: 7
+Particle 9 - Fitness: 0.885, Number of Features: 7
+Particle 10 - Fitness: 0.885, Number of Features: 7
+Particle 11 - Fitness: 0.8814285714285715, Number of Features: 8
+Particle 12 - Fitness: 0.8814285714285715, Number of Features: 8
+Particle 13 - Fitness: 0.8814285714285715, Number of Features: 8
+Particle 14 - Fitness: 0.8814285714285715, Number of Features: 8
+Particle 15 - Fitness: 0.8814285714285715, Number of Features: 8
+Particle 16 - Fitness: 0.8778571428571429, Number of Features: 9
+Particle 17 - Fitness: 0.8778571428571429, Number of Features: 9
+Particle 18 - Fitness: 0.8778571428571429, Number of Features: 9
+Particle 19 - Fitness: 0.8778571428571429, Number of Features: 9
+Particle 20 - Fitness: 0.8778571428571429, Number of Features: 9
+Particle 21 - Fitness: 0.8778571428571429, Number of Features: 9
+Particle 22 - Fitness: 0.8778571428571429, Number of Features: 9
+Particle 23 - Fitness: 0.8778571428571429, Number of Features: 9
+Particle 24 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 25 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 26 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 27 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 28 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 29 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 30 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 31 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 32 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 33 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 34 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 35 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 36 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 37 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 38 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 39 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 40 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 41 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 42 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 43 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 44 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 45 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 46 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 47 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 48 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 49 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 50 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 51 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 52 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 53 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 54 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 55 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 56 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 57 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 58 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 59 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 60 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 61 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 62 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 63 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 64 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 65 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 66 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 67 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 68 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 69 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 70 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 71 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 72 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 73 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 74 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 75 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 76 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 77 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 78 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 79 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 80 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 81 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 82 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 83 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 84 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 85 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 86 - Fitness: 0.8528571428571429, Number of Features: 16
+Particle 87 - Fitness: 0.8528571428571429, Number of Features: 16
+Particle 88 - Fitness: 0.8528571428571429, Number of Features: 16
+Particle 89 - Fitness: 0.8528571428571429, Number of Features: 16
+Particle 90 - Fitness: 0.8528571428571429, Number of Features: 16
+Particle 91 - Fitness: 0.8514285714285714, Number of Features: 8
+Particle 92 - Fitness: 0.8514285714285714, Number of Features: 8
+Particle 93 - Fitness: 0.8492857142857143, Number of Features: 17
+Particle 94 - Fitness: 0.8478571428571429, Number of Features: 9
+Particle 95 - Fitness: 0.8442857142857143, Number of Features: 10
+Particle 96 - Fitness: 0.8371428571428572, Number of Features: 12
+Particle 97 - Fitness: 0.8335714285714286, Number of Features: 13
+Particle 98 - Fitness: 0.8335714285714286, Number of Features: 13
+Particle 99 - Fitness: 0.8335714285714286, Number of Features: 13
+Particle 100 - Fitness: 0.8228571428571428, Number of Features: 16
+================================================================================
+
+
+================================================================================
+Iteration - 3
+================================================================================
+
+Number of agents: 100
+
+------------- Best Agent ---------------
+Fitness: 0.8992857142857144
+Number of Features: 3
+----------------------------------------
+
+Particle 1 - Fitness: 0.8992857142857144, Number of Features: 3
+Particle 2 - Fitness: 0.8921428571428571, Number of Features: 5
+Particle 3 - Fitness: 0.8885714285714286, Number of Features: 6
+Particle 4 - Fitness: 0.8885714285714286, Number of Features: 6
+Particle 5 - Fitness: 0.8885714285714286, Number of Features: 6
+Particle 6 - Fitness: 0.8885714285714286, Number of Features: 6
+Particle 7 - Fitness: 0.885, Number of Features: 7
+Particle 8 - Fitness: 0.885, Number of Features: 7
+Particle 9 - Fitness: 0.8814285714285715, Number of Features: 8
+Particle 10 - Fitness: 0.8814285714285715, Number of Features: 8
+Particle 11 - Fitness: 0.8814285714285715, Number of Features: 8
+Particle 12 - Fitness: 0.8814285714285715, Number of Features: 8
+Particle 13 - Fitness: 0.8814285714285715, Number of Features: 8
+Particle 14 - Fitness: 0.8814285714285715, Number of Features: 8
+Particle 15 - Fitness: 0.8814285714285715, Number of Features: 8
+Particle 16 - Fitness: 0.8814285714285715, Number of Features: 8
+Particle 17 - Fitness: 0.8814285714285715, Number of Features: 8
+Particle 18 - Fitness: 0.8814285714285715, Number of Features: 8
+Particle 19 - Fitness: 0.8778571428571429, Number of Features: 9
+Particle 20 - Fitness: 0.8778571428571429, Number of Features: 9
+Particle 21 - Fitness: 0.8778571428571429, Number of Features: 9
+Particle 22 - Fitness: 0.8778571428571429, Number of Features: 9
+Particle 23 - Fitness: 0.8778571428571429, Number of Features: 9
+Particle 24 - Fitness: 0.8778571428571429, Number of Features: 9
+Particle 25 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 26 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 27 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 28 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 29 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 30 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 31 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 32 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 33 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 34 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 35 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 36 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 37 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 38 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 39 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 40 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 41 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 42 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 43 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 44 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 45 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 46 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 47 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 48 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 49 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 50 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 51 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 52 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 53 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 54 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 55 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 56 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 57 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 58 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 59 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 60 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 61 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 62 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 63 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 64 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 65 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 66 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 67 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 68 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 69 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 70 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 71 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 72 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 73 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 74 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 75 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 76 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 77 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 78 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 79 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 80 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 81 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 82 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 83 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 84 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 85 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 86 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 87 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 88 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 89 - Fitness: 0.855, Number of Features: 7
+Particle 90 - Fitness: 0.855, Number of Features: 7
+Particle 91 - Fitness: 0.8528571428571429, Number of Features: 16
+Particle 92 - Fitness: 0.8528571428571429, Number of Features: 16
+Particle 93 - Fitness: 0.8528571428571429, Number of Features: 16
+Particle 94 - Fitness: 0.8457142857142858, Number of Features: 18
+Particle 95 - Fitness: 0.8442857142857143, Number of Features: 10
+Particle 96 - Fitness: 0.8407142857142857, Number of Features: 11
+Particle 97 - Fitness: 0.8407142857142857, Number of Features: 11
+Particle 98 - Fitness: 0.8371428571428572, Number of Features: 12
+Particle 99 - Fitness: 0.8300000000000001, Number of Features: 14
+Particle 100 - Fitness: 0.8214285714285714, Number of Features: 8
+================================================================================
+
+
+================================================================================
+Iteration - 4
+================================================================================
+
+Number of agents: 100
+
+------------- Best Agent ---------------
+Fitness: 0.8957142857142857
+Number of Features: 4
+----------------------------------------
+
+Particle 1 - Fitness: 0.8957142857142857, Number of Features: 4
+Particle 2 - Fitness: 0.8921428571428571, Number of Features: 5
+Particle 3 - Fitness: 0.8921428571428571, Number of Features: 5
+Particle 4 - Fitness: 0.8885714285714286, Number of Features: 6
+Particle 5 - Fitness: 0.8885714285714286, Number of Features: 6
+Particle 6 - Fitness: 0.885, Number of Features: 7
+Particle 7 - Fitness: 0.885, Number of Features: 7
+Particle 8 - Fitness: 0.885, Number of Features: 7
+Particle 9 - Fitness: 0.885, Number of Features: 7
+Particle 10 - Fitness: 0.885, Number of Features: 7
+Particle 11 - Fitness: 0.885, Number of Features: 7
+Particle 12 - Fitness: 0.885, Number of Features: 7
+Particle 13 - Fitness: 0.885, Number of Features: 7
+Particle 14 - Fitness: 0.8814285714285715, Number of Features: 8
+Particle 15 - Fitness: 0.8814285714285715, Number of Features: 8
+Particle 16 - Fitness: 0.8814285714285715, Number of Features: 8
+Particle 17 - Fitness: 0.8814285714285715, Number of Features: 8
+Particle 18 - Fitness: 0.8814285714285715, Number of Features: 8
+Particle 19 - Fitness: 0.8814285714285715, Number of Features: 8
+Particle 20 - Fitness: 0.8814285714285715, Number of Features: 8
+Particle 21 - Fitness: 0.8814285714285715, Number of Features: 8
+Particle 22 - Fitness: 0.8814285714285715, Number of Features: 8
+Particle 23 - Fitness: 0.8814285714285715, Number of Features: 8
+Particle 24 - Fitness: 0.8778571428571429, Number of Features: 9
+Particle 25 - Fitness: 0.8778571428571429, Number of Features: 9
+Particle 26 - Fitness: 0.8778571428571429, Number of Features: 9
+Particle 27 - Fitness: 0.8778571428571429, Number of Features: 9
+Particle 28 - Fitness: 0.8778571428571429, Number of Features: 9
+Particle 29 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 30 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 31 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 32 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 33 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 34 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 35 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 36 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 37 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 38 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 39 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 40 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 41 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 42 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 43 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 44 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 45 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 46 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 47 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 48 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 49 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 50 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 51 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 52 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 53 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 54 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 55 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 56 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 57 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 58 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 59 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 60 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 61 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 62 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 63 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 64 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 65 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 66 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 67 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 68 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 69 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 70 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 71 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 72 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 73 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 74 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 75 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 76 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 77 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 78 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 79 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 80 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 81 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 82 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 83 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 84 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 85 - Fitness: 0.8621428571428571, Number of Features: 5
+Particle 86 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 87 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 88 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 89 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 90 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 91 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 92 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 93 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 94 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 95 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 96 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 97 - Fitness: 0.855, Number of Features: 7
+Particle 98 - Fitness: 0.8478571428571429, Number of Features: 9
+Particle 99 - Fitness: 0.8478571428571429, Number of Features: 9
+Particle 100 - Fitness: 0.8071428571428572, Number of Features: 12
+================================================================================
+
+
+================================================================================
+Iteration - 5
+================================================================================
+
+Number of agents: 100
+
+------------- Best Agent ---------------
+Fitness: 0.8921428571428571
+Number of Features: 5
+----------------------------------------
+
+Particle 1 - Fitness: 0.8921428571428571, Number of Features: 5
+Particle 2 - Fitness: 0.8885714285714286, Number of Features: 6
+Particle 3 - Fitness: 0.8885714285714286, Number of Features: 6
+Particle 4 - Fitness: 0.8885714285714286, Number of Features: 6
+Particle 5 - Fitness: 0.8885714285714286, Number of Features: 6
+Particle 6 - Fitness: 0.885, Number of Features: 7
+Particle 7 - Fitness: 0.885, Number of Features: 7
+Particle 8 - Fitness: 0.885, Number of Features: 7
+Particle 9 - Fitness: 0.885, Number of Features: 7
+Particle 10 - Fitness: 0.885, Number of Features: 7
+Particle 11 - Fitness: 0.8814285714285715, Number of Features: 8
+Particle 12 - Fitness: 0.8814285714285715, Number of Features: 8
+Particle 13 - Fitness: 0.8814285714285715, Number of Features: 8
+Particle 14 - Fitness: 0.8814285714285715, Number of Features: 8
+Particle 15 - Fitness: 0.8814285714285715, Number of Features: 8
+Particle 16 - Fitness: 0.8814285714285715, Number of Features: 8
+Particle 17 - Fitness: 0.8814285714285715, Number of Features: 8
+Particle 18 - Fitness: 0.8814285714285715, Number of Features: 8
+Particle 19 - Fitness: 0.8814285714285715, Number of Features: 8
+Particle 20 - Fitness: 0.8778571428571429, Number of Features: 9
+Particle 21 - Fitness: 0.8778571428571429, Number of Features: 9
+Particle 22 - Fitness: 0.8778571428571429, Number of Features: 9
+Particle 23 - Fitness: 0.8778571428571429, Number of Features: 9
+Particle 24 - Fitness: 0.8778571428571429, Number of Features: 9
+Particle 25 - Fitness: 0.8778571428571429, Number of Features: 9
+Particle 26 - Fitness: 0.8778571428571429, Number of Features: 9
+Particle 27 - Fitness: 0.8778571428571429, Number of Features: 9
+Particle 28 - Fitness: 0.8778571428571429, Number of Features: 9
+Particle 29 - Fitness: 0.8778571428571429, Number of Features: 9
+Particle 30 - Fitness: 0.8778571428571429, Number of Features: 9
+Particle 31 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 32 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 33 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 34 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 35 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 36 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 37 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 38 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 39 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 40 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 41 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 42 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 43 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 44 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 45 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 46 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 47 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 48 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 49 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 50 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 51 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 52 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 53 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 54 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 55 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 56 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 57 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 58 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 59 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 60 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 61 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 62 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 63 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 64 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 65 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 66 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 67 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 68 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 69 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 70 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 71 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 72 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 73 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 74 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 75 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 76 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 77 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 78 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 79 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 80 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 81 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 82 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 83 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 84 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 85 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 86 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 87 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 88 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 89 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 90 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 91 - Fitness: 0.8528571428571429, Number of Features: 16
+Particle 92 - Fitness: 0.8514285714285714, Number of Features: 8
+Particle 93 - Fitness: 0.8492857142857143, Number of Features: 17
+Particle 94 - Fitness: 0.8492857142857143, Number of Features: 17
+Particle 95 - Fitness: 0.8478571428571429, Number of Features: 9
+Particle 96 - Fitness: 0.8478571428571429, Number of Features: 9
+Particle 97 - Fitness: 0.8442857142857143, Number of Features: 10
+Particle 98 - Fitness: 0.8407142857142857, Number of Features: 11
+Particle 99 - Fitness: 0.8371428571428572, Number of Features: 12
+Particle 100 - Fitness: 0.8371428571428572, Number of Features: 12
+================================================================================
+
+
+================================================================================
+Iteration - 6
+================================================================================
+
+Number of agents: 100
+
+------------- Best Agent ---------------
+Fitness: 0.8992857142857144
+Number of Features: 3
+----------------------------------------
+
+Particle 1 - Fitness: 0.8992857142857144, Number of Features: 3
+Particle 2 - Fitness: 0.8885714285714286, Number of Features: 6
+Particle 3 - Fitness: 0.8885714285714286, Number of Features: 6
+Particle 4 - Fitness: 0.8885714285714286, Number of Features: 6
+Particle 5 - Fitness: 0.885, Number of Features: 7
+Particle 6 - Fitness: 0.885, Number of Features: 7
+Particle 7 - Fitness: 0.885, Number of Features: 7
+Particle 8 - Fitness: 0.885, Number of Features: 7
+Particle 9 - Fitness: 0.8814285714285715, Number of Features: 8
+Particle 10 - Fitness: 0.8814285714285715, Number of Features: 8
+Particle 11 - Fitness: 0.8814285714285715, Number of Features: 8
+Particle 12 - Fitness: 0.8814285714285715, Number of Features: 8
+Particle 13 - Fitness: 0.8814285714285715, Number of Features: 8
+Particle 14 - Fitness: 0.8814285714285715, Number of Features: 8
+Particle 15 - Fitness: 0.8814285714285715, Number of Features: 8
+Particle 16 - Fitness: 0.8814285714285715, Number of Features: 8
+Particle 17 - Fitness: 0.8814285714285715, Number of Features: 8
+Particle 18 - Fitness: 0.8778571428571429, Number of Features: 9
+Particle 19 - Fitness: 0.8778571428571429, Number of Features: 9
+Particle 20 - Fitness: 0.8778571428571429, Number of Features: 9
+Particle 21 - Fitness: 0.8778571428571429, Number of Features: 9
+Particle 22 - Fitness: 0.8778571428571429, Number of Features: 9
+Particle 23 - Fitness: 0.8778571428571429, Number of Features: 9
+Particle 24 - Fitness: 0.8778571428571429, Number of Features: 9
+Particle 25 - Fitness: 0.8778571428571429, Number of Features: 9
+Particle 26 - Fitness: 0.8778571428571429, Number of Features: 9
+Particle 27 - Fitness: 0.8778571428571429, Number of Features: 9
+Particle 28 - Fitness: 0.8778571428571429, Number of Features: 9
+Particle 29 - Fitness: 0.8778571428571429, Number of Features: 9
+Particle 30 - Fitness: 0.8778571428571429, Number of Features: 9
+Particle 31 - Fitness: 0.8778571428571429, Number of Features: 9
+Particle 32 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 33 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 34 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 35 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 36 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 37 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 38 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 39 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 40 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 41 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 42 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 43 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 44 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 45 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 46 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 47 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 48 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 49 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 50 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 51 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 52 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 53 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 54 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 55 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 56 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 57 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 58 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 59 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 60 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 61 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 62 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 63 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 64 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 65 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 66 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 67 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 68 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 69 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 70 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 71 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 72 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 73 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 74 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 75 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 76 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 77 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 78 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 79 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 80 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 81 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 82 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 83 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 84 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 85 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 86 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 87 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 88 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 89 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 90 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 91 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 92 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 93 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 94 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 95 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 96 - Fitness: 0.855, Number of Features: 7
+Particle 97 - Fitness: 0.8514285714285714, Number of Features: 8
+Particle 98 - Fitness: 0.8478571428571429, Number of Features: 9
+Particle 99 - Fitness: 0.8442857142857143, Number of Features: 10
+Particle 100 - Fitness: 0.8407142857142857, Number of Features: 11
+================================================================================
+
+
+================================================================================
+Iteration - 7
+================================================================================
+
+Number of agents: 100
+
+------------- Best Agent ---------------
+Fitness: 0.8921428571428571
+Number of Features: 5
+----------------------------------------
+
+Particle 1 - Fitness: 0.8921428571428571, Number of Features: 5
+Particle 2 - Fitness: 0.885, Number of Features: 7
+Particle 3 - Fitness: 0.885, Number of Features: 7
+Particle 4 - Fitness: 0.885, Number of Features: 7
+Particle 5 - Fitness: 0.8814285714285715, Number of Features: 8
+Particle 6 - Fitness: 0.8814285714285715, Number of Features: 8
+Particle 7 - Fitness: 0.8814285714285715, Number of Features: 8
+Particle 8 - Fitness: 0.8814285714285715, Number of Features: 8
+Particle 9 - Fitness: 0.8814285714285715, Number of Features: 8
+Particle 10 - Fitness: 0.8814285714285715, Number of Features: 8
+Particle 11 - Fitness: 0.8814285714285715, Number of Features: 8
+Particle 12 - Fitness: 0.8814285714285715, Number of Features: 8
+Particle 13 - Fitness: 0.8814285714285715, Number of Features: 8
+Particle 14 - Fitness: 0.8814285714285715, Number of Features: 8
+Particle 15 - Fitness: 0.8814285714285715, Number of Features: 8
+Particle 16 - Fitness: 0.8814285714285715, Number of Features: 8
+Particle 17 - Fitness: 0.8814285714285715, Number of Features: 8
+Particle 18 - Fitness: 0.8778571428571429, Number of Features: 9
+Particle 19 - Fitness: 0.8778571428571429, Number of Features: 9
+Particle 20 - Fitness: 0.8778571428571429, Number of Features: 9
+Particle 21 - Fitness: 0.8778571428571429, Number of Features: 9
+Particle 22 - Fitness: 0.8778571428571429, Number of Features: 9
+Particle 23 - Fitness: 0.8778571428571429, Number of Features: 9
+Particle 24 - Fitness: 0.8778571428571429, Number of Features: 9
+Particle 25 - Fitness: 0.8778571428571429, Number of Features: 9
+Particle 26 - Fitness: 0.8778571428571429, Number of Features: 9
+Particle 27 - Fitness: 0.8778571428571429, Number of Features: 9
+Particle 28 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 29 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 30 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 31 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 32 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 33 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 34 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 35 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 36 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 37 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 38 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 39 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 40 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 41 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 42 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 43 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 44 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 45 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 46 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 47 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 48 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 49 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 50 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 51 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 52 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 53 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 54 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 55 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 56 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 57 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 58 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 59 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 60 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 61 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 62 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 63 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 64 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 65 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 66 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 67 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 68 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 69 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 70 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 71 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 72 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 73 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 74 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 75 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 76 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 77 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 78 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 79 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 80 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 81 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 82 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 83 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 84 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 85 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 86 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 87 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 88 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 89 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 90 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 91 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 92 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 93 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 94 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 95 - Fitness: 0.855, Number of Features: 7
+Particle 96 - Fitness: 0.8528571428571429, Number of Features: 16
+Particle 97 - Fitness: 0.8492857142857143, Number of Features: 17
+Particle 98 - Fitness: 0.8478571428571429, Number of Features: 9
+Particle 99 - Fitness: 0.8228571428571428, Number of Features: 16
+Particle 100 - Fitness: 0.8214285714285714, Number of Features: 8
+================================================================================
+
+
+================================================================================
+Iteration - 8
+================================================================================
+
+Number of agents: 100
+
+------------- Best Agent ---------------
+Fitness: 0.8885714285714286
+Number of Features: 6
+----------------------------------------
+
+Particle 1 - Fitness: 0.8885714285714286, Number of Features: 6
+Particle 2 - Fitness: 0.8885714285714286, Number of Features: 6
+Particle 3 - Fitness: 0.8885714285714286, Number of Features: 6
+Particle 4 - Fitness: 0.8885714285714286, Number of Features: 6
+Particle 5 - Fitness: 0.8814285714285715, Number of Features: 8
+Particle 6 - Fitness: 0.8814285714285715, Number of Features: 8
+Particle 7 - Fitness: 0.8814285714285715, Number of Features: 8
+Particle 8 - Fitness: 0.8814285714285715, Number of Features: 8
+Particle 9 - Fitness: 0.8814285714285715, Number of Features: 8
+Particle 10 - Fitness: 0.8814285714285715, Number of Features: 8
+Particle 11 - Fitness: 0.8814285714285715, Number of Features: 8
+Particle 12 - Fitness: 0.8814285714285715, Number of Features: 8
+Particle 13 - Fitness: 0.8778571428571429, Number of Features: 9
+Particle 14 - Fitness: 0.8778571428571429, Number of Features: 9
+Particle 15 - Fitness: 0.8778571428571429, Number of Features: 9
+Particle 16 - Fitness: 0.8778571428571429, Number of Features: 9
+Particle 17 - Fitness: 0.8778571428571429, Number of Features: 9
+Particle 18 - Fitness: 0.8778571428571429, Number of Features: 9
+Particle 19 - Fitness: 0.8778571428571429, Number of Features: 9
+Particle 20 - Fitness: 0.8778571428571429, Number of Features: 9
+Particle 21 - Fitness: 0.8778571428571429, Number of Features: 9
+Particle 22 - Fitness: 0.8778571428571429, Number of Features: 9
+Particle 23 - Fitness: 0.8778571428571429, Number of Features: 9
+Particle 24 - Fitness: 0.8778571428571429, Number of Features: 9
+Particle 25 - Fitness: 0.8778571428571429, Number of Features: 9
+Particle 26 - Fitness: 0.8778571428571429, Number of Features: 9
+Particle 27 - Fitness: 0.8778571428571429, Number of Features: 9
+Particle 28 - Fitness: 0.8778571428571429, Number of Features: 9
+Particle 29 - Fitness: 0.8778571428571429, Number of Features: 9
+Particle 30 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 31 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 32 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 33 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 34 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 35 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 36 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 37 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 38 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 39 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 40 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 41 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 42 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 43 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 44 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 45 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 46 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 47 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 48 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 49 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 50 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 51 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 52 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 53 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 54 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 55 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 56 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 57 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 58 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 59 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 60 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 61 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 62 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 63 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 64 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 65 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 66 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 67 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 68 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 69 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 70 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 71 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 72 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 73 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 74 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 75 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 76 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 77 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 78 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 79 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 80 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 81 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 82 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 83 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 84 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 85 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 86 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 87 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 88 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 89 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 90 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 91 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 92 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 93 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 94 - Fitness: 0.8528571428571429, Number of Features: 16
+Particle 95 - Fitness: 0.8528571428571429, Number of Features: 16
+Particle 96 - Fitness: 0.8492857142857143, Number of Features: 17
+Particle 97 - Fitness: 0.8457142857142858, Number of Features: 18
+Particle 98 - Fitness: 0.8442857142857143, Number of Features: 10
+Particle 99 - Fitness: 0.8407142857142857, Number of Features: 11
+Particle 100 - Fitness: 0.8335714285714286, Number of Features: 13
+================================================================================
+
+
+================================================================================
+Iteration - 9
+================================================================================
+
+Number of agents: 100
+
+------------- Best Agent ---------------
+Fitness: 0.8921428571428571
+Number of Features: 5
+----------------------------------------
+
+Particle 1 - Fitness: 0.8921428571428571, Number of Features: 5
+Particle 2 - Fitness: 0.8885714285714286, Number of Features: 6
+Particle 3 - Fitness: 0.885, Number of Features: 7
+Particle 4 - Fitness: 0.885, Number of Features: 7
+Particle 5 - Fitness: 0.885, Number of Features: 7
+Particle 6 - Fitness: 0.8814285714285715, Number of Features: 8
+Particle 7 - Fitness: 0.8814285714285715, Number of Features: 8
+Particle 8 - Fitness: 0.8814285714285715, Number of Features: 8
+Particle 9 - Fitness: 0.8814285714285715, Number of Features: 8
+Particle 10 - Fitness: 0.8814285714285715, Number of Features: 8
+Particle 11 - Fitness: 0.8814285714285715, Number of Features: 8
+Particle 12 - Fitness: 0.8778571428571429, Number of Features: 9
+Particle 13 - Fitness: 0.8778571428571429, Number of Features: 9
+Particle 14 - Fitness: 0.8778571428571429, Number of Features: 9
+Particle 15 - Fitness: 0.8778571428571429, Number of Features: 9
+Particle 16 - Fitness: 0.8778571428571429, Number of Features: 9
+Particle 17 - Fitness: 0.8778571428571429, Number of Features: 9
+Particle 18 - Fitness: 0.8778571428571429, Number of Features: 9
+Particle 19 - Fitness: 0.8778571428571429, Number of Features: 9
+Particle 20 - Fitness: 0.8778571428571429, Number of Features: 9
+Particle 21 - Fitness: 0.8778571428571429, Number of Features: 9
+Particle 22 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 23 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 24 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 25 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 26 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 27 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 28 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 29 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 30 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 31 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 32 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 33 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 34 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 35 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 36 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 37 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 38 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 39 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 40 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 41 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 42 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 43 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 44 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 45 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 46 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 47 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 48 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 49 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 50 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 51 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 52 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 53 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 54 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 55 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 56 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 57 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 58 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 59 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 60 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 61 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 62 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 63 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 64 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 65 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 66 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 67 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 68 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 69 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 70 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 71 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 72 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 73 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 74 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 75 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 76 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 77 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 78 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 79 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 80 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 81 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 82 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 83 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 84 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 85 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 86 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 87 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 88 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 89 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 90 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 91 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 92 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 93 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 94 - Fitness: 0.8492857142857143, Number of Features: 17
+Particle 95 - Fitness: 0.8492857142857143, Number of Features: 17
+Particle 96 - Fitness: 0.8407142857142857, Number of Features: 11
+Particle 97 - Fitness: 0.8407142857142857, Number of Features: 11
+Particle 98 - Fitness: 0.8407142857142857, Number of Features: 11
+Particle 99 - Fitness: 0.8371428571428572, Number of Features: 12
+Particle 100 - Fitness: 0.8178571428571428, Number of Features: 9
+================================================================================
+
+
+================================================================================
+Iteration - 10
+================================================================================
+
+Number of agents: 100
+
+------------- Best Agent ---------------
+Fitness: 0.8921428571428571
+Number of Features: 5
+----------------------------------------
+
+Particle 1 - Fitness: 0.8921428571428571, Number of Features: 5
+Particle 2 - Fitness: 0.8885714285714286, Number of Features: 6
+Particle 3 - Fitness: 0.8885714285714286, Number of Features: 6
+Particle 4 - Fitness: 0.8885714285714286, Number of Features: 6
+Particle 5 - Fitness: 0.885, Number of Features: 7
+Particle 6 - Fitness: 0.885, Number of Features: 7
+Particle 7 - Fitness: 0.8814285714285715, Number of Features: 8
+Particle 8 - Fitness: 0.8814285714285715, Number of Features: 8
+Particle 9 - Fitness: 0.8814285714285715, Number of Features: 8
+Particle 10 - Fitness: 0.8814285714285715, Number of Features: 8
+Particle 11 - Fitness: 0.8778571428571429, Number of Features: 9
+Particle 12 - Fitness: 0.8778571428571429, Number of Features: 9
+Particle 13 - Fitness: 0.8778571428571429, Number of Features: 9
+Particle 14 - Fitness: 0.8778571428571429, Number of Features: 9
+Particle 15 - Fitness: 0.8778571428571429, Number of Features: 9
+Particle 16 - Fitness: 0.8778571428571429, Number of Features: 9
+Particle 17 - Fitness: 0.8778571428571429, Number of Features: 9
+Particle 18 - Fitness: 0.8778571428571429, Number of Features: 9
+Particle 19 - Fitness: 0.8778571428571429, Number of Features: 9
+Particle 20 - Fitness: 0.8778571428571429, Number of Features: 9
+Particle 21 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 22 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 23 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 24 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 25 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 26 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 27 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 28 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 29 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 30 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 31 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 32 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 33 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 34 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 35 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 36 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 37 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 38 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 39 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 40 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 41 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 42 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 43 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 44 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 45 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 46 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 47 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 48 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 49 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 50 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 51 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 52 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 53 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 54 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 55 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 56 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 57 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 58 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 59 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 60 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 61 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 62 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 63 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 64 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 65 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 66 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 67 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 68 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 69 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 70 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 71 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 72 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 73 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 74 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 75 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 76 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 77 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 78 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 79 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 80 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 81 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 82 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 83 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 84 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 85 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 86 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 87 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 88 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 89 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 90 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 91 - Fitness: 0.8528571428571429, Number of Features: 16
+Particle 92 - Fitness: 0.8528571428571429, Number of Features: 16
+Particle 93 - Fitness: 0.8528571428571429, Number of Features: 16
+Particle 94 - Fitness: 0.8492857142857143, Number of Features: 17
+Particle 95 - Fitness: 0.8492857142857143, Number of Features: 17
+Particle 96 - Fitness: 0.8442857142857143, Number of Features: 10
+Particle 97 - Fitness: 0.8442857142857143, Number of Features: 10
+Particle 98 - Fitness: 0.8407142857142857, Number of Features: 11
+Particle 99 - Fitness: 0.8142857142857143, Number of Features: 10
+Particle 100 - Fitness: 0.8107142857142857, Number of Features: 11
+================================================================================
+
+
+================================================================================
+Iteration - 11
+================================================================================
+
+Number of agents: 100
+
+------------- Best Agent ---------------
+Fitness: 0.8921428571428571
+Number of Features: 5
+----------------------------------------
+
+Particle 1 - Fitness: 0.8921428571428571, Number of Features: 5
+Particle 2 - Fitness: 0.885, Number of Features: 7
+Particle 3 - Fitness: 0.885, Number of Features: 7
+Particle 4 - Fitness: 0.8814285714285715, Number of Features: 8
+Particle 5 - Fitness: 0.8814285714285715, Number of Features: 8
+Particle 6 - Fitness: 0.8814285714285715, Number of Features: 8
+Particle 7 - Fitness: 0.8814285714285715, Number of Features: 8
+Particle 8 - Fitness: 0.8814285714285715, Number of Features: 8
+Particle 9 - Fitness: 0.8814285714285715, Number of Features: 8
+Particle 10 - Fitness: 0.8814285714285715, Number of Features: 8
+Particle 11 - Fitness: 0.8778571428571429, Number of Features: 9
+Particle 12 - Fitness: 0.8778571428571429, Number of Features: 9
+Particle 13 - Fitness: 0.8778571428571429, Number of Features: 9
+Particle 14 - Fitness: 0.8778571428571429, Number of Features: 9
+Particle 15 - Fitness: 0.8778571428571429, Number of Features: 9
+Particle 16 - Fitness: 0.8778571428571429, Number of Features: 9
+Particle 17 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 18 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 19 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 20 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 21 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 22 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 23 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 24 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 25 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 26 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 27 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 28 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 29 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 30 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 31 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 32 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 33 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 34 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 35 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 36 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 37 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 38 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 39 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 40 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 41 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 42 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 43 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 44 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 45 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 46 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 47 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 48 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 49 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 50 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 51 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 52 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 53 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 54 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 55 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 56 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 57 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 58 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 59 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 60 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 61 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 62 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 63 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 64 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 65 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 66 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 67 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 68 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 69 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 70 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 71 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 72 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 73 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 74 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 75 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 76 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 77 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 78 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 79 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 80 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 81 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 82 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 83 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 84 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 85 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 86 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 87 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 88 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 89 - Fitness: 0.8585714285714285, Number of Features: 6
+Particle 90 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 91 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 92 - Fitness: 0.8528571428571429, Number of Features: 16
+Particle 93 - Fitness: 0.8492857142857143, Number of Features: 17
+Particle 94 - Fitness: 0.8457142857142858, Number of Features: 18
+Particle 95 - Fitness: 0.8457142857142858, Number of Features: 18
+Particle 96 - Fitness: 0.8457142857142858, Number of Features: 18
+Particle 97 - Fitness: 0.8457142857142858, Number of Features: 18
+Particle 98 - Fitness: 0.8421428571428572, Number of Features: 19
+Particle 99 - Fitness: 0.8371428571428572, Number of Features: 12
+Particle 100 - Fitness: 0.7964285714285714, Number of Features: 15
+================================================================================
+
+
+================================================================================
+Iteration - 12
+================================================================================
+
+Number of agents: 100
+
+------------- Best Agent ---------------
+Fitness: 0.9007142857142858
+Number of Features: 11
+----------------------------------------
+
+Particle 1 - Fitness: 0.9007142857142858, Number of Features: 11
+Particle 2 - Fitness: 0.885, Number of Features: 7
+Particle 3 - Fitness: 0.885, Number of Features: 7
+Particle 4 - Fitness: 0.885, Number of Features: 7
+Particle 5 - Fitness: 0.8814285714285715, Number of Features: 8
+Particle 6 - Fitness: 0.8814285714285715, Number of Features: 8
+Particle 7 - Fitness: 0.8814285714285715, Number of Features: 8
+Particle 8 - Fitness: 0.8814285714285715, Number of Features: 8
+Particle 9 - Fitness: 0.8814285714285715, Number of Features: 8
+Particle 10 - Fitness: 0.8778571428571429, Number of Features: 9
+Particle 11 - Fitness: 0.8778571428571429, Number of Features: 9
+Particle 12 - Fitness: 0.8778571428571429, Number of Features: 9
+Particle 13 - Fitness: 0.8778571428571429, Number of Features: 9
+Particle 14 - Fitness: 0.8778571428571429, Number of Features: 9
+Particle 15 - Fitness: 0.8778571428571429, Number of Features: 9
+Particle 16 - Fitness: 0.8778571428571429, Number of Features: 9
+Particle 17 - Fitness: 0.8778571428571429, Number of Features: 9
+Particle 18 - Fitness: 0.8778571428571429, Number of Features: 9
+Particle 19 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 20 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 21 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 22 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 23 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 24 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 25 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 26 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 27 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 28 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 29 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 30 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 31 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 32 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 33 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 34 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 35 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 36 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 37 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 38 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 39 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 40 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 41 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 42 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 43 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 44 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 45 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 46 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 47 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 48 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 49 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 50 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 51 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 52 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 53 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 54 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 55 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 56 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 57 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 58 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 59 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 60 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 61 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 62 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 63 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 64 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 65 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 66 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 67 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 68 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 69 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 70 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 71 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 72 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 73 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 74 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 75 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 76 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 77 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 78 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 79 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 80 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 81 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 82 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 83 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 84 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 85 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 86 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 87 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 88 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 89 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 90 - Fitness: 0.855, Number of Features: 7
+Particle 91 - Fitness: 0.8528571428571429, Number of Features: 16
+Particle 92 - Fitness: 0.8528571428571429, Number of Features: 16
+Particle 93 - Fitness: 0.8514285714285714, Number of Features: 8
+Particle 94 - Fitness: 0.8492857142857143, Number of Features: 17
+Particle 95 - Fitness: 0.8492857142857143, Number of Features: 17
+Particle 96 - Fitness: 0.8492857142857143, Number of Features: 17
+Particle 97 - Fitness: 0.8478571428571429, Number of Features: 9
+Particle 98 - Fitness: 0.8407142857142857, Number of Features: 11
+Particle 99 - Fitness: 0.8300000000000001, Number of Features: 14
+Particle 100 - Fitness: 0.8264285714285714, Number of Features: 15
+================================================================================
+
+
+================================================================================
+Iteration - 13
+================================================================================
+
+Number of agents: 100
+
+------------- Best Agent ---------------
+Fitness: 0.885
+Number of Features: 7
+----------------------------------------
+
+Particle 1 - Fitness: 0.885, Number of Features: 7
+Particle 2 - Fitness: 0.885, Number of Features: 7
+Particle 3 - Fitness: 0.8814285714285715, Number of Features: 8
+Particle 4 - Fitness: 0.8814285714285715, Number of Features: 8
+Particle 5 - Fitness: 0.8814285714285715, Number of Features: 8
+Particle 6 - Fitness: 0.8814285714285715, Number of Features: 8
+Particle 7 - Fitness: 0.8778571428571429, Number of Features: 9
+Particle 8 - Fitness: 0.8778571428571429, Number of Features: 9
+Particle 9 - Fitness: 0.8778571428571429, Number of Features: 9
+Particle 10 - Fitness: 0.8778571428571429, Number of Features: 9
+Particle 11 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 12 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 13 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 14 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 15 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 16 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 17 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 18 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 19 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 20 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 21 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 22 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 23 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 24 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 25 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 26 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 27 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 28 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 29 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 30 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 31 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 32 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 33 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 34 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 35 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 36 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 37 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 38 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 39 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 40 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 41 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 42 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 43 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 44 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 45 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 46 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 47 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 48 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 49 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 50 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 51 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 52 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 53 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 54 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 55 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 56 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 57 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 58 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 59 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 60 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 61 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 62 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 63 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 64 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 65 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 66 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 67 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 68 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 69 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 70 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 71 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 72 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 73 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 74 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 75 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 76 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 77 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 78 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 79 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 80 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 81 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 82 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 83 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 84 - Fitness: 0.8528571428571429, Number of Features: 16
+Particle 85 - Fitness: 0.8528571428571429, Number of Features: 16
+Particle 86 - Fitness: 0.8528571428571429, Number of Features: 16
+Particle 87 - Fitness: 0.8528571428571429, Number of Features: 16
+Particle 88 - Fitness: 0.8528571428571429, Number of Features: 16
+Particle 89 - Fitness: 0.8528571428571429, Number of Features: 16
+Particle 90 - Fitness: 0.8528571428571429, Number of Features: 16
+Particle 91 - Fitness: 0.8528571428571429, Number of Features: 16
+Particle 92 - Fitness: 0.8492857142857143, Number of Features: 17
+Particle 93 - Fitness: 0.8492857142857143, Number of Features: 17
+Particle 94 - Fitness: 0.8457142857142858, Number of Features: 18
+Particle 95 - Fitness: 0.8421428571428572, Number of Features: 19
+Particle 96 - Fitness: 0.8407142857142857, Number of Features: 11
+Particle 97 - Fitness: 0.8371428571428572, Number of Features: 12
+Particle 98 - Fitness: 0.8335714285714286, Number of Features: 13
+Particle 99 - Fitness: 0.8335714285714286, Number of Features: 13
+Particle 100 - Fitness: 0.8264285714285714, Number of Features: 15
+================================================================================
+
+
+================================================================================
+Iteration - 14
+================================================================================
+
+Number of agents: 100
+
+------------- Best Agent ---------------
+Fitness: 0.8921428571428571
+Number of Features: 5
+----------------------------------------
+
+Particle 1 - Fitness: 0.8921428571428571, Number of Features: 5
+Particle 2 - Fitness: 0.8814285714285715, Number of Features: 8
+Particle 3 - Fitness: 0.8814285714285715, Number of Features: 8
+Particle 4 - Fitness: 0.8778571428571429, Number of Features: 9
+Particle 5 - Fitness: 0.8778571428571429, Number of Features: 9
+Particle 6 - Fitness: 0.8778571428571429, Number of Features: 9
+Particle 7 - Fitness: 0.8778571428571429, Number of Features: 9
+Particle 8 - Fitness: 0.8778571428571429, Number of Features: 9
+Particle 9 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 10 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 11 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 12 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 13 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 14 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 15 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 16 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 17 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 18 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 19 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 20 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 21 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 22 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 23 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 24 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 25 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 26 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 27 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 28 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 29 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 30 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 31 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 32 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 33 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 34 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 35 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 36 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 37 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 38 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 39 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 40 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 41 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 42 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 43 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 44 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 45 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 46 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 47 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 48 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 49 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 50 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 51 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 52 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 53 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 54 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 55 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 56 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 57 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 58 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 59 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 60 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 61 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 62 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 63 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 64 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 65 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 66 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 67 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 68 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 69 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 70 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 71 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 72 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 73 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 74 - Fitness: 0.855, Number of Features: 7
+Particle 75 - Fitness: 0.8528571428571429, Number of Features: 16
+Particle 76 - Fitness: 0.8528571428571429, Number of Features: 16
+Particle 77 - Fitness: 0.8528571428571429, Number of Features: 16
+Particle 78 - Fitness: 0.8528571428571429, Number of Features: 16
+Particle 79 - Fitness: 0.8528571428571429, Number of Features: 16
+Particle 80 - Fitness: 0.8528571428571429, Number of Features: 16
+Particle 81 - Fitness: 0.8528571428571429, Number of Features: 16
+Particle 82 - Fitness: 0.8528571428571429, Number of Features: 16
+Particle 83 - Fitness: 0.8528571428571429, Number of Features: 16
+Particle 84 - Fitness: 0.8528571428571429, Number of Features: 16
+Particle 85 - Fitness: 0.8528571428571429, Number of Features: 16
+Particle 86 - Fitness: 0.8528571428571429, Number of Features: 16
+Particle 87 - Fitness: 0.8528571428571429, Number of Features: 16
+Particle 88 - Fitness: 0.8492857142857143, Number of Features: 17
+Particle 89 - Fitness: 0.8492857142857143, Number of Features: 17
+Particle 90 - Fitness: 0.8492857142857143, Number of Features: 17
+Particle 91 - Fitness: 0.8457142857142858, Number of Features: 18
+Particle 92 - Fitness: 0.8457142857142858, Number of Features: 18
+Particle 93 - Fitness: 0.8421428571428572, Number of Features: 19
+Particle 94 - Fitness: 0.8407142857142857, Number of Features: 11
+Particle 95 - Fitness: 0.8371428571428572, Number of Features: 12
+Particle 96 - Fitness: 0.8371428571428572, Number of Features: 12
+Particle 97 - Fitness: 0.8335714285714286, Number of Features: 13
+Particle 98 - Fitness: 0.8300000000000001, Number of Features: 14
+Particle 99 - Fitness: 0.8264285714285714, Number of Features: 15
+Particle 100 - Fitness: 0.7964285714285714, Number of Features: 15
+================================================================================
+
+
+================================================================================
+Iteration - 15
+================================================================================
+
+Number of agents: 100
+
+------------- Best Agent ---------------
+Fitness: 0.885
+Number of Features: 7
+----------------------------------------
+
+Particle 1 - Fitness: 0.885, Number of Features: 7
+Particle 2 - Fitness: 0.8814285714285715, Number of Features: 8
+Particle 3 - Fitness: 0.8814285714285715, Number of Features: 8
+Particle 4 - Fitness: 0.8778571428571429, Number of Features: 9
+Particle 5 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 6 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 7 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 8 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 9 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 10 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 11 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 12 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 13 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 14 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 15 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 16 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 17 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 18 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 19 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 20 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 21 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 22 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 23 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 24 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 25 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 26 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 27 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 28 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 29 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 30 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 31 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 32 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 33 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 34 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 35 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 36 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 37 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 38 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 39 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 40 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 41 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 42 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 43 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 44 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 45 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 46 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 47 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 48 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 49 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 50 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 51 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 52 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 53 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 54 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 55 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 56 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 57 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 58 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 59 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 60 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 61 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 62 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 63 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 64 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 65 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 66 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 67 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 68 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 69 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 70 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 71 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 72 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 73 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 74 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 75 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 76 - Fitness: 0.855, Number of Features: 7
+Particle 77 - Fitness: 0.8528571428571429, Number of Features: 16
+Particle 78 - Fitness: 0.8528571428571429, Number of Features: 16
+Particle 79 - Fitness: 0.8528571428571429, Number of Features: 16
+Particle 80 - Fitness: 0.8528571428571429, Number of Features: 16
+Particle 81 - Fitness: 0.8528571428571429, Number of Features: 16
+Particle 82 - Fitness: 0.8528571428571429, Number of Features: 16
+Particle 83 - Fitness: 0.8528571428571429, Number of Features: 16
+Particle 84 - Fitness: 0.8528571428571429, Number of Features: 16
+Particle 85 - Fitness: 0.8528571428571429, Number of Features: 16
+Particle 86 - Fitness: 0.8492857142857143, Number of Features: 17
+Particle 87 - Fitness: 0.8492857142857143, Number of Features: 17
+Particle 88 - Fitness: 0.8492857142857143, Number of Features: 17
+Particle 89 - Fitness: 0.8492857142857143, Number of Features: 17
+Particle 90 - Fitness: 0.8492857142857143, Number of Features: 17
+Particle 91 - Fitness: 0.8492857142857143, Number of Features: 17
+Particle 92 - Fitness: 0.8457142857142858, Number of Features: 18
+Particle 93 - Fitness: 0.8421428571428572, Number of Features: 19
+Particle 94 - Fitness: 0.8421428571428572, Number of Features: 19
+Particle 95 - Fitness: 0.8421428571428572, Number of Features: 19
+Particle 96 - Fitness: 0.8407142857142857, Number of Features: 11
+Particle 97 - Fitness: 0.8371428571428572, Number of Features: 12
+Particle 98 - Fitness: 0.8300000000000001, Number of Features: 14
+Particle 99 - Fitness: 0.8264285714285714, Number of Features: 15
+Particle 100 - Fitness: 0.8107142857142857, Number of Features: 11
+================================================================================
+
+
+================================================================================
+Iteration - 16
+================================================================================
+
+Number of agents: 100
+
+------------- Best Agent ---------------
+Fitness: 0.8814285714285715
+Number of Features: 8
+----------------------------------------
+
+Particle 1 - Fitness: 0.8814285714285715, Number of Features: 8
+Particle 2 - Fitness: 0.8814285714285715, Number of Features: 8
+Particle 3 - Fitness: 0.8778571428571429, Number of Features: 9
+Particle 4 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 5 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 6 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 7 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 8 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 9 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 10 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 11 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 12 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 13 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 14 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 15 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 16 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 17 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 18 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 19 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 20 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 21 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 22 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 23 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 24 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 25 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 26 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 27 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 28 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 29 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 30 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 31 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 32 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 33 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 34 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 35 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 36 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 37 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 38 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 39 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 40 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 41 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 42 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 43 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 44 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 45 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 46 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 47 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 48 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 49 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 50 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 51 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 52 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 53 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 54 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 55 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 56 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 57 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 58 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 59 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 60 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 61 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 62 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 63 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 64 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 65 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 66 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 67 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 68 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 69 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 70 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 71 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 72 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 73 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 74 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 75 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 76 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 77 - Fitness: 0.8528571428571429, Number of Features: 16
+Particle 78 - Fitness: 0.8528571428571429, Number of Features: 16
+Particle 79 - Fitness: 0.8528571428571429, Number of Features: 16
+Particle 80 - Fitness: 0.8528571428571429, Number of Features: 16
+Particle 81 - Fitness: 0.8528571428571429, Number of Features: 16
+Particle 82 - Fitness: 0.8528571428571429, Number of Features: 16
+Particle 83 - Fitness: 0.8528571428571429, Number of Features: 16
+Particle 84 - Fitness: 0.8528571428571429, Number of Features: 16
+Particle 85 - Fitness: 0.8528571428571429, Number of Features: 16
+Particle 86 - Fitness: 0.8528571428571429, Number of Features: 16
+Particle 87 - Fitness: 0.8492857142857143, Number of Features: 17
+Particle 88 - Fitness: 0.8492857142857143, Number of Features: 17
+Particle 89 - Fitness: 0.8478571428571429, Number of Features: 9
+Particle 90 - Fitness: 0.8457142857142858, Number of Features: 18
+Particle 91 - Fitness: 0.8457142857142858, Number of Features: 18
+Particle 92 - Fitness: 0.8457142857142858, Number of Features: 18
+Particle 93 - Fitness: 0.8457142857142858, Number of Features: 18
+Particle 94 - Fitness: 0.8385714285714286, Number of Features: 20
+Particle 95 - Fitness: 0.8335714285714286, Number of Features: 13
+Particle 96 - Fitness: 0.8335714285714286, Number of Features: 13
+Particle 97 - Fitness: 0.8335714285714286, Number of Features: 13
+Particle 98 - Fitness: 0.8300000000000001, Number of Features: 14
+Particle 99 - Fitness: 0.8300000000000001, Number of Features: 14
+Particle 100 - Fitness: 0.8228571428571428, Number of Features: 16
+================================================================================
+
+
+================================================================================
+Iteration - 17
+================================================================================
+
+Number of agents: 100
+
+------------- Best Agent ---------------
+Fitness: 0.9007142857142858
+Number of Features: 11
+----------------------------------------
+
+Particle 1 - Fitness: 0.9007142857142858, Number of Features: 11
+Particle 2 - Fitness: 0.8814285714285715, Number of Features: 8
+Particle 3 - Fitness: 0.8814285714285715, Number of Features: 8
+Particle 4 - Fitness: 0.8778571428571429, Number of Features: 9
+Particle 5 - Fitness: 0.8778571428571429, Number of Features: 9
+Particle 6 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 7 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 8 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 9 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 10 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 11 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 12 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 13 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 14 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 15 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 16 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 17 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 18 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 19 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 20 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 21 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 22 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 23 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 24 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 25 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 26 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 27 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 28 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 29 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 30 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 31 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 32 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 33 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 34 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 35 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 36 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 37 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 38 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 39 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 40 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 41 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 42 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 43 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 44 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 45 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 46 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 47 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 48 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 49 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 50 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 51 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 52 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 53 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 54 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 55 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 56 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 57 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 58 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 59 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 60 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 61 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 62 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 63 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 64 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 65 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 66 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 67 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 68 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 69 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 70 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 71 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 72 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 73 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 74 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 75 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 76 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 77 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 78 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 79 - Fitness: 0.8528571428571429, Number of Features: 16
+Particle 80 - Fitness: 0.8528571428571429, Number of Features: 16
+Particle 81 - Fitness: 0.8528571428571429, Number of Features: 16
+Particle 82 - Fitness: 0.8528571428571429, Number of Features: 16
+Particle 83 - Fitness: 0.8528571428571429, Number of Features: 16
+Particle 84 - Fitness: 0.8528571428571429, Number of Features: 16
+Particle 85 - Fitness: 0.8528571428571429, Number of Features: 16
+Particle 86 - Fitness: 0.8492857142857143, Number of Features: 17
+Particle 87 - Fitness: 0.8492857142857143, Number of Features: 17
+Particle 88 - Fitness: 0.8492857142857143, Number of Features: 17
+Particle 89 - Fitness: 0.8492857142857143, Number of Features: 17
+Particle 90 - Fitness: 0.8492857142857143, Number of Features: 17
+Particle 91 - Fitness: 0.8492857142857143, Number of Features: 17
+Particle 92 - Fitness: 0.8457142857142858, Number of Features: 18
+Particle 93 - Fitness: 0.8457142857142858, Number of Features: 18
+Particle 94 - Fitness: 0.8442857142857143, Number of Features: 10
+Particle 95 - Fitness: 0.8442857142857143, Number of Features: 10
+Particle 96 - Fitness: 0.8421428571428572, Number of Features: 19
+Particle 97 - Fitness: 0.8300000000000001, Number of Features: 14
+Particle 98 - Fitness: 0.8264285714285714, Number of Features: 15
+Particle 99 - Fitness: 0.8264285714285714, Number of Features: 15
+Particle 100 - Fitness: 0.7892857142857143, Number of Features: 17
+================================================================================
+
+
+================================================================================
+Iteration - 18
+================================================================================
+
+Number of agents: 100
+
+------------- Best Agent ---------------
+Fitness: 0.8971428571428572
+Number of Features: 12
+----------------------------------------
+
+Particle 1 - Fitness: 0.8971428571428572, Number of Features: 12
+Particle 2 - Fitness: 0.8885714285714286, Number of Features: 6
+Particle 3 - Fitness: 0.885, Number of Features: 7
+Particle 4 - Fitness: 0.8814285714285715, Number of Features: 8
+Particle 5 - Fitness: 0.8778571428571429, Number of Features: 9
+Particle 6 - Fitness: 0.8778571428571429, Number of Features: 9
+Particle 7 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 8 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 9 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 10 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 11 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 12 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 13 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 14 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 15 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 16 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 17 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 18 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 19 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 20 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 21 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 22 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 23 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 24 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 25 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 26 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 27 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 28 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 29 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 30 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 31 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 32 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 33 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 34 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 35 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 36 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 37 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 38 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 39 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 40 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 41 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 42 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 43 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 44 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 45 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 46 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 47 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 48 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 49 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 50 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 51 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 52 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 53 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 54 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 55 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 56 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 57 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 58 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 59 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 60 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 61 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 62 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 63 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 64 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 65 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 66 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 67 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 68 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 69 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 70 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 71 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 72 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 73 - Fitness: 0.855, Number of Features: 7
+Particle 74 - Fitness: 0.8528571428571429, Number of Features: 16
+Particle 75 - Fitness: 0.8528571428571429, Number of Features: 16
+Particle 76 - Fitness: 0.8528571428571429, Number of Features: 16
+Particle 77 - Fitness: 0.8528571428571429, Number of Features: 16
+Particle 78 - Fitness: 0.8528571428571429, Number of Features: 16
+Particle 79 - Fitness: 0.8528571428571429, Number of Features: 16
+Particle 80 - Fitness: 0.8528571428571429, Number of Features: 16
+Particle 81 - Fitness: 0.8528571428571429, Number of Features: 16
+Particle 82 - Fitness: 0.8528571428571429, Number of Features: 16
+Particle 83 - Fitness: 0.8514285714285714, Number of Features: 8
+Particle 84 - Fitness: 0.8492857142857143, Number of Features: 17
+Particle 85 - Fitness: 0.8492857142857143, Number of Features: 17
+Particle 86 - Fitness: 0.8492857142857143, Number of Features: 17
+Particle 87 - Fitness: 0.8492857142857143, Number of Features: 17
+Particle 88 - Fitness: 0.8492857142857143, Number of Features: 17
+Particle 89 - Fitness: 0.8492857142857143, Number of Features: 17
+Particle 90 - Fitness: 0.8457142857142858, Number of Features: 18
+Particle 91 - Fitness: 0.8421428571428572, Number of Features: 19
+Particle 92 - Fitness: 0.8421428571428572, Number of Features: 19
+Particle 93 - Fitness: 0.8407142857142857, Number of Features: 11
+Particle 94 - Fitness: 0.8407142857142857, Number of Features: 11
+Particle 95 - Fitness: 0.8371428571428572, Number of Features: 12
+Particle 96 - Fitness: 0.8335714285714286, Number of Features: 13
+Particle 97 - Fitness: 0.8300000000000001, Number of Features: 14
+Particle 98 - Fitness: 0.8300000000000001, Number of Features: 14
+Particle 99 - Fitness: 0.8228571428571428, Number of Features: 16
+Particle 100 - Fitness: 0.8142857142857143, Number of Features: 10
+================================================================================
+
+
+================================================================================
+Iteration - 19
+================================================================================
+
+Number of agents: 100
+
+------------- Best Agent ---------------
+Fitness: 0.885
+Number of Features: 7
+----------------------------------------
+
+Particle 1 - Fitness: 0.885, Number of Features: 7
+Particle 2 - Fitness: 0.8814285714285715, Number of Features: 8
+Particle 3 - Fitness: 0.8814285714285715, Number of Features: 8
+Particle 4 - Fitness: 0.8778571428571429, Number of Features: 9
+Particle 5 - Fitness: 0.8778571428571429, Number of Features: 9
+Particle 6 - Fitness: 0.8778571428571429, Number of Features: 9
+Particle 7 - Fitness: 0.8778571428571429, Number of Features: 9
+Particle 8 - Fitness: 0.8778571428571429, Number of Features: 9
+Particle 9 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 10 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 11 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 12 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 13 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 14 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 15 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 16 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 17 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 18 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 19 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 20 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 21 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 22 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 23 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 24 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 25 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 26 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 27 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 28 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 29 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 30 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 31 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 32 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 33 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 34 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 35 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 36 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 37 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 38 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 39 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 40 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 41 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 42 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 43 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 44 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 45 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 46 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 47 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 48 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 49 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 50 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 51 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 52 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 53 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 54 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 55 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 56 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 57 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 58 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 59 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 60 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 61 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 62 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 63 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 64 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 65 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 66 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 67 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 68 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 69 - Fitness: 0.8528571428571429, Number of Features: 16
+Particle 70 - Fitness: 0.8528571428571429, Number of Features: 16
+Particle 71 - Fitness: 0.8528571428571429, Number of Features: 16
+Particle 72 - Fitness: 0.8528571428571429, Number of Features: 16
+Particle 73 - Fitness: 0.8528571428571429, Number of Features: 16
+Particle 74 - Fitness: 0.8528571428571429, Number of Features: 16
+Particle 75 - Fitness: 0.8528571428571429, Number of Features: 16
+Particle 76 - Fitness: 0.8528571428571429, Number of Features: 16
+Particle 77 - Fitness: 0.8528571428571429, Number of Features: 16
+Particle 78 - Fitness: 0.8528571428571429, Number of Features: 16
+Particle 79 - Fitness: 0.8528571428571429, Number of Features: 16
+Particle 80 - Fitness: 0.8528571428571429, Number of Features: 16
+Particle 81 - Fitness: 0.8528571428571429, Number of Features: 16
+Particle 82 - Fitness: 0.8492857142857143, Number of Features: 17
+Particle 83 - Fitness: 0.8492857142857143, Number of Features: 17
+Particle 84 - Fitness: 0.8492857142857143, Number of Features: 17
+Particle 85 - Fitness: 0.8492857142857143, Number of Features: 17
+Particle 86 - Fitness: 0.8492857142857143, Number of Features: 17
+Particle 87 - Fitness: 0.8492857142857143, Number of Features: 17
+Particle 88 - Fitness: 0.8457142857142858, Number of Features: 18
+Particle 89 - Fitness: 0.8457142857142858, Number of Features: 18
+Particle 90 - Fitness: 0.8457142857142858, Number of Features: 18
+Particle 91 - Fitness: 0.8457142857142858, Number of Features: 18
+Particle 92 - Fitness: 0.8457142857142858, Number of Features: 18
+Particle 93 - Fitness: 0.8442857142857143, Number of Features: 10
+Particle 94 - Fitness: 0.8442857142857143, Number of Features: 10
+Particle 95 - Fitness: 0.8421428571428572, Number of Features: 19
+Particle 96 - Fitness: 0.8421428571428572, Number of Features: 19
+Particle 97 - Fitness: 0.8371428571428572, Number of Features: 12
+Particle 98 - Fitness: 0.8335714285714286, Number of Features: 13
+Particle 99 - Fitness: 0.8335714285714286, Number of Features: 13
+Particle 100 - Fitness: 0.7964285714285714, Number of Features: 15
+================================================================================
+
+
+================================================================================
+Iteration - 20
+================================================================================
+
+Number of agents: 100
+
+------------- Best Agent ---------------
+Fitness: 0.8814285714285715
+Number of Features: 8
+----------------------------------------
+
+Particle 1 - Fitness: 0.8814285714285715, Number of Features: 8
+Particle 2 - Fitness: 0.8814285714285715, Number of Features: 8
+Particle 3 - Fitness: 0.8778571428571429, Number of Features: 9
+Particle 4 - Fitness: 0.8778571428571429, Number of Features: 9
+Particle 5 - Fitness: 0.8778571428571429, Number of Features: 9
+Particle 6 - Fitness: 0.8778571428571429, Number of Features: 9
+Particle 7 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 8 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 9 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 10 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 11 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 12 - Fitness: 0.8742857142857143, Number of Features: 10
+Particle 13 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 14 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 15 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 16 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 17 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 18 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 19 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 20 - Fitness: 0.8707142857142858, Number of Features: 11
+Particle 21 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 22 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 23 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 24 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 25 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 26 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 27 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 28 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 29 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 30 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 31 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 32 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 33 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 34 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 35 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 36 - Fitness: 0.8671428571428572, Number of Features: 12
+Particle 37 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 38 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 39 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 40 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 41 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 42 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 43 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 44 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 45 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 46 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 47 - Fitness: 0.8635714285714287, Number of Features: 13
+Particle 48 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 49 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 50 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 51 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 52 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 53 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 54 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 55 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 56 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 57 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 58 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 59 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 60 - Fitness: 0.8600000000000001, Number of Features: 14
+Particle 61 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 62 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 63 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 64 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 65 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 66 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 67 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 68 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 69 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 70 - Fitness: 0.8564285714285714, Number of Features: 15
+Particle 71 - Fitness: 0.8528571428571429, Number of Features: 16
+Particle 72 - Fitness: 0.8528571428571429, Number of Features: 16
+Particle 73 - Fitness: 0.8528571428571429, Number of Features: 16
+Particle 74 - Fitness: 0.8528571428571429, Number of Features: 16
+Particle 75 - Fitness: 0.8528571428571429, Number of Features: 16
+Particle 76 - Fitness: 0.8528571428571429, Number of Features: 16
+Particle 77 - Fitness: 0.8528571428571429, Number of Features: 16
+Particle 78 - Fitness: 0.8528571428571429, Number of Features: 16
+Particle 79 - Fitness: 0.8528571428571429, Number of Features: 16
+Particle 80 - Fitness: 0.8528571428571429, Number of Features: 16
+Particle 81 - Fitness: 0.8492857142857143, Number of Features: 17
+Particle 82 - Fitness: 0.8492857142857143, Number of Features: 17
+Particle 83 - Fitness: 0.8492857142857143, Number of Features: 17
+Particle 84 - Fitness: 0.8457142857142858, Number of Features: 18
+Particle 85 - Fitness: 0.8457142857142858, Number of Features: 18
+Particle 86 - Fitness: 0.8457142857142858, Number of Features: 18
+Particle 87 - Fitness: 0.8457142857142858, Number of Features: 18
+Particle 88 - Fitness: 0.8442857142857143, Number of Features: 10
+Particle 89 - Fitness: 0.8421428571428572, Number of Features: 19
+Particle 90 - Fitness: 0.8407142857142857, Number of Features: 11
+Particle 91 - Fitness: 0.8407142857142857, Number of Features: 11
+Particle 92 - Fitness: 0.8371428571428572, Number of Features: 12
+Particle 93 - Fitness: 0.8371428571428572, Number of Features: 12
+Particle 94 - Fitness: 0.8335714285714286, Number of Features: 13
+Particle 95 - Fitness: 0.8335714285714286, Number of Features: 13
+Particle 96 - Fitness: 0.8300000000000001, Number of Features: 14
+Particle 97 - Fitness: 0.8264285714285714, Number of Features: 15
+Particle 98 - Fitness: 0.8264285714285714, Number of Features: 15
+Particle 99 - Fitness: 0.8192857142857143, Number of Features: 17
+Particle 100 - Fitness: 0.8, Number of Features: 14
+================================================================================
+
+
+------------- Leader Agent ---------------
+Fitness: 0.9007142857142858
+Number of Features: 6
+----------------------------------------
+
+
+------------- Leader Agent ------------------------
+Fitness: 0.90071
+Vector: [0 1 0 1 0 0 0 1 0 1 1 1 1 0 0 0 0 0 1 0 0 0 1 0 0 1 1 0]
+Selected 11 features: ['gender', 'geographical_location', 'helicobacter_pylori_infection', 'existing_conditions', 'endoscopic_images', 'biopsy_results', 'ct_scan', 'diana_microt', 'mirdb', 'targetscan', 'predicted.sum']
+---------------------------------------------------
