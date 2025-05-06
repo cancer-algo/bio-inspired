@@ -40,7 +40,7 @@ class AntColonyOptimizer(Algorithm):
         self.agent_name = 'Ant'
 
         # ACO-specific parameters
-        self.evaporation_rate = 9.0
+        self.evaporation_rate = 0.5
         self.alpha = 1.0
         self.beta = 1.0
         self.min_pheromone = 0.01
