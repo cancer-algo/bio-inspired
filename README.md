@@ -19,7 +19,7 @@ The main dataset used is encoded on the gastric cancer data mentioned below and 
 - Particle Swarm Optimization (PSO) - `particle_swarm.py`
 - Ant Colony Optimization (ACO) - `ant_colony.py`
 - Genetic Algorithm (GA) - `genetic_algorithm.py`
-- Grey Wolf Optimizer (GWO) - `grey_wolf.py`
+- Grey Wolf Optimizer (GWO) - `grey_wolf_optimizer.py`
 - Visualization of Iterations
 
 ## 📌 How It Works
