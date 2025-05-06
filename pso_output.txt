@@ -4,6 +4,7 @@ Accuracy using all 28 features: 0.89667
 ================================================================================
 Iteration - 1
 ================================================================================
+Iteration 1: Best Fitness=0.88143, Avg Fitness=0.86705, Selected Features (8): ['ethnicity', 'smoking_habits', 'alcohol_consumption', 'biopsy_results', 'target_entrez', 'target_ensembl', 'elmmo', 'microcosm']
 
 Number of agents: 30
 
@@ -48,6 +49,7 @@ Particle 30 - Fitness: 0.8407142857142857, Number of Features: 11
 ================================================================================
 Iteration - 2
 ================================================================================
+Iteration 2: Best Fitness=0.89929, Avg Fitness=0.86919, Selected Features (3): ['family_history', 'ct_scan', 'mature_mirna_acc']
 
 Number of agents: 30
 
@@ -92,6 +94,7 @@ Particle 30 - Fitness: 0.8371428571428572, Number of Features: 12
 ================================================================================
 Iteration - 3
 ================================================================================
+Iteration 3: Best Fitness=0.89929, Avg Fitness=0.86583, Selected Features (3): ['family_history', 'ct_scan', 'mature_mirna_acc']
 
 Number of agents: 30
 
@@ -136,6 +139,7 @@ Particle 30 - Fitness: 0.8371428571428572, Number of Features: 12
 ================================================================================
 Iteration - 4
 ================================================================================
+Iteration 4: Best Fitness=0.89929, Avg Fitness=0.87014, Selected Features (3): ['family_history', 'ct_scan', 'mature_mirna_acc']
 
 Number of agents: 30
 
@@ -180,6 +184,7 @@ Particle 30 - Fitness: 0.8514285714285714, Number of Features: 8
 ================================================================================
 Iteration - 5
 ================================================================================
+Iteration 5: Best Fitness=0.89929, Avg Fitness=0.87248, Selected Features (3): ['family_history', 'ct_scan', 'mature_mirna_acc']
 
 Number of agents: 30
 
@@ -224,6 +229,7 @@ Particle 30 - Fitness: 0.8335714285714286, Number of Features: 13
 ================================================================================
 Iteration - 6
 ================================================================================
+Iteration 6: Best Fitness=0.89929, Avg Fitness=0.87140, Selected Features (3): ['family_history', 'ct_scan', 'mature_mirna_acc']
 
 Number of agents: 30
 
@@ -268,6 +274,7 @@ Particle 30 - Fitness: 0.8442857142857143, Number of Features: 10
 ================================================================================
 Iteration - 7
 ================================================================================
+Iteration 7: Best Fitness=0.89929, Avg Fitness=0.87143, Selected Features (3): ['family_history', 'ct_scan', 'mature_mirna_acc']
 
 Number of agents: 30
 
@@ -312,6 +319,7 @@ Particle 30 - Fitness: 0.8371428571428572, Number of Features: 12
 ================================================================================
 Iteration - 8
 ================================================================================
+Iteration 8: Best Fitness=0.89929, Avg Fitness=0.87331, Selected Features (3): ['family_history', 'ct_scan', 'mature_mirna_acc']
 
 Number of agents: 30
 
@@ -356,6 +364,7 @@ Particle 30 - Fitness: 0.8478571428571429, Number of Features: 9
 ================================================================================
 Iteration - 9
 ================================================================================
+Iteration 9: Best Fitness=0.89929, Avg Fitness=0.87379, Selected Features (3): ['family_history', 'ct_scan', 'mature_mirna_acc']
 
 Number of agents: 30
 
@@ -400,6 +409,7 @@ Particle 30 - Fitness: 0.8107142857142857, Number of Features: 11
 ================================================================================
 Iteration - 10
 ================================================================================
+Iteration 10: Best Fitness=0.89929, Avg Fitness=0.87419, Selected Features (3): ['family_history', 'ct_scan', 'mature_mirna_acc']
 
 Number of agents: 30
 
@@ -444,6 +454,7 @@ Particle 30 - Fitness: 0.8335714285714286, Number of Features: 13
 ================================================================================
 Iteration - 11
 ================================================================================
+Iteration 11: Best Fitness=0.89929, Avg Fitness=0.87548, Selected Features (3): ['family_history', 'ct_scan', 'mature_mirna_acc']
 
 Number of agents: 30
 
@@ -488,6 +499,7 @@ Particle 30 - Fitness: 0.8600000000000001, Number of Features: 14
 ================================================================================
 Iteration - 12
 ================================================================================
+Iteration 12: Best Fitness=0.89929, Avg Fitness=0.86819, Selected Features (3): ['family_history', 'ct_scan', 'mature_mirna_acc']
 
 Number of agents: 30
 
@@ -532,6 +544,7 @@ Particle 30 - Fitness: 0.8371428571428572, Number of Features: 12
 ================================================================================
 Iteration - 13
 ================================================================================
+Iteration 13: Best Fitness=0.89929, Avg Fitness=0.87188, Selected Features (3): ['family_history', 'ct_scan', 'mature_mirna_acc']
 
 Number of agents: 30
 
@@ -576,6 +589,7 @@ Particle 30 - Fitness: 0.8442857142857143, Number of Features: 10
 ================================================================================
 Iteration - 14
 ================================================================================
+Iteration 14: Best Fitness=0.89929, Avg Fitness=0.86860, Selected Features (3): ['family_history', 'ct_scan', 'mature_mirna_acc']
 
 Number of agents: 30
 
@@ -620,6 +634,7 @@ Particle 30 - Fitness: 0.8407142857142857, Number of Features: 11
 ================================================================================
 Iteration - 15
 ================================================================================
+Iteration 15: Best Fitness=0.89929, Avg Fitness=0.87088, Selected Features (3): ['family_history', 'ct_scan', 'mature_mirna_acc']
 
 Number of agents: 30
 
@@ -664,6 +679,7 @@ Particle 30 - Fitness: 0.8214285714285714, Number of Features: 8
 ================================================================================
 Iteration - 16
 ================================================================================
+Iteration 16: Best Fitness=0.89929, Avg Fitness=0.87286, Selected Features (3): ['family_history', 'ct_scan', 'mature_mirna_acc']
 
 Number of agents: 30
 
@@ -708,6 +724,7 @@ Particle 30 - Fitness: 0.8600000000000001, Number of Features: 14
 ================================================================================
 Iteration - 17
 ================================================================================
+Iteration 17: Best Fitness=0.89929, Avg Fitness=0.86695, Selected Features (3): ['family_history', 'ct_scan', 'mature_mirna_acc']
 
 Number of agents: 30
 
@@ -752,6 +769,7 @@ Particle 30 - Fitness: 0.8142857142857143, Number of Features: 10
 ================================================================================
 Iteration - 18
 ================================================================================
+Iteration 18: Best Fitness=0.89929, Avg Fitness=0.86807, Selected Features (3): ['family_history', 'ct_scan', 'mature_mirna_acc']
 
 Number of agents: 30
 
@@ -796,6 +814,7 @@ Particle 30 - Fitness: 0.8371428571428572, Number of Features: 12
 ================================================================================
 Iteration - 19
 ================================================================================
+Iteration 19: Best Fitness=0.89929, Avg Fitness=0.86505, Selected Features (3): ['family_history', 'ct_scan', 'mature_mirna_acc']
 
 Number of agents: 30
 
@@ -840,6 +859,7 @@ Particle 30 - Fitness: 0.8371428571428572, Number of Features: 12
 ================================================================================
 Iteration - 20
 ================================================================================
+Iteration 20: Best Fitness=0.89929, Avg Fitness=0.87145, Selected Features (3): ['family_history', 'ct_scan', 'mature_mirna_acc']
 
 Number of agents: 30
 
@@ -884,6 +904,7 @@ Particle 30 - Fitness: 0.8442857142857143, Number of Features: 10
 ================================================================================
 Iteration - 21
 ================================================================================
+Iteration 21: Best Fitness=0.89929, Avg Fitness=0.86879, Selected Features (3): ['family_history', 'ct_scan', 'mature_mirna_acc']
 
 Number of agents: 30
 
@@ -928,6 +949,7 @@ Particle 30 - Fitness: 0.8407142857142857, Number of Features: 11
 ================================================================================
 Iteration - 22
 ================================================================================
+Iteration 22: Best Fitness=0.89929, Avg Fitness=0.86617, Selected Features (3): ['family_history', 'ct_scan', 'mature_mirna_acc']
 
 Number of agents: 30
 
@@ -972,6 +994,7 @@ Particle 30 - Fitness: 0.8264285714285714, Number of Features: 15
 ================================================================================
 Iteration - 23
 ================================================================================
+Iteration 23: Best Fitness=0.89929, Avg Fitness=0.86198, Selected Features (3): ['family_history', 'ct_scan', 'mature_mirna_acc']
 
 Number of agents: 30
 
@@ -1016,6 +1039,7 @@ Particle 30 - Fitness: 0.7892857142857143, Number of Features: 17
 ================================================================================
 Iteration - 24
 ================================================================================
+Iteration 24: Best Fitness=0.89929, Avg Fitness=0.86817, Selected Features (3): ['family_history', 'ct_scan', 'mature_mirna_acc']
 
 Number of agents: 30
 
@@ -1060,6 +1084,7 @@ Particle 30 - Fitness: 0.8300000000000001, Number of Features: 14
 ================================================================================
 Iteration - 25
 ================================================================================
+Iteration 25: Best Fitness=0.91857, Avg Fitness=0.87179, Selected Features (6): ['ethnicity', 'geographical_location', 'family_history', 'endoscopic_images', 'ct_scan', 'mirdb']
 
 Number of agents: 30
 
@@ -1104,6 +1129,7 @@ Particle 30 - Fitness: 0.8442857142857143, Number of Features: 10
 ================================================================================
 Iteration - 26
 ================================================================================
+Iteration 26: Best Fitness=0.91857, Avg Fitness=0.86486, Selected Features (6): ['ethnicity', 'geographical_location', 'family_history', 'endoscopic_images', 'ct_scan', 'mirdb']
 
 Number of agents: 30
 
@@ -1148,6 +1174,7 @@ Particle 30 - Fitness: 0.8264285714285714, Number of Features: 15
 ================================================================================
 Iteration - 27
 ================================================================================
+Iteration 27: Best Fitness=0.91857, Avg Fitness=0.86479, Selected Features (6): ['ethnicity', 'geographical_location', 'family_history', 'endoscopic_images', 'ct_scan', 'mirdb']
 
 Number of agents: 30
 
@@ -1192,6 +1219,7 @@ Particle 30 - Fitness: 0.8300000000000001, Number of Features: 14
 ================================================================================
 Iteration - 28
 ================================================================================
+Iteration 28: Best Fitness=0.91857, Avg Fitness=0.86398, Selected Features (6): ['ethnicity', 'geographical_location', 'family_history', 'endoscopic_images', 'ct_scan', 'mirdb']
 
 Number of agents: 30
 
@@ -1236,6 +1264,7 @@ Particle 30 - Fitness: 0.8228571428571428, Number of Features: 16
 ================================================================================
 Iteration - 29
 ================================================================================
+Iteration 29: Best Fitness=0.91857, Avg Fitness=0.86352, Selected Features (6): ['ethnicity', 'geographical_location', 'family_history', 'endoscopic_images', 'ct_scan', 'mirdb']
 
 Number of agents: 30
 
@@ -1280,6 +1309,7 @@ Particle 30 - Fitness: 0.8371428571428572, Number of Features: 12
 ================================================================================
 Iteration - 30
 ================================================================================
+Iteration 30: Best Fitness=0.91857, Avg Fitness=0.86567, Selected Features (6): ['ethnicity', 'geographical_location', 'family_history', 'endoscopic_images', 'ct_scan', 'mirdb']
 
 Number of agents: 30
 
@@ -1324,6 +1354,7 @@ Particle 30 - Fitness: 0.8264285714285714, Number of Features: 15
 ================================================================================
 Iteration - 31
 ================================================================================
+Iteration 31: Best Fitness=0.91857, Avg Fitness=0.86614, Selected Features (6): ['ethnicity', 'geographical_location', 'family_history', 'endoscopic_images', 'ct_scan', 'mirdb']
 
 Number of agents: 30
 
@@ -1368,6 +1399,7 @@ Particle 30 - Fitness: 0.8264285714285714, Number of Features: 15
 ================================================================================
 Iteration - 32
 ================================================================================
+Iteration 32: Best Fitness=0.91857, Avg Fitness=0.86567, Selected Features (6): ['ethnicity', 'geographical_location', 'family_history', 'endoscopic_images', 'ct_scan', 'mirdb']
 
 Number of agents: 30
 
@@ -1412,6 +1444,7 @@ Particle 30 - Fitness: 0.8442857142857143, Number of Features: 10
 ================================================================================
 Iteration - 33
 ================================================================================
+Iteration 33: Best Fitness=0.91857, Avg Fitness=0.86364, Selected Features (6): ['ethnicity', 'geographical_location', 'family_history', 'endoscopic_images', 'ct_scan', 'mirdb']
 
 Number of agents: 30
 
@@ -1456,6 +1489,7 @@ Particle 30 - Fitness: 0.8228571428571428, Number of Features: 16
 ================================================================================
 Iteration - 34
 ================================================================================
+Iteration 34: Best Fitness=0.91857, Avg Fitness=0.86486, Selected Features (6): ['ethnicity', 'geographical_location', 'family_history', 'endoscopic_images', 'ct_scan', 'mirdb']
 
 Number of agents: 30
 
@@ -1500,6 +1534,7 @@ Particle 30 - Fitness: 0.8178571428571428, Number of Features: 9
 ================================================================================
 Iteration - 35
 ================================================================================
+Iteration 35: Best Fitness=0.91857, Avg Fitness=0.86438, Selected Features (6): ['ethnicity', 'geographical_location', 'family_history', 'endoscopic_images', 'ct_scan', 'mirdb']
 
 Number of agents: 30
 
@@ -1544,6 +1579,7 @@ Particle 30 - Fitness: 0.8300000000000001, Number of Features: 14
 ================================================================================
 Iteration - 36
 ================================================================================
+Iteration 36: Best Fitness=0.91857, Avg Fitness=0.86612, Selected Features (6): ['ethnicity', 'geographical_location', 'family_history', 'endoscopic_images', 'ct_scan', 'mirdb']
 
 Number of agents: 30
 
@@ -1588,6 +1624,7 @@ Particle 30 - Fitness: 0.8457142857142858, Number of Features: 18
 ================================================================================
 Iteration - 37
 ================================================================================
+Iteration 37: Best Fitness=0.91857, Avg Fitness=0.86679, Selected Features (6): ['ethnicity', 'geographical_location', 'family_history', 'endoscopic_images', 'ct_scan', 'mirdb']
 
 Number of agents: 30
 
@@ -1632,6 +1669,7 @@ Particle 30 - Fitness: 0.8421428571428572, Number of Features: 19
 ================================================================================
 Iteration - 38
 ================================================================================
+Iteration 38: Best Fitness=0.91857, Avg Fitness=0.86550, Selected Features (6): ['ethnicity', 'geographical_location', 'family_history', 'endoscopic_images', 'ct_scan', 'mirdb']
 
 Number of agents: 30
 
@@ -1676,6 +1714,7 @@ Particle 30 - Fitness: 0.8371428571428572, Number of Features: 12
 ================================================================================
 Iteration - 39
 ================================================================================
+Iteration 39: Best Fitness=0.91857, Avg Fitness=0.86424, Selected Features (6): ['ethnicity', 'geographical_location', 'family_history', 'endoscopic_images', 'ct_scan', 'mirdb']
 
 Number of agents: 30
 
@@ -1720,6 +1759,7 @@ Particle 30 - Fitness: 0.8157142857142857, Number of Features: 18
 ================================================================================
 Iteration - 40
 ================================================================================
+Iteration 40: Best Fitness=0.91857, Avg Fitness=0.86533, Selected Features (6): ['ethnicity', 'geographical_location', 'family_history', 'endoscopic_images', 'ct_scan', 'mirdb']
 
 Number of agents: 30
 
@@ -1764,6 +1804,7 @@ Particle 30 - Fitness: 0.8071428571428572, Number of Features: 12
 ================================================================================
 Iteration - 41
 ================================================================================
+Iteration 41: Best Fitness=0.91857, Avg Fitness=0.85974, Selected Features (6): ['ethnicity', 'geographical_location', 'family_history', 'endoscopic_images', 'ct_scan', 'mirdb']
 
 Number of agents: 30
 
@@ -1808,6 +1849,7 @@ Particle 30 - Fitness: 0.8371428571428572, Number of Features: 12
 ================================================================================
 Iteration - 42
 ================================================================================
+Iteration 42: Best Fitness=0.91857, Avg Fitness=0.86100, Selected Features (6): ['ethnicity', 'geographical_location', 'family_history', 'endoscopic_images', 'ct_scan', 'mirdb']
 
 Number of agents: 30
 
@@ -1852,6 +1894,7 @@ Particle 30 - Fitness: 0.8300000000000001, Number of Features: 14
 ================================================================================
 Iteration - 43
 ================================================================================
+Iteration 43: Best Fitness=0.91857, Avg Fitness=0.86419, Selected Features (6): ['ethnicity', 'geographical_location', 'family_history', 'endoscopic_images', 'ct_scan', 'mirdb']
 
 Number of agents: 30
 
@@ -1896,6 +1939,7 @@ Particle 30 - Fitness: 0.8264285714285714, Number of Features: 15
 ================================================================================
 Iteration - 44
 ================================================================================
+Iteration 44: Best Fitness=0.91857, Avg Fitness=0.85971, Selected Features (6): ['ethnicity', 'geographical_location', 'family_history', 'endoscopic_images', 'ct_scan', 'mirdb']
 
 Number of agents: 30
 
@@ -1940,6 +1984,7 @@ Particle 30 - Fitness: 0.8228571428571428, Number of Features: 16
 ================================================================================
 Iteration - 45
 ================================================================================
+Iteration 45: Best Fitness=0.91857, Avg Fitness=0.86395, Selected Features (6): ['ethnicity', 'geographical_location', 'family_history', 'endoscopic_images', 'ct_scan', 'mirdb']
 
 Number of agents: 30
 
@@ -1984,6 +2029,7 @@ Particle 30 - Fitness: 0.8228571428571428, Number of Features: 16
 ================================================================================
 Iteration - 46
 ================================================================================
+Iteration 46: Best Fitness=0.91857, Avg Fitness=0.86074, Selected Features (6): ['ethnicity', 'geographical_location', 'family_history', 'endoscopic_images', 'ct_scan', 'mirdb']
 
 Number of agents: 30
 
@@ -2028,6 +2074,7 @@ Particle 30 - Fitness: 0.8335714285714286, Number of Features: 13
 ================================================================================
 Iteration - 47
 ================================================================================
+Iteration 47: Best Fitness=0.91857, Avg Fitness=0.86121, Selected Features (6): ['ethnicity', 'geographical_location', 'family_history', 'endoscopic_images', 'ct_scan', 'mirdb']
 
 Number of agents: 30
 
@@ -2072,6 +2119,7 @@ Particle 30 - Fitness: 0.8142857142857143, Number of Features: 10
 ================================================================================
 Iteration - 48
 ================================================================================
+Iteration 48: Best Fitness=0.91857, Avg Fitness=0.86305, Selected Features (6): ['ethnicity', 'geographical_location', 'family_history', 'endoscopic_images', 'ct_scan', 'mirdb']
 
 Number of agents: 30
 
@@ -2116,6 +2164,7 @@ Particle 30 - Fitness: 0.8300000000000001, Number of Features: 14
 ================================================================================
 Iteration - 49
 ================================================================================
+Iteration 49: Best Fitness=0.91857, Avg Fitness=0.86090, Selected Features (6): ['ethnicity', 'geographical_location', 'family_history', 'endoscopic_images', 'ct_scan', 'mirdb']
 
 Number of agents: 30
 
@@ -2160,6 +2209,7 @@ Particle 30 - Fitness: 0.8421428571428572, Number of Features: 19
 ================================================================================
 Iteration - 50
 ================================================================================
+Iteration 50: Best Fitness=0.91857, Avg Fitness=0.86388, Selected Features (6): ['ethnicity', 'geographical_location', 'family_history', 'endoscopic_images', 'ct_scan', 'mirdb']
 
 Number of agents: 30
 

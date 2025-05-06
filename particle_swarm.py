@@ -52,9 +52,11 @@ class ParticleSwarmOptimizer(Algorithm):
         self.velocity = [[0.0] * self.num_features for _ in range(self.num_agents)]
         self.weight = 1.0
 
-        # History buffers for visualization
+         # History buffers for visualization
         self.history_global_best_fitness = []
         self.history_global_best_vector  = []
+
+        self.output_file = "pso_output.txt"
 
     def update_swarm(self):
         header = f"\n{'='*80}\nIteration - {self.cur_iter + 1}\n{'='*80}"
@@ -99,10 +101,17 @@ class ParticleSwarmOptimizer(Algorithm):
         self.history_global_best_fitness.append(self.global_best_fitness)
         self.history_global_best_vector.append(self.global_best.copy())
 
-        self.cur_iter += 1
-    
-    next = update_swarm
+        avg_fitness = np.mean(self.fitness)
+        selected = [self.feature_names[i] for i, bit in enumerate(self.global_best) if bit]
+        msg = (f"Iteration {self.cur_iter + 1}: Best Fitness={self.global_best_fitness:.5f}, "
+               f"Avg Fitness={avg_fitness:.5f}, Selected Features ({len(selected)}): {selected}")
+        print(msg)
+        with open(self.output_file, 'a') as f:
+            f.write(msg + '\n')
 
+        self.cur_iter += 1
+
+    next = update_swarm
 
     def visualize(self, save_as=None):
         """
@@ -202,12 +211,11 @@ def main():
             print(f"Selected {len(selected)} features: {selected}")
             print("---------------------------------------------------")
 
-            # Visualize the optimization process and save
+            # Visualize the optimization process and save 
             pso.visualize(save_as="pso_output.mov")
 
         finally:
             sys.stdout = original_stdout
-
 
 if __name__ == '__main__':
     main()
