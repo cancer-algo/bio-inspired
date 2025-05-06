@@ -1,0 +1,2064 @@
+
+Accuracy using all 30 features: 0.95322
+Iteration 1: Best Fitness=0.99667, Avg Fitness=0.84778, Selected Features (1): ['radius_worst']
+
+Number of agents: 30
+
+------------- Best Agent ---------------
+Fitness: 0.9966666666666667
+Number of Features: 1
+----------------------------------------
+
+Ant 1 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 2 - Fitness: 0.99, Number of Features: 3
+Ant 3 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 4 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 5 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 6 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 7 - Fitness: 0.9333333333333333, Number of Features: 2
+Ant 8 - Fitness: 0.93, Number of Features: 3
+Ant 9 - Fitness: 0.9266666666666667, Number of Features: 4
+Ant 10 - Fitness: 0.9066666666666667, Number of Features: 1
+Ant 11 - Fitness: 0.9033333333333333, Number of Features: 2
+Ant 12 - Fitness: 0.9033333333333333, Number of Features: 2
+Ant 13 - Fitness: 0.9, Number of Features: 3
+Ant 14 - Fitness: 0.8766666666666667, Number of Features: 1
+Ant 15 - Fitness: 0.8766666666666667, Number of Features: 1
+Ant 16 - Fitness: 0.8766666666666667, Number of Features: 1
+Ant 17 - Fitness: 0.8166666666666668, Number of Features: 1
+Ant 18 - Fitness: 0.8133333333333334, Number of Features: 2
+Ant 19 - Fitness: 0.8066666666666668, Number of Features: 4
+Ant 20 - Fitness: 0.7866666666666667, Number of Features: 1
+Ant 21 - Fitness: 0.7866666666666667, Number of Features: 1
+Ant 22 - Fitness: 0.7866666666666667, Number of Features: 1
+Ant 23 - Fitness: 0.7866666666666667, Number of Features: 1
+Ant 24 - Fitness: 0.7866666666666667, Number of Features: 1
+Ant 25 - Fitness: 0.7866666666666667, Number of Features: 1
+Ant 26 - Fitness: 0.7833333333333333, Number of Features: 2
+Ant 27 - Fitness: 0.7266666666666667, Number of Features: 1
+Ant 28 - Fitness: 0.7266666666666667, Number of Features: 1
+Ant 29 - Fitness: 0.7266666666666667, Number of Features: 1
+Ant 30 - Fitness: 0.5466666666666666, Number of Features: 1
+================================================================================
+
+Iteration 2: Best Fitness=0.99667, Avg Fitness=0.86178, Selected Features (1): ['radius_worst']
+
+Number of agents: 30
+
+------------- Best Agent ---------------
+Fitness: 0.9933333333333333
+Number of Features: 2
+----------------------------------------
+
+Ant 1 - Fitness: 0.9933333333333333, Number of Features: 2
+Ant 2 - Fitness: 0.9933333333333333, Number of Features: 2
+Ant 3 - Fitness: 0.9933333333333333, Number of Features: 2
+Ant 4 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 5 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 6 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 7 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 8 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 9 - Fitness: 0.9333333333333333, Number of Features: 2
+Ant 10 - Fitness: 0.93, Number of Features: 3
+Ant 11 - Fitness: 0.9033333333333333, Number of Features: 2
+Ant 12 - Fitness: 0.9033333333333333, Number of Features: 2
+Ant 13 - Fitness: 0.9033333333333333, Number of Features: 2
+Ant 14 - Fitness: 0.9, Number of Features: 3
+Ant 15 - Fitness: 0.9, Number of Features: 3
+Ant 16 - Fitness: 0.8966666666666667, Number of Features: 4
+Ant 17 - Fitness: 0.8766666666666667, Number of Features: 1
+Ant 18 - Fitness: 0.8766666666666667, Number of Features: 1
+Ant 19 - Fitness: 0.8766666666666667, Number of Features: 1
+Ant 20 - Fitness: 0.8733333333333333, Number of Features: 2
+Ant 21 - Fitness: 0.8166666666666668, Number of Features: 1
+Ant 22 - Fitness: 0.8166666666666668, Number of Features: 1
+Ant 23 - Fitness: 0.8166666666666668, Number of Features: 1
+Ant 24 - Fitness: 0.7866666666666667, Number of Features: 1
+Ant 25 - Fitness: 0.7866666666666667, Number of Features: 1
+Ant 26 - Fitness: 0.7266666666666667, Number of Features: 1
+Ant 27 - Fitness: 0.7266666666666667, Number of Features: 1
+Ant 28 - Fitness: 0.7266666666666667, Number of Features: 1
+Ant 29 - Fitness: 0.6666666666666666, Number of Features: 1
+Ant 30 - Fitness: 0.5466666666666666, Number of Features: 1
+================================================================================
+
+Iteration 3: Best Fitness=0.99667, Avg Fitness=0.86211, Selected Features (1): ['radius_worst']
+
+Number of agents: 30
+
+------------- Best Agent ---------------
+Fitness: 0.9966666666666667
+Number of Features: 1
+----------------------------------------
+
+Ant 1 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 2 - Fitness: 0.9933333333333333, Number of Features: 2
+Ant 3 - Fitness: 0.9533333333333334, Number of Features: 5
+Ant 4 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 5 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 6 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 7 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 8 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 9 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 10 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 11 - Fitness: 0.9333333333333333, Number of Features: 2
+Ant 12 - Fitness: 0.9333333333333333, Number of Features: 2
+Ant 13 - Fitness: 0.9333333333333333, Number of Features: 2
+Ant 14 - Fitness: 0.9333333333333333, Number of Features: 2
+Ant 15 - Fitness: 0.9333333333333333, Number of Features: 2
+Ant 16 - Fitness: 0.8766666666666667, Number of Features: 1
+Ant 17 - Fitness: 0.8766666666666667, Number of Features: 1
+Ant 18 - Fitness: 0.8766666666666667, Number of Features: 1
+Ant 19 - Fitness: 0.8766666666666667, Number of Features: 1
+Ant 20 - Fitness: 0.8666666666666667, Number of Features: 4
+Ant 21 - Fitness: 0.8433333333333333, Number of Features: 2
+Ant 22 - Fitness: 0.8166666666666668, Number of Features: 1
+Ant 23 - Fitness: 0.7866666666666667, Number of Features: 1
+Ant 24 - Fitness: 0.7866666666666667, Number of Features: 1
+Ant 25 - Fitness: 0.7866666666666667, Number of Features: 1
+Ant 26 - Fitness: 0.7266666666666667, Number of Features: 1
+Ant 27 - Fitness: 0.7266666666666667, Number of Features: 1
+Ant 28 - Fitness: 0.6966666666666667, Number of Features: 1
+Ant 29 - Fitness: 0.6366666666666667, Number of Features: 1
+Ant 30 - Fitness: 0.5166666666666667, Number of Features: 1
+================================================================================
+
+Iteration 4: Best Fitness=0.99667, Avg Fitness=0.86733, Selected Features (1): ['radius_worst']
+
+Number of agents: 30
+
+------------- Best Agent ---------------
+Fitness: 0.9966666666666667
+Number of Features: 1
+----------------------------------------
+
+Ant 1 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 2 - Fitness: 0.9933333333333333, Number of Features: 2
+Ant 3 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 4 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 5 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 6 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 7 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 8 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 9 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 10 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 11 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 12 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 13 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 14 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 15 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 16 - Fitness: 0.9333333333333333, Number of Features: 2
+Ant 17 - Fitness: 0.9333333333333333, Number of Features: 2
+Ant 18 - Fitness: 0.9333333333333333, Number of Features: 2
+Ant 19 - Fitness: 0.93, Number of Features: 3
+Ant 20 - Fitness: 0.9266666666666667, Number of Features: 4
+Ant 21 - Fitness: 0.9066666666666667, Number of Features: 1
+Ant 22 - Fitness: 0.8766666666666667, Number of Features: 1
+Ant 23 - Fitness: 0.8133333333333334, Number of Features: 2
+Ant 24 - Fitness: 0.7866666666666667, Number of Features: 1
+Ant 25 - Fitness: 0.78, Number of Features: 3
+Ant 26 - Fitness: 0.7266666666666667, Number of Features: 1
+Ant 27 - Fitness: 0.6366666666666667, Number of Features: 1
+Ant 28 - Fitness: 0.5766666666666667, Number of Features: 1
+Ant 29 - Fitness: 0.5766666666666667, Number of Features: 1
+Ant 30 - Fitness: 0.5166666666666667, Number of Features: 1
+================================================================================
+
+Iteration 5: Best Fitness=0.99667, Avg Fitness=0.88422, Selected Features (1): ['radius_worst']
+
+Number of agents: 30
+
+------------- Best Agent ---------------
+Fitness: 0.9966666666666667
+Number of Features: 1
+----------------------------------------
+
+Ant 1 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 2 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 3 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 4 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 5 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 6 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 7 - Fitness: 0.9933333333333333, Number of Features: 2
+Ant 8 - Fitness: 0.9933333333333333, Number of Features: 2
+Ant 9 - Fitness: 0.9933333333333333, Number of Features: 2
+Ant 10 - Fitness: 0.9933333333333333, Number of Features: 2
+Ant 11 - Fitness: 0.9933333333333333, Number of Features: 2
+Ant 12 - Fitness: 0.99, Number of Features: 3
+Ant 13 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 14 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 15 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 16 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 17 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 18 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 19 - Fitness: 0.9333333333333333, Number of Features: 2
+Ant 20 - Fitness: 0.9333333333333333, Number of Features: 2
+Ant 21 - Fitness: 0.9333333333333333, Number of Features: 2
+Ant 22 - Fitness: 0.93, Number of Features: 3
+Ant 23 - Fitness: 0.9033333333333333, Number of Features: 2
+Ant 24 - Fitness: 0.8166666666666668, Number of Features: 1
+Ant 25 - Fitness: 0.7266666666666667, Number of Features: 1
+Ant 26 - Fitness: 0.6966666666666667, Number of Features: 1
+Ant 27 - Fitness: 0.6366666666666667, Number of Features: 1
+Ant 28 - Fitness: 0.5166666666666667, Number of Features: 1
+Ant 29 - Fitness: 0.5166666666666667, Number of Features: 1
+Ant 30 - Fitness: 0.42666666666666664, Number of Features: 1
+================================================================================
+
+Iteration 6: Best Fitness=0.99667, Avg Fitness=0.83533, Selected Features (1): ['radius_worst']
+
+Number of agents: 30
+
+------------- Best Agent ---------------
+Fitness: 0.9966666666666667
+Number of Features: 1
+----------------------------------------
+
+Ant 1 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 2 - Fitness: 0.9933333333333333, Number of Features: 2
+Ant 3 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 4 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 5 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 6 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 7 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 8 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 9 - Fitness: 0.9333333333333333, Number of Features: 2
+Ant 10 - Fitness: 0.9333333333333333, Number of Features: 2
+Ant 11 - Fitness: 0.9333333333333333, Number of Features: 2
+Ant 12 - Fitness: 0.93, Number of Features: 3
+Ant 13 - Fitness: 0.9266666666666667, Number of Features: 4
+Ant 14 - Fitness: 0.9066666666666667, Number of Features: 1
+Ant 15 - Fitness: 0.9033333333333333, Number of Features: 2
+Ant 16 - Fitness: 0.9033333333333333, Number of Features: 2
+Ant 17 - Fitness: 0.8766666666666667, Number of Features: 1
+Ant 18 - Fitness: 0.8766666666666667, Number of Features: 1
+Ant 19 - Fitness: 0.8766666666666667, Number of Features: 1
+Ant 20 - Fitness: 0.8733333333333333, Number of Features: 2
+Ant 21 - Fitness: 0.7866666666666667, Number of Features: 1
+Ant 22 - Fitness: 0.7866666666666667, Number of Features: 1
+Ant 23 - Fitness: 0.7866666666666667, Number of Features: 1
+Ant 24 - Fitness: 0.6966666666666667, Number of Features: 1
+Ant 25 - Fitness: 0.6966666666666667, Number of Features: 1
+Ant 26 - Fitness: 0.6366666666666667, Number of Features: 1
+Ant 27 - Fitness: 0.6366666666666667, Number of Features: 1
+Ant 28 - Fitness: 0.6066666666666667, Number of Features: 1
+Ant 29 - Fitness: 0.5166666666666667, Number of Features: 1
+Ant 30 - Fitness: 0.42666666666666664, Number of Features: 1
+================================================================================
+
+Iteration 7: Best Fitness=0.99667, Avg Fitness=0.82167, Selected Features (1): ['radius_worst']
+
+Number of agents: 30
+
+------------- Best Agent ---------------
+Fitness: 0.9966666666666667
+Number of Features: 1
+----------------------------------------
+
+Ant 1 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 2 - Fitness: 0.9933333333333333, Number of Features: 2
+Ant 3 - Fitness: 0.9633333333333333, Number of Features: 2
+Ant 4 - Fitness: 0.96, Number of Features: 3
+Ant 5 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 6 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 7 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 8 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 9 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 10 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 11 - Fitness: 0.9333333333333333, Number of Features: 2
+Ant 12 - Fitness: 0.9333333333333333, Number of Features: 2
+Ant 13 - Fitness: 0.9333333333333333, Number of Features: 2
+Ant 14 - Fitness: 0.9066666666666667, Number of Features: 1
+Ant 15 - Fitness: 0.9066666666666667, Number of Features: 1
+Ant 16 - Fitness: 0.8766666666666667, Number of Features: 1
+Ant 17 - Fitness: 0.8766666666666667, Number of Features: 1
+Ant 18 - Fitness: 0.8766666666666667, Number of Features: 1
+Ant 19 - Fitness: 0.7866666666666667, Number of Features: 1
+Ant 20 - Fitness: 0.7866666666666667, Number of Features: 1
+Ant 21 - Fitness: 0.7266666666666667, Number of Features: 1
+Ant 22 - Fitness: 0.7266666666666667, Number of Features: 1
+Ant 23 - Fitness: 0.7233333333333333, Number of Features: 2
+Ant 24 - Fitness: 0.6966666666666667, Number of Features: 1
+Ant 25 - Fitness: 0.6666666666666666, Number of Features: 1
+Ant 26 - Fitness: 0.6633333333333332, Number of Features: 2
+Ant 27 - Fitness: 0.5766666666666667, Number of Features: 1
+Ant 28 - Fitness: 0.5766666666666667, Number of Features: 1
+Ant 29 - Fitness: 0.5166666666666667, Number of Features: 1
+Ant 30 - Fitness: 0.42666666666666664, Number of Features: 1
+================================================================================
+
+Iteration 8: Best Fitness=0.99667, Avg Fitness=0.83911, Selected Features (1): ['radius_worst']
+
+Number of agents: 30
+
+------------- Best Agent ---------------
+Fitness: 0.9966666666666667
+Number of Features: 1
+----------------------------------------
+
+Ant 1 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 2 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 3 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 4 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 5 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 6 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 7 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 8 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 9 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 10 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 11 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 12 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 13 - Fitness: 0.9333333333333333, Number of Features: 2
+Ant 14 - Fitness: 0.93, Number of Features: 3
+Ant 15 - Fitness: 0.9066666666666667, Number of Features: 1
+Ant 16 - Fitness: 0.8766666666666667, Number of Features: 1
+Ant 17 - Fitness: 0.8766666666666667, Number of Features: 1
+Ant 18 - Fitness: 0.8733333333333333, Number of Features: 2
+Ant 19 - Fitness: 0.8433333333333333, Number of Features: 2
+Ant 20 - Fitness: 0.8166666666666668, Number of Features: 1
+Ant 21 - Fitness: 0.7866666666666667, Number of Features: 1
+Ant 22 - Fitness: 0.7866666666666667, Number of Features: 1
+Ant 23 - Fitness: 0.7866666666666667, Number of Features: 1
+Ant 24 - Fitness: 0.7866666666666667, Number of Features: 1
+Ant 25 - Fitness: 0.6966666666666667, Number of Features: 1
+Ant 26 - Fitness: 0.6366666666666667, Number of Features: 1
+Ant 27 - Fitness: 0.6366666666666667, Number of Features: 1
+Ant 28 - Fitness: 0.6066666666666667, Number of Features: 1
+Ant 29 - Fitness: 0.5466666666666666, Number of Features: 1
+Ant 30 - Fitness: 0.42666666666666664, Number of Features: 1
+================================================================================
+
+Iteration 9: Best Fitness=0.99667, Avg Fitness=0.89667, Selected Features (1): ['radius_worst']
+
+Number of agents: 30
+
+------------- Best Agent ---------------
+Fitness: 0.9966666666666667
+Number of Features: 1
+----------------------------------------
+
+Ant 1 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 2 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 3 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 4 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 5 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 6 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 7 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 8 - Fitness: 0.9933333333333333, Number of Features: 2
+Ant 9 - Fitness: 0.9933333333333333, Number of Features: 2
+Ant 10 - Fitness: 0.9933333333333333, Number of Features: 2
+Ant 11 - Fitness: 0.9933333333333333, Number of Features: 2
+Ant 12 - Fitness: 0.9933333333333333, Number of Features: 2
+Ant 13 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 14 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 15 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 16 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 17 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 18 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 19 - Fitness: 0.9333333333333333, Number of Features: 2
+Ant 20 - Fitness: 0.9333333333333333, Number of Features: 2
+Ant 21 - Fitness: 0.93, Number of Features: 3
+Ant 22 - Fitness: 0.9066666666666667, Number of Features: 1
+Ant 23 - Fitness: 0.8766666666666667, Number of Features: 1
+Ant 24 - Fitness: 0.8166666666666668, Number of Features: 1
+Ant 25 - Fitness: 0.8166666666666668, Number of Features: 1
+Ant 26 - Fitness: 0.7866666666666667, Number of Features: 1
+Ant 27 - Fitness: 0.7866666666666667, Number of Features: 1
+Ant 28 - Fitness: 0.5766666666666667, Number of Features: 1
+Ant 29 - Fitness: 0.5466666666666666, Number of Features: 1
+Ant 30 - Fitness: 0.42666666666666664, Number of Features: 1
+================================================================================
+
+Iteration 10: Best Fitness=0.99667, Avg Fitness=0.93011, Selected Features (1): ['radius_worst']
+
+Number of agents: 30
+
+------------- Best Agent ---------------
+Fitness: 0.9966666666666667
+Number of Features: 1
+----------------------------------------
+
+Ant 1 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 2 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 3 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 4 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 5 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 6 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 7 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 8 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 9 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 10 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 11 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 12 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 13 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 14 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 15 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 16 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 17 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 18 - Fitness: 0.9933333333333333, Number of Features: 2
+Ant 19 - Fitness: 0.9933333333333333, Number of Features: 2
+Ant 20 - Fitness: 0.9633333333333333, Number of Features: 2
+Ant 21 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 22 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 23 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 24 - Fitness: 0.9333333333333333, Number of Features: 2
+Ant 25 - Fitness: 0.9333333333333333, Number of Features: 2
+Ant 26 - Fitness: 0.7866666666666667, Number of Features: 1
+Ant 27 - Fitness: 0.7866666666666667, Number of Features: 1
+Ant 28 - Fitness: 0.6966666666666667, Number of Features: 1
+Ant 29 - Fitness: 0.6366666666666667, Number of Features: 1
+Ant 30 - Fitness: 0.42666666666666664, Number of Features: 1
+================================================================================
+
+Iteration 11: Best Fitness=0.99667, Avg Fitness=0.85856, Selected Features (1): ['radius_worst']
+
+Number of agents: 30
+
+------------- Best Agent ---------------
+Fitness: 0.9966666666666667
+Number of Features: 1
+----------------------------------------
+
+Ant 1 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 2 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 3 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 4 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 5 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 6 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 7 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 8 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 9 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 10 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 11 - Fitness: 0.9333333333333333, Number of Features: 2
+Ant 12 - Fitness: 0.9333333333333333, Number of Features: 2
+Ant 13 - Fitness: 0.9333333333333333, Number of Features: 2
+Ant 14 - Fitness: 0.9333333333333333, Number of Features: 2
+Ant 15 - Fitness: 0.9066666666666667, Number of Features: 1
+Ant 16 - Fitness: 0.9066666666666667, Number of Features: 1
+Ant 17 - Fitness: 0.9033333333333333, Number of Features: 2
+Ant 18 - Fitness: 0.9033333333333333, Number of Features: 2
+Ant 19 - Fitness: 0.9, Number of Features: 3
+Ant 20 - Fitness: 0.8766666666666667, Number of Features: 1
+Ant 21 - Fitness: 0.8766666666666667, Number of Features: 1
+Ant 22 - Fitness: 0.84, Number of Features: 3
+Ant 23 - Fitness: 0.7866666666666667, Number of Features: 1
+Ant 24 - Fitness: 0.7866666666666667, Number of Features: 1
+Ant 25 - Fitness: 0.7866666666666667, Number of Features: 1
+Ant 26 - Fitness: 0.6966666666666667, Number of Features: 1
+Ant 27 - Fitness: 0.6366666666666667, Number of Features: 1
+Ant 28 - Fitness: 0.6366666666666667, Number of Features: 1
+Ant 29 - Fitness: 0.6066666666666667, Number of Features: 1
+Ant 30 - Fitness: 0.5466666666666666, Number of Features: 1
+================================================================================
+
+Iteration 12: Best Fitness=0.99667, Avg Fitness=0.85233, Selected Features (1): ['radius_worst']
+
+Number of agents: 30
+
+------------- Best Agent ---------------
+Fitness: 0.9933333333333333
+Number of Features: 2
+----------------------------------------
+
+Ant 1 - Fitness: 0.9933333333333333, Number of Features: 2
+Ant 2 - Fitness: 0.9933333333333333, Number of Features: 2
+Ant 3 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 4 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 5 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 6 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 7 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 8 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 9 - Fitness: 0.9333333333333333, Number of Features: 2
+Ant 10 - Fitness: 0.9333333333333333, Number of Features: 2
+Ant 11 - Fitness: 0.9333333333333333, Number of Features: 2
+Ant 12 - Fitness: 0.93, Number of Features: 3
+Ant 13 - Fitness: 0.93, Number of Features: 3
+Ant 14 - Fitness: 0.93, Number of Features: 3
+Ant 15 - Fitness: 0.9066666666666667, Number of Features: 1
+Ant 16 - Fitness: 0.9033333333333333, Number of Features: 2
+Ant 17 - Fitness: 0.8766666666666667, Number of Features: 1
+Ant 18 - Fitness: 0.8766666666666667, Number of Features: 1
+Ant 19 - Fitness: 0.8166666666666668, Number of Features: 1
+Ant 20 - Fitness: 0.8166666666666668, Number of Features: 1
+Ant 21 - Fitness: 0.7866666666666667, Number of Features: 1
+Ant 22 - Fitness: 0.7866666666666667, Number of Features: 1
+Ant 23 - Fitness: 0.7866666666666667, Number of Features: 1
+Ant 24 - Fitness: 0.7866666666666667, Number of Features: 1
+Ant 25 - Fitness: 0.7866666666666667, Number of Features: 1
+Ant 26 - Fitness: 0.7266666666666667, Number of Features: 1
+Ant 27 - Fitness: 0.7266666666666667, Number of Features: 1
+Ant 28 - Fitness: 0.7266666666666667, Number of Features: 1
+Ant 29 - Fitness: 0.6366666666666667, Number of Features: 1
+Ant 30 - Fitness: 0.42666666666666664, Number of Features: 1
+================================================================================
+
+Iteration 13: Best Fitness=0.99667, Avg Fitness=0.89056, Selected Features (1): ['radius_worst']
+
+Number of agents: 30
+
+------------- Best Agent ---------------
+Fitness: 0.9966666666666667
+Number of Features: 1
+----------------------------------------
+
+Ant 1 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 2 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 3 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 4 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 5 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 6 - Fitness: 0.9933333333333333, Number of Features: 2
+Ant 7 - Fitness: 0.99, Number of Features: 3
+Ant 8 - Fitness: 0.9633333333333333, Number of Features: 2
+Ant 9 - Fitness: 0.9633333333333333, Number of Features: 2
+Ant 10 - Fitness: 0.9633333333333333, Number of Features: 2
+Ant 11 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 12 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 13 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 14 - Fitness: 0.9333333333333333, Number of Features: 2
+Ant 15 - Fitness: 0.9333333333333333, Number of Features: 2
+Ant 16 - Fitness: 0.9333333333333333, Number of Features: 2
+Ant 17 - Fitness: 0.9333333333333333, Number of Features: 2
+Ant 18 - Fitness: 0.9333333333333333, Number of Features: 2
+Ant 19 - Fitness: 0.9333333333333333, Number of Features: 2
+Ant 20 - Fitness: 0.9266666666666667, Number of Features: 4
+Ant 21 - Fitness: 0.9066666666666667, Number of Features: 1
+Ant 22 - Fitness: 0.9033333333333333, Number of Features: 2
+Ant 23 - Fitness: 0.9033333333333333, Number of Features: 2
+Ant 24 - Fitness: 0.8766666666666667, Number of Features: 1
+Ant 25 - Fitness: 0.8766666666666667, Number of Features: 1
+Ant 26 - Fitness: 0.84, Number of Features: 3
+Ant 27 - Fitness: 0.6366666666666667, Number of Features: 1
+Ant 28 - Fitness: 0.6366666666666667, Number of Features: 1
+Ant 29 - Fitness: 0.5166666666666667, Number of Features: 1
+Ant 30 - Fitness: 0.42666666666666664, Number of Features: 1
+================================================================================
+
+Iteration 14: Best Fitness=0.99667, Avg Fitness=0.87489, Selected Features (1): ['radius_worst']
+
+Number of agents: 30
+
+------------- Best Agent ---------------
+Fitness: 0.9966666666666667
+Number of Features: 1
+----------------------------------------
+
+Ant 1 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 2 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 3 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 4 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 5 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 6 - Fitness: 0.9933333333333333, Number of Features: 2
+Ant 7 - Fitness: 0.9933333333333333, Number of Features: 2
+Ant 8 - Fitness: 0.9933333333333333, Number of Features: 2
+Ant 9 - Fitness: 0.99, Number of Features: 3
+Ant 10 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 11 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 12 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 13 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 14 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 15 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 16 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 17 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 18 - Fitness: 0.9333333333333333, Number of Features: 2
+Ant 19 - Fitness: 0.8766666666666667, Number of Features: 1
+Ant 20 - Fitness: 0.8433333333333333, Number of Features: 2
+Ant 21 - Fitness: 0.8166666666666668, Number of Features: 1
+Ant 22 - Fitness: 0.7866666666666667, Number of Features: 1
+Ant 23 - Fitness: 0.7866666666666667, Number of Features: 1
+Ant 24 - Fitness: 0.7866666666666667, Number of Features: 1
+Ant 25 - Fitness: 0.7866666666666667, Number of Features: 1
+Ant 26 - Fitness: 0.7866666666666667, Number of Features: 1
+Ant 27 - Fitness: 0.6966666666666667, Number of Features: 1
+Ant 28 - Fitness: 0.6066666666666667, Number of Features: 1
+Ant 29 - Fitness: 0.5766666666666667, Number of Features: 1
+Ant 30 - Fitness: 0.5166666666666667, Number of Features: 1
+================================================================================
+
+Iteration 15: Best Fitness=0.99667, Avg Fitness=0.95089, Selected Features (1): ['radius_worst']
+
+Number of agents: 30
+
+------------- Best Agent ---------------
+Fitness: 0.9966666666666667
+Number of Features: 1
+----------------------------------------
+
+Ant 1 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 2 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 3 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 4 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 5 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 6 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 7 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 8 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 9 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 10 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 11 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 12 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 13 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 14 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 15 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 16 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 17 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 18 - Fitness: 0.9933333333333333, Number of Features: 2
+Ant 19 - Fitness: 0.9933333333333333, Number of Features: 2
+Ant 20 - Fitness: 0.9933333333333333, Number of Features: 2
+Ant 21 - Fitness: 0.9933333333333333, Number of Features: 2
+Ant 22 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 23 - Fitness: 0.9333333333333333, Number of Features: 2
+Ant 24 - Fitness: 0.9333333333333333, Number of Features: 2
+Ant 25 - Fitness: 0.9333333333333333, Number of Features: 2
+Ant 26 - Fitness: 0.8766666666666667, Number of Features: 1
+Ant 27 - Fitness: 0.8766666666666667, Number of Features: 1
+Ant 28 - Fitness: 0.7866666666666667, Number of Features: 1
+Ant 29 - Fitness: 0.6966666666666667, Number of Features: 1
+Ant 30 - Fitness: 0.6366666666666667, Number of Features: 1
+================================================================================
+
+Iteration 16: Best Fitness=0.99667, Avg Fitness=0.85078, Selected Features (1): ['radius_worst']
+
+Number of agents: 30
+
+------------- Best Agent ---------------
+Fitness: 0.9933333333333333
+Number of Features: 2
+----------------------------------------
+
+Ant 1 - Fitness: 0.9933333333333333, Number of Features: 2
+Ant 2 - Fitness: 0.9933333333333333, Number of Features: 2
+Ant 3 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 4 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 5 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 6 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 7 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 8 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 9 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 10 - Fitness: 0.9333333333333333, Number of Features: 2
+Ant 11 - Fitness: 0.93, Number of Features: 3
+Ant 12 - Fitness: 0.9066666666666667, Number of Features: 1
+Ant 13 - Fitness: 0.9033333333333333, Number of Features: 2
+Ant 14 - Fitness: 0.9033333333333333, Number of Features: 2
+Ant 15 - Fitness: 0.8766666666666667, Number of Features: 1
+Ant 16 - Fitness: 0.8766666666666667, Number of Features: 1
+Ant 17 - Fitness: 0.8766666666666667, Number of Features: 1
+Ant 18 - Fitness: 0.8766666666666667, Number of Features: 1
+Ant 19 - Fitness: 0.8766666666666667, Number of Features: 1
+Ant 20 - Fitness: 0.8733333333333333, Number of Features: 2
+Ant 21 - Fitness: 0.8166666666666668, Number of Features: 1
+Ant 22 - Fitness: 0.8166666666666668, Number of Features: 1
+Ant 23 - Fitness: 0.7866666666666667, Number of Features: 1
+Ant 24 - Fitness: 0.7866666666666667, Number of Features: 1
+Ant 25 - Fitness: 0.7866666666666667, Number of Features: 1
+Ant 26 - Fitness: 0.7266666666666667, Number of Features: 1
+Ant 27 - Fitness: 0.7266666666666667, Number of Features: 1
+Ant 28 - Fitness: 0.6966666666666667, Number of Features: 1
+Ant 29 - Fitness: 0.5766666666666667, Number of Features: 1
+Ant 30 - Fitness: 0.42666666666666664, Number of Features: 1
+================================================================================
+
+Iteration 17: Best Fitness=0.99667, Avg Fitness=0.85156, Selected Features (1): ['radius_worst']
+
+Number of agents: 30
+
+------------- Best Agent ---------------
+Fitness: 0.9966666666666667
+Number of Features: 1
+----------------------------------------
+
+Ant 1 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 2 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 3 - Fitness: 0.9933333333333333, Number of Features: 2
+Ant 4 - Fitness: 0.9933333333333333, Number of Features: 2
+Ant 5 - Fitness: 0.9933333333333333, Number of Features: 2
+Ant 6 - Fitness: 0.99, Number of Features: 3
+Ant 7 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 8 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 9 - Fitness: 0.9333333333333333, Number of Features: 2
+Ant 10 - Fitness: 0.9333333333333333, Number of Features: 2
+Ant 11 - Fitness: 0.93, Number of Features: 3
+Ant 12 - Fitness: 0.93, Number of Features: 3
+Ant 13 - Fitness: 0.93, Number of Features: 3
+Ant 14 - Fitness: 0.9266666666666667, Number of Features: 4
+Ant 15 - Fitness: 0.9066666666666667, Number of Features: 1
+Ant 16 - Fitness: 0.9, Number of Features: 3
+Ant 17 - Fitness: 0.8766666666666667, Number of Features: 1
+Ant 18 - Fitness: 0.8166666666666668, Number of Features: 1
+Ant 19 - Fitness: 0.8166666666666668, Number of Features: 1
+Ant 20 - Fitness: 0.8166666666666668, Number of Features: 1
+Ant 21 - Fitness: 0.7866666666666667, Number of Features: 1
+Ant 22 - Fitness: 0.7866666666666667, Number of Features: 1
+Ant 23 - Fitness: 0.7533333333333332, Number of Features: 2
+Ant 24 - Fitness: 0.7266666666666667, Number of Features: 1
+Ant 25 - Fitness: 0.7266666666666667, Number of Features: 1
+Ant 26 - Fitness: 0.7266666666666667, Number of Features: 1
+Ant 27 - Fitness: 0.7266666666666667, Number of Features: 1
+Ant 28 - Fitness: 0.6366666666666667, Number of Features: 1
+Ant 29 - Fitness: 0.5766666666666667, Number of Features: 1
+Ant 30 - Fitness: 0.5466666666666666, Number of Features: 1
+================================================================================
+
+Iteration 18: Best Fitness=0.99667, Avg Fitness=0.85967, Selected Features (1): ['radius_worst']
+
+Number of agents: 30
+
+------------- Best Agent ---------------
+Fitness: 0.9966666666666667
+Number of Features: 1
+----------------------------------------
+
+Ant 1 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 2 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 3 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 4 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 5 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 6 - Fitness: 0.9933333333333333, Number of Features: 2
+Ant 7 - Fitness: 0.99, Number of Features: 3
+Ant 8 - Fitness: 0.9633333333333333, Number of Features: 2
+Ant 9 - Fitness: 0.96, Number of Features: 3
+Ant 10 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 11 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 12 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 13 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 14 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 15 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 16 - Fitness: 0.9333333333333333, Number of Features: 2
+Ant 17 - Fitness: 0.93, Number of Features: 3
+Ant 18 - Fitness: 0.9066666666666667, Number of Features: 1
+Ant 19 - Fitness: 0.9066666666666667, Number of Features: 1
+Ant 20 - Fitness: 0.8766666666666667, Number of Features: 1
+Ant 21 - Fitness: 0.8766666666666667, Number of Features: 1
+Ant 22 - Fitness: 0.7866666666666667, Number of Features: 1
+Ant 23 - Fitness: 0.7866666666666667, Number of Features: 1
+Ant 24 - Fitness: 0.7866666666666667, Number of Features: 1
+Ant 25 - Fitness: 0.6966666666666667, Number of Features: 1
+Ant 26 - Fitness: 0.6666666666666666, Number of Features: 1
+Ant 27 - Fitness: 0.6366666666666667, Number of Features: 1
+Ant 28 - Fitness: 0.5466666666666666, Number of Features: 1
+Ant 29 - Fitness: 0.5166666666666667, Number of Features: 1
+Ant 30 - Fitness: 0.42666666666666664, Number of Features: 1
+================================================================================
+
+Iteration 19: Best Fitness=0.99667, Avg Fitness=0.93589, Selected Features (1): ['radius_worst']
+
+Number of agents: 30
+
+------------- Best Agent ---------------
+Fitness: 0.9966666666666667
+Number of Features: 1
+----------------------------------------
+
+Ant 1 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 2 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 3 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 4 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 5 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 6 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 7 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 8 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 9 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 10 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 11 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 12 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 13 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 14 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 15 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 16 - Fitness: 0.9933333333333333, Number of Features: 2
+Ant 17 - Fitness: 0.9933333333333333, Number of Features: 2
+Ant 18 - Fitness: 0.9933333333333333, Number of Features: 2
+Ant 19 - Fitness: 0.9933333333333333, Number of Features: 2
+Ant 20 - Fitness: 0.9933333333333333, Number of Features: 2
+Ant 21 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 22 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 23 - Fitness: 0.9333333333333333, Number of Features: 2
+Ant 24 - Fitness: 0.9066666666666667, Number of Features: 1
+Ant 25 - Fitness: 0.8766666666666667, Number of Features: 1
+Ant 26 - Fitness: 0.8166666666666668, Number of Features: 1
+Ant 27 - Fitness: 0.7233333333333333, Number of Features: 2
+Ant 28 - Fitness: 0.6966666666666667, Number of Features: 1
+Ant 29 - Fitness: 0.6966666666666667, Number of Features: 1
+Ant 30 - Fitness: 0.6366666666666667, Number of Features: 1
+================================================================================
+
+Iteration 20: Best Fitness=0.99667, Avg Fitness=0.95422, Selected Features (1): ['radius_worst']
+
+Number of agents: 30
+
+------------- Best Agent ---------------
+Fitness: 0.9966666666666667
+Number of Features: 1
+----------------------------------------
+
+Ant 1 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 2 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 3 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 4 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 5 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 6 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 7 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 8 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 9 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 10 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 11 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 12 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 13 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 14 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 15 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 16 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 17 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 18 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 19 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 20 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 21 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 22 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 23 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 24 - Fitness: 0.9933333333333333, Number of Features: 2
+Ant 25 - Fitness: 0.9933333333333333, Number of Features: 2
+Ant 26 - Fitness: 0.9333333333333333, Number of Features: 2
+Ant 27 - Fitness: 0.9333333333333333, Number of Features: 2
+Ant 28 - Fitness: 0.8166666666666668, Number of Features: 1
+Ant 29 - Fitness: 0.5166666666666667, Number of Features: 1
+Ant 30 - Fitness: 0.5166666666666667, Number of Features: 1
+================================================================================
+
+Iteration 21: Best Fitness=0.99667, Avg Fitness=0.83089, Selected Features (1): ['radius_worst']
+
+Number of agents: 30
+
+------------- Best Agent ---------------
+Fitness: 0.9966666666666667
+Number of Features: 1
+----------------------------------------
+
+Ant 1 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 2 - Fitness: 0.9933333333333333, Number of Features: 2
+Ant 3 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 4 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 5 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 6 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 7 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 8 - Fitness: 0.9333333333333333, Number of Features: 2
+Ant 9 - Fitness: 0.9333333333333333, Number of Features: 2
+Ant 10 - Fitness: 0.9333333333333333, Number of Features: 2
+Ant 11 - Fitness: 0.9066666666666667, Number of Features: 1
+Ant 12 - Fitness: 0.9066666666666667, Number of Features: 1
+Ant 13 - Fitness: 0.9033333333333333, Number of Features: 2
+Ant 14 - Fitness: 0.8766666666666667, Number of Features: 1
+Ant 15 - Fitness: 0.8766666666666667, Number of Features: 1
+Ant 16 - Fitness: 0.8766666666666667, Number of Features: 1
+Ant 17 - Fitness: 0.8766666666666667, Number of Features: 1
+Ant 18 - Fitness: 0.8733333333333333, Number of Features: 2
+Ant 19 - Fitness: 0.8433333333333333, Number of Features: 2
+Ant 20 - Fitness: 0.8166666666666668, Number of Features: 1
+Ant 21 - Fitness: 0.8166666666666668, Number of Features: 1
+Ant 22 - Fitness: 0.7866666666666667, Number of Features: 1
+Ant 23 - Fitness: 0.7866666666666667, Number of Features: 1
+Ant 24 - Fitness: 0.7266666666666667, Number of Features: 1
+Ant 25 - Fitness: 0.6966666666666667, Number of Features: 1
+Ant 26 - Fitness: 0.6966666666666667, Number of Features: 1
+Ant 27 - Fitness: 0.5466666666666666, Number of Features: 1
+Ant 28 - Fitness: 0.5466666666666666, Number of Features: 1
+Ant 29 - Fitness: 0.5466666666666666, Number of Features: 1
+Ant 30 - Fitness: 0.5466666666666666, Number of Features: 1
+================================================================================
+
+Iteration 22: Best Fitness=0.99667, Avg Fitness=0.84478, Selected Features (1): ['radius_worst']
+
+Number of agents: 30
+
+------------- Best Agent ---------------
+Fitness: 0.9966666666666667
+Number of Features: 1
+----------------------------------------
+
+Ant 1 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 2 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 3 - Fitness: 0.9933333333333333, Number of Features: 2
+Ant 4 - Fitness: 0.9633333333333333, Number of Features: 2
+Ant 5 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 6 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 7 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 8 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 9 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 10 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 11 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 12 - Fitness: 0.9333333333333333, Number of Features: 2
+Ant 13 - Fitness: 0.9333333333333333, Number of Features: 2
+Ant 14 - Fitness: 0.9333333333333333, Number of Features: 2
+Ant 15 - Fitness: 0.93, Number of Features: 3
+Ant 16 - Fitness: 0.9033333333333333, Number of Features: 2
+Ant 17 - Fitness: 0.8766666666666667, Number of Features: 1
+Ant 18 - Fitness: 0.8766666666666667, Number of Features: 1
+Ant 19 - Fitness: 0.8166666666666668, Number of Features: 1
+Ant 20 - Fitness: 0.8166666666666668, Number of Features: 1
+Ant 21 - Fitness: 0.7866666666666667, Number of Features: 1
+Ant 22 - Fitness: 0.7866666666666667, Number of Features: 1
+Ant 23 - Fitness: 0.7866666666666667, Number of Features: 1
+Ant 24 - Fitness: 0.7266666666666667, Number of Features: 1
+Ant 25 - Fitness: 0.7266666666666667, Number of Features: 1
+Ant 26 - Fitness: 0.7266666666666667, Number of Features: 1
+Ant 27 - Fitness: 0.6366666666666667, Number of Features: 1
+Ant 28 - Fitness: 0.6066666666666667, Number of Features: 1
+Ant 29 - Fitness: 0.5166666666666667, Number of Features: 1
+Ant 30 - Fitness: 0.5166666666666667, Number of Features: 1
+================================================================================
+
+Iteration 23: Best Fitness=0.99667, Avg Fitness=0.87133, Selected Features (1): ['radius_worst']
+
+Number of agents: 30
+
+------------- Best Agent ---------------
+Fitness: 0.9966666666666667
+Number of Features: 1
+----------------------------------------
+
+Ant 1 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 2 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 3 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 4 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 5 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 6 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 7 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 8 - Fitness: 0.9933333333333333, Number of Features: 2
+Ant 9 - Fitness: 0.9633333333333333, Number of Features: 2
+Ant 10 - Fitness: 0.96, Number of Features: 3
+Ant 11 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 12 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 13 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 14 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 15 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 16 - Fitness: 0.9333333333333333, Number of Features: 2
+Ant 17 - Fitness: 0.9033333333333333, Number of Features: 2
+Ant 18 - Fitness: 0.9033333333333333, Number of Features: 2
+Ant 19 - Fitness: 0.9, Number of Features: 3
+Ant 20 - Fitness: 0.8966666666666667, Number of Features: 4
+Ant 21 - Fitness: 0.8766666666666667, Number of Features: 1
+Ant 22 - Fitness: 0.7866666666666667, Number of Features: 1
+Ant 23 - Fitness: 0.7866666666666667, Number of Features: 1
+Ant 24 - Fitness: 0.7866666666666667, Number of Features: 1
+Ant 25 - Fitness: 0.7266666666666667, Number of Features: 1
+Ant 26 - Fitness: 0.7266666666666667, Number of Features: 1
+Ant 27 - Fitness: 0.6666666666666666, Number of Features: 1
+Ant 28 - Fitness: 0.6366666666666667, Number of Features: 1
+Ant 29 - Fitness: 0.5166666666666667, Number of Features: 1
+Ant 30 - Fitness: 0.5166666666666667, Number of Features: 1
+================================================================================
+
+Iteration 24: Best Fitness=0.99667, Avg Fitness=0.93044, Selected Features (1): ['radius_worst']
+
+Number of agents: 30
+
+------------- Best Agent ---------------
+Fitness: 0.9966666666666667
+Number of Features: 1
+----------------------------------------
+
+Ant 1 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 2 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 3 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 4 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 5 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 6 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 7 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 8 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 9 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 10 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 11 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 12 - Fitness: 0.9933333333333333, Number of Features: 2
+Ant 13 - Fitness: 0.9933333333333333, Number of Features: 2
+Ant 14 - Fitness: 0.9933333333333333, Number of Features: 2
+Ant 15 - Fitness: 0.96, Number of Features: 3
+Ant 16 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 17 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 18 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 19 - Fitness: 0.9333333333333333, Number of Features: 2
+Ant 20 - Fitness: 0.9333333333333333, Number of Features: 2
+Ant 21 - Fitness: 0.9333333333333333, Number of Features: 2
+Ant 22 - Fitness: 0.9333333333333333, Number of Features: 2
+Ant 23 - Fitness: 0.93, Number of Features: 3
+Ant 24 - Fitness: 0.8766666666666667, Number of Features: 1
+Ant 25 - Fitness: 0.8766666666666667, Number of Features: 1
+Ant 26 - Fitness: 0.8766666666666667, Number of Features: 1
+Ant 27 - Fitness: 0.8766666666666667, Number of Features: 1
+Ant 28 - Fitness: 0.7866666666666667, Number of Features: 1
+Ant 29 - Fitness: 0.6966666666666667, Number of Features: 1
+Ant 30 - Fitness: 0.5466666666666666, Number of Features: 1
+================================================================================
+
+Iteration 25: Best Fitness=0.99667, Avg Fitness=0.94444, Selected Features (1): ['radius_worst']
+
+Number of agents: 30
+
+------------- Best Agent ---------------
+Fitness: 0.9966666666666667
+Number of Features: 1
+----------------------------------------
+
+Ant 1 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 2 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 3 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 4 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 5 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 6 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 7 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 8 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 9 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 10 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 11 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 12 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 13 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 14 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 15 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 16 - Fitness: 0.9933333333333333, Number of Features: 2
+Ant 17 - Fitness: 0.9933333333333333, Number of Features: 2
+Ant 18 - Fitness: 0.9933333333333333, Number of Features: 2
+Ant 19 - Fitness: 0.9933333333333333, Number of Features: 2
+Ant 20 - Fitness: 0.9933333333333333, Number of Features: 2
+Ant 21 - Fitness: 0.96, Number of Features: 3
+Ant 22 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 23 - Fitness: 0.9333333333333333, Number of Features: 2
+Ant 24 - Fitness: 0.9333333333333333, Number of Features: 2
+Ant 25 - Fitness: 0.9333333333333333, Number of Features: 2
+Ant 26 - Fitness: 0.9333333333333333, Number of Features: 2
+Ant 27 - Fitness: 0.7866666666666667, Number of Features: 1
+Ant 28 - Fitness: 0.7866666666666667, Number of Features: 1
+Ant 29 - Fitness: 0.6966666666666667, Number of Features: 1
+Ant 30 - Fitness: 0.5166666666666667, Number of Features: 1
+================================================================================
+
+Iteration 26: Best Fitness=0.99667, Avg Fitness=0.85778, Selected Features (1): ['radius_worst']
+
+Number of agents: 30
+
+------------- Best Agent ---------------
+Fitness: 0.9966666666666667
+Number of Features: 1
+----------------------------------------
+
+Ant 1 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 2 - Fitness: 0.9933333333333333, Number of Features: 2
+Ant 3 - Fitness: 0.99, Number of Features: 3
+Ant 4 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 5 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 6 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 7 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 8 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 9 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 10 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 11 - Fitness: 0.9333333333333333, Number of Features: 2
+Ant 12 - Fitness: 0.9333333333333333, Number of Features: 2
+Ant 13 - Fitness: 0.9066666666666667, Number of Features: 1
+Ant 14 - Fitness: 0.8766666666666667, Number of Features: 1
+Ant 15 - Fitness: 0.8766666666666667, Number of Features: 1
+Ant 16 - Fitness: 0.8766666666666667, Number of Features: 1
+Ant 17 - Fitness: 0.8766666666666667, Number of Features: 1
+Ant 18 - Fitness: 0.8433333333333333, Number of Features: 2
+Ant 19 - Fitness: 0.8166666666666668, Number of Features: 1
+Ant 20 - Fitness: 0.8133333333333334, Number of Features: 2
+Ant 21 - Fitness: 0.7866666666666667, Number of Features: 1
+Ant 22 - Fitness: 0.7866666666666667, Number of Features: 1
+Ant 23 - Fitness: 0.7866666666666667, Number of Features: 1
+Ant 24 - Fitness: 0.7866666666666667, Number of Features: 1
+Ant 25 - Fitness: 0.7533333333333332, Number of Features: 2
+Ant 26 - Fitness: 0.7266666666666667, Number of Features: 1
+Ant 27 - Fitness: 0.7266666666666667, Number of Features: 1
+Ant 28 - Fitness: 0.6966666666666667, Number of Features: 1
+Ant 29 - Fitness: 0.6966666666666667, Number of Features: 1
+Ant 30 - Fitness: 0.6966666666666667, Number of Features: 1
+================================================================================
+
+Iteration 27: Best Fitness=0.99667, Avg Fitness=0.84156, Selected Features (1): ['radius_worst']
+
+Number of agents: 30
+
+------------- Best Agent ---------------
+Fitness: 0.9966666666666667
+Number of Features: 1
+----------------------------------------
+
+Ant 1 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 2 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 3 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 4 - Fitness: 0.9633333333333333, Number of Features: 2
+Ant 5 - Fitness: 0.9633333333333333, Number of Features: 2
+Ant 6 - Fitness: 0.96, Number of Features: 3
+Ant 7 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 8 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 9 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 10 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 11 - Fitness: 0.9333333333333333, Number of Features: 2
+Ant 12 - Fitness: 0.9333333333333333, Number of Features: 2
+Ant 13 - Fitness: 0.9333333333333333, Number of Features: 2
+Ant 14 - Fitness: 0.9066666666666667, Number of Features: 1
+Ant 15 - Fitness: 0.9066666666666667, Number of Features: 1
+Ant 16 - Fitness: 0.9066666666666667, Number of Features: 1
+Ant 17 - Fitness: 0.8766666666666667, Number of Features: 1
+Ant 18 - Fitness: 0.8433333333333333, Number of Features: 2
+Ant 19 - Fitness: 0.84, Number of Features: 3
+Ant 20 - Fitness: 0.8166666666666668, Number of Features: 1
+Ant 21 - Fitness: 0.7866666666666667, Number of Features: 1
+Ant 22 - Fitness: 0.7866666666666667, Number of Features: 1
+Ant 23 - Fitness: 0.7266666666666667, Number of Features: 1
+Ant 24 - Fitness: 0.6966666666666667, Number of Features: 1
+Ant 25 - Fitness: 0.6966666666666667, Number of Features: 1
+Ant 26 - Fitness: 0.6666666666666666, Number of Features: 1
+Ant 27 - Fitness: 0.6666666666666666, Number of Features: 1
+Ant 28 - Fitness: 0.6366666666666667, Number of Features: 1
+Ant 29 - Fitness: 0.5466666666666666, Number of Features: 1
+Ant 30 - Fitness: 0.5166666666666667, Number of Features: 1
+================================================================================
+
+Iteration 28: Best Fitness=0.99667, Avg Fitness=0.90622, Selected Features (1): ['radius_worst']
+
+Number of agents: 30
+
+------------- Best Agent ---------------
+Fitness: 0.9966666666666667
+Number of Features: 1
+----------------------------------------
+
+Ant 1 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 2 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 3 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 4 - Fitness: 0.9933333333333333, Number of Features: 2
+Ant 5 - Fitness: 0.9933333333333333, Number of Features: 2
+Ant 6 - Fitness: 0.9933333333333333, Number of Features: 2
+Ant 7 - Fitness: 0.96, Number of Features: 3
+Ant 8 - Fitness: 0.96, Number of Features: 3
+Ant 9 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 10 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 11 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 12 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 13 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 14 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 15 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 16 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 17 - Fitness: 0.9333333333333333, Number of Features: 2
+Ant 18 - Fitness: 0.9333333333333333, Number of Features: 2
+Ant 19 - Fitness: 0.9333333333333333, Number of Features: 2
+Ant 20 - Fitness: 0.9333333333333333, Number of Features: 2
+Ant 21 - Fitness: 0.93, Number of Features: 3
+Ant 22 - Fitness: 0.9066666666666667, Number of Features: 1
+Ant 23 - Fitness: 0.8766666666666667, Number of Features: 1
+Ant 24 - Fitness: 0.8766666666666667, Number of Features: 1
+Ant 25 - Fitness: 0.7866666666666667, Number of Features: 1
+Ant 26 - Fitness: 0.7866666666666667, Number of Features: 1
+Ant 27 - Fitness: 0.7866666666666667, Number of Features: 1
+Ant 28 - Fitness: 0.7866666666666667, Number of Features: 1
+Ant 29 - Fitness: 0.7866666666666667, Number of Features: 1
+Ant 30 - Fitness: 0.5466666666666666, Number of Features: 1
+================================================================================
+
+Iteration 29: Best Fitness=0.99667, Avg Fitness=0.89878, Selected Features (1): ['radius_worst']
+
+Number of agents: 30
+
+------------- Best Agent ---------------
+Fitness: 0.9966666666666667
+Number of Features: 1
+----------------------------------------
+
+Ant 1 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 2 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 3 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 4 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 5 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 6 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 7 - Fitness: 0.9933333333333333, Number of Features: 2
+Ant 8 - Fitness: 0.9933333333333333, Number of Features: 2
+Ant 9 - Fitness: 0.99, Number of Features: 3
+Ant 10 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 11 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 12 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 13 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 14 - Fitness: 0.9333333333333333, Number of Features: 2
+Ant 15 - Fitness: 0.9333333333333333, Number of Features: 2
+Ant 16 - Fitness: 0.93, Number of Features: 3
+Ant 17 - Fitness: 0.9066666666666667, Number of Features: 1
+Ant 18 - Fitness: 0.9066666666666667, Number of Features: 1
+Ant 19 - Fitness: 0.9066666666666667, Number of Features: 1
+Ant 20 - Fitness: 0.8766666666666667, Number of Features: 1
+Ant 21 - Fitness: 0.8766666666666667, Number of Features: 1
+Ant 22 - Fitness: 0.8766666666666667, Number of Features: 1
+Ant 23 - Fitness: 0.8166666666666668, Number of Features: 1
+Ant 24 - Fitness: 0.8166666666666668, Number of Features: 1
+Ant 25 - Fitness: 0.7866666666666667, Number of Features: 1
+Ant 26 - Fitness: 0.7866666666666667, Number of Features: 1
+Ant 27 - Fitness: 0.7866666666666667, Number of Features: 1
+Ant 28 - Fitness: 0.7266666666666667, Number of Features: 1
+Ant 29 - Fitness: 0.7266666666666667, Number of Features: 1
+Ant 30 - Fitness: 0.6666666666666666, Number of Features: 1
+================================================================================
+
+Iteration 30: Best Fitness=0.99667, Avg Fitness=0.93656, Selected Features (1): ['radius_worst']
+
+Number of agents: 30
+
+------------- Best Agent ---------------
+Fitness: 0.9966666666666667
+Number of Features: 1
+----------------------------------------
+
+Ant 1 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 2 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 3 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 4 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 5 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 6 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 7 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 8 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 9 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 10 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 11 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 12 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 13 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 14 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 15 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 16 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 17 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 18 - Fitness: 0.9933333333333333, Number of Features: 2
+Ant 19 - Fitness: 0.9933333333333333, Number of Features: 2
+Ant 20 - Fitness: 0.99, Number of Features: 3
+Ant 21 - Fitness: 0.99, Number of Features: 3
+Ant 22 - Fitness: 0.9866666666666667, Number of Features: 4
+Ant 23 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 24 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 25 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 26 - Fitness: 0.9333333333333333, Number of Features: 2
+Ant 27 - Fitness: 0.8766666666666667, Number of Features: 1
+Ant 28 - Fitness: 0.6366666666666667, Number of Features: 1
+Ant 29 - Fitness: 0.5166666666666667, Number of Features: 1
+Ant 30 - Fitness: 0.42666666666666664, Number of Features: 1
+================================================================================
+
+Iteration 31: Best Fitness=0.99667, Avg Fitness=0.79878, Selected Features (1): ['radius_worst']
+
+Number of agents: 30
+
+------------- Best Agent ---------------
+Fitness: 0.9966666666666667
+Number of Features: 1
+----------------------------------------
+
+Ant 1 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 2 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 3 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 4 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 5 - Fitness: 0.9566666666666667, Number of Features: 4
+Ant 6 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 7 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 8 - Fitness: 0.9333333333333333, Number of Features: 2
+Ant 9 - Fitness: 0.9066666666666667, Number of Features: 1
+Ant 10 - Fitness: 0.9033333333333333, Number of Features: 2
+Ant 11 - Fitness: 0.9033333333333333, Number of Features: 2
+Ant 12 - Fitness: 0.8766666666666667, Number of Features: 1
+Ant 13 - Fitness: 0.8766666666666667, Number of Features: 1
+Ant 14 - Fitness: 0.8766666666666667, Number of Features: 1
+Ant 15 - Fitness: 0.8766666666666667, Number of Features: 1
+Ant 16 - Fitness: 0.8733333333333333, Number of Features: 2
+Ant 17 - Fitness: 0.8166666666666668, Number of Features: 1
+Ant 18 - Fitness: 0.7866666666666667, Number of Features: 1
+Ant 19 - Fitness: 0.7866666666666667, Number of Features: 1
+Ant 20 - Fitness: 0.7833333333333333, Number of Features: 2
+Ant 21 - Fitness: 0.7266666666666667, Number of Features: 1
+Ant 22 - Fitness: 0.6966666666666667, Number of Features: 1
+Ant 23 - Fitness: 0.6966666666666667, Number of Features: 1
+Ant 24 - Fitness: 0.6966666666666667, Number of Features: 1
+Ant 25 - Fitness: 0.6066666666666667, Number of Features: 1
+Ant 26 - Fitness: 0.5766666666666667, Number of Features: 1
+Ant 27 - Fitness: 0.5766666666666667, Number of Features: 1
+Ant 28 - Fitness: 0.5166666666666667, Number of Features: 1
+Ant 29 - Fitness: 0.42666666666666664, Number of Features: 1
+Ant 30 - Fitness: 0.42666666666666664, Number of Features: 1
+================================================================================
+
+Iteration 32: Best Fitness=0.99667, Avg Fitness=0.85378, Selected Features (1): ['radius_worst']
+
+Number of agents: 30
+
+------------- Best Agent ---------------
+Fitness: 0.9966666666666667
+Number of Features: 1
+----------------------------------------
+
+Ant 1 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 2 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 3 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 4 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 5 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 6 - Fitness: 0.9933333333333333, Number of Features: 2
+Ant 7 - Fitness: 0.9933333333333333, Number of Features: 2
+Ant 8 - Fitness: 0.9633333333333333, Number of Features: 2
+Ant 9 - Fitness: 0.9633333333333333, Number of Features: 2
+Ant 10 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 11 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 12 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 13 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 14 - Fitness: 0.9333333333333333, Number of Features: 2
+Ant 15 - Fitness: 0.9033333333333333, Number of Features: 2
+Ant 16 - Fitness: 0.8766666666666667, Number of Features: 1
+Ant 17 - Fitness: 0.8766666666666667, Number of Features: 1
+Ant 18 - Fitness: 0.87, Number of Features: 3
+Ant 19 - Fitness: 0.8166666666666668, Number of Features: 1
+Ant 20 - Fitness: 0.8166666666666668, Number of Features: 1
+Ant 21 - Fitness: 0.7866666666666667, Number of Features: 1
+Ant 22 - Fitness: 0.7866666666666667, Number of Features: 1
+Ant 23 - Fitness: 0.7866666666666667, Number of Features: 1
+Ant 24 - Fitness: 0.7866666666666667, Number of Features: 1
+Ant 25 - Fitness: 0.7266666666666667, Number of Features: 1
+Ant 26 - Fitness: 0.7266666666666667, Number of Features: 1
+Ant 27 - Fitness: 0.6366666666666667, Number of Features: 1
+Ant 28 - Fitness: 0.6366666666666667, Number of Features: 1
+Ant 29 - Fitness: 0.5766666666666667, Number of Features: 1
+Ant 30 - Fitness: 0.42666666666666664, Number of Features: 1
+================================================================================
+
+Iteration 33: Best Fitness=0.99667, Avg Fitness=0.90467, Selected Features (1): ['radius_worst']
+
+Number of agents: 30
+
+------------- Best Agent ---------------
+Fitness: 0.9966666666666667
+Number of Features: 1
+----------------------------------------
+
+Ant 1 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 2 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 3 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 4 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 5 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 6 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 7 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 8 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 9 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 10 - Fitness: 0.9933333333333333, Number of Features: 2
+Ant 11 - Fitness: 0.9933333333333333, Number of Features: 2
+Ant 12 - Fitness: 0.9933333333333333, Number of Features: 2
+Ant 13 - Fitness: 0.9933333333333333, Number of Features: 2
+Ant 14 - Fitness: 0.9933333333333333, Number of Features: 2
+Ant 15 - Fitness: 0.9933333333333333, Number of Features: 2
+Ant 16 - Fitness: 0.96, Number of Features: 3
+Ant 17 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 18 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 19 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 20 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 21 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 22 - Fitness: 0.9333333333333333, Number of Features: 2
+Ant 23 - Fitness: 0.7866666666666667, Number of Features: 1
+Ant 24 - Fitness: 0.7866666666666667, Number of Features: 1
+Ant 25 - Fitness: 0.7266666666666667, Number of Features: 1
+Ant 26 - Fitness: 0.6966666666666667, Number of Features: 1
+Ant 27 - Fitness: 0.6966666666666667, Number of Features: 1
+Ant 28 - Fitness: 0.6966666666666667, Number of Features: 1
+Ant 29 - Fitness: 0.6966666666666667, Number of Features: 1
+Ant 30 - Fitness: 0.5466666666666666, Number of Features: 1
+================================================================================
+
+Iteration 34: Best Fitness=0.99667, Avg Fitness=0.88900, Selected Features (1): ['radius_worst']
+
+Number of agents: 30
+
+------------- Best Agent ---------------
+Fitness: 0.9966666666666667
+Number of Features: 1
+----------------------------------------
+
+Ant 1 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 2 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 3 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 4 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 5 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 6 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 7 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 8 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 9 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 10 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 11 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 12 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 13 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 14 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 15 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 16 - Fitness: 0.9933333333333333, Number of Features: 2
+Ant 17 - Fitness: 0.9933333333333333, Number of Features: 2
+Ant 18 - Fitness: 0.99, Number of Features: 3
+Ant 19 - Fitness: 0.9333333333333333, Number of Features: 2
+Ant 20 - Fitness: 0.9066666666666667, Number of Features: 1
+Ant 21 - Fitness: 0.8766666666666667, Number of Features: 1
+Ant 22 - Fitness: 0.8733333333333333, Number of Features: 2
+Ant 23 - Fitness: 0.8166666666666668, Number of Features: 1
+Ant 24 - Fitness: 0.7866666666666667, Number of Features: 1
+Ant 25 - Fitness: 0.6966666666666667, Number of Features: 1
+Ant 26 - Fitness: 0.6666666666666666, Number of Features: 1
+Ant 27 - Fitness: 0.6066666666666667, Number of Features: 1
+Ant 28 - Fitness: 0.6066666666666667, Number of Features: 1
+Ant 29 - Fitness: 0.5466666666666666, Number of Features: 1
+Ant 30 - Fitness: 0.42666666666666664, Number of Features: 1
+================================================================================
+
+Iteration 35: Best Fitness=0.99667, Avg Fitness=0.98333, Selected Features (1): ['radius_worst']
+
+Number of agents: 30
+
+------------- Best Agent ---------------
+Fitness: 0.9966666666666667
+Number of Features: 1
+----------------------------------------
+
+Ant 1 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 2 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 3 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 4 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 5 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 6 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 7 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 8 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 9 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 10 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 11 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 12 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 13 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 14 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 15 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 16 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 17 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 18 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 19 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 20 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 21 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 22 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 23 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 24 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 25 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 26 - Fitness: 0.9933333333333333, Number of Features: 2
+Ant 27 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 28 - Fitness: 0.9333333333333333, Number of Features: 2
+Ant 29 - Fitness: 0.9333333333333333, Number of Features: 2
+Ant 30 - Fitness: 0.7866666666666667, Number of Features: 1
+================================================================================
+
+Iteration 36: Best Fitness=0.99667, Avg Fitness=0.85389, Selected Features (1): ['radius_worst']
+
+Number of agents: 30
+
+------------- Best Agent ---------------
+Fitness: 0.9866666666666667
+Number of Features: 4
+----------------------------------------
+
+Ant 1 - Fitness: 0.9866666666666667, Number of Features: 4
+Ant 2 - Fitness: 0.9866666666666667, Number of Features: 4
+Ant 3 - Fitness: 0.9633333333333333, Number of Features: 2
+Ant 4 - Fitness: 0.9633333333333333, Number of Features: 2
+Ant 5 - Fitness: 0.96, Number of Features: 3
+Ant 6 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 7 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 8 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 9 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 10 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 11 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 12 - Fitness: 0.9333333333333333, Number of Features: 2
+Ant 13 - Fitness: 0.93, Number of Features: 3
+Ant 14 - Fitness: 0.9066666666666667, Number of Features: 1
+Ant 15 - Fitness: 0.9033333333333333, Number of Features: 2
+Ant 16 - Fitness: 0.9033333333333333, Number of Features: 2
+Ant 17 - Fitness: 0.9033333333333333, Number of Features: 2
+Ant 18 - Fitness: 0.8166666666666668, Number of Features: 1
+Ant 19 - Fitness: 0.8166666666666668, Number of Features: 1
+Ant 20 - Fitness: 0.7866666666666667, Number of Features: 1
+Ant 21 - Fitness: 0.7866666666666667, Number of Features: 1
+Ant 22 - Fitness: 0.7866666666666667, Number of Features: 1
+Ant 23 - Fitness: 0.7866666666666667, Number of Features: 1
+Ant 24 - Fitness: 0.7866666666666667, Number of Features: 1
+Ant 25 - Fitness: 0.7866666666666667, Number of Features: 1
+Ant 26 - Fitness: 0.7266666666666667, Number of Features: 1
+Ant 27 - Fitness: 0.7266666666666667, Number of Features: 1
+Ant 28 - Fitness: 0.6966666666666667, Number of Features: 1
+Ant 29 - Fitness: 0.6366666666666667, Number of Features: 1
+Ant 30 - Fitness: 0.5166666666666667, Number of Features: 1
+================================================================================
+
+Iteration 37: Best Fitness=0.99667, Avg Fitness=0.80844, Selected Features (1): ['radius_worst']
+
+Number of agents: 30
+
+------------- Best Agent ---------------
+Fitness: 0.9933333333333333
+Number of Features: 2
+----------------------------------------
+
+Ant 1 - Fitness: 0.9933333333333333, Number of Features: 2
+Ant 2 - Fitness: 0.9933333333333333, Number of Features: 2
+Ant 3 - Fitness: 0.96, Number of Features: 3
+Ant 4 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 5 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 6 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 7 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 8 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 9 - Fitness: 0.9333333333333333, Number of Features: 2
+Ant 10 - Fitness: 0.9266666666666667, Number of Features: 4
+Ant 11 - Fitness: 0.9033333333333333, Number of Features: 2
+Ant 12 - Fitness: 0.9, Number of Features: 3
+Ant 13 - Fitness: 0.8766666666666667, Number of Features: 1
+Ant 14 - Fitness: 0.8766666666666667, Number of Features: 1
+Ant 15 - Fitness: 0.8166666666666668, Number of Features: 1
+Ant 16 - Fitness: 0.7866666666666667, Number of Features: 1
+Ant 17 - Fitness: 0.7866666666666667, Number of Features: 1
+Ant 18 - Fitness: 0.7866666666666667, Number of Features: 1
+Ant 19 - Fitness: 0.7866666666666667, Number of Features: 1
+Ant 20 - Fitness: 0.7866666666666667, Number of Features: 1
+Ant 21 - Fitness: 0.7866666666666667, Number of Features: 1
+Ant 22 - Fitness: 0.7866666666666667, Number of Features: 1
+Ant 23 - Fitness: 0.7866666666666667, Number of Features: 1
+Ant 24 - Fitness: 0.7266666666666667, Number of Features: 1
+Ant 25 - Fitness: 0.6966666666666667, Number of Features: 1
+Ant 26 - Fitness: 0.6966666666666667, Number of Features: 1
+Ant 27 - Fitness: 0.6966666666666667, Number of Features: 1
+Ant 28 - Fitness: 0.42666666666666664, Number of Features: 1
+Ant 29 - Fitness: 0.42666666666666664, Number of Features: 1
+Ant 30 - Fitness: 0.42666666666666664, Number of Features: 1
+================================================================================
+
+Iteration 38: Best Fitness=0.99667, Avg Fitness=0.82656, Selected Features (1): ['radius_worst']
+
+Number of agents: 30
+
+------------- Best Agent ---------------
+Fitness: 0.9966666666666667
+Number of Features: 1
+----------------------------------------
+
+Ant 1 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 2 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 3 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 4 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 5 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 6 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 7 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 8 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 9 - Fitness: 0.9333333333333333, Number of Features: 2
+Ant 10 - Fitness: 0.9333333333333333, Number of Features: 2
+Ant 11 - Fitness: 0.93, Number of Features: 3
+Ant 12 - Fitness: 0.93, Number of Features: 3
+Ant 13 - Fitness: 0.9033333333333333, Number of Features: 2
+Ant 14 - Fitness: 0.8766666666666667, Number of Features: 1
+Ant 15 - Fitness: 0.8766666666666667, Number of Features: 1
+Ant 16 - Fitness: 0.8766666666666667, Number of Features: 1
+Ant 17 - Fitness: 0.8766666666666667, Number of Features: 1
+Ant 18 - Fitness: 0.8733333333333333, Number of Features: 2
+Ant 19 - Fitness: 0.87, Number of Features: 3
+Ant 20 - Fitness: 0.7866666666666667, Number of Features: 1
+Ant 21 - Fitness: 0.7866666666666667, Number of Features: 1
+Ant 22 - Fitness: 0.7866666666666667, Number of Features: 1
+Ant 23 - Fitness: 0.6966666666666667, Number of Features: 1
+Ant 24 - Fitness: 0.6366666666666667, Number of Features: 1
+Ant 25 - Fitness: 0.6366666666666667, Number of Features: 1
+Ant 26 - Fitness: 0.6366666666666667, Number of Features: 1
+Ant 27 - Fitness: 0.6066666666666667, Number of Features: 1
+Ant 28 - Fitness: 0.5766666666666667, Number of Features: 1
+Ant 29 - Fitness: 0.5166666666666667, Number of Features: 1
+Ant 30 - Fitness: 0.5166666666666667, Number of Features: 1
+================================================================================
+
+Iteration 39: Best Fitness=0.99667, Avg Fitness=0.86400, Selected Features (1): ['radius_worst']
+
+Number of agents: 30
+
+------------- Best Agent ---------------
+Fitness: 0.9966666666666667
+Number of Features: 1
+----------------------------------------
+
+Ant 1 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 2 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 3 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 4 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 5 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 6 - Fitness: 0.9933333333333333, Number of Features: 2
+Ant 7 - Fitness: 0.9633333333333333, Number of Features: 2
+Ant 8 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 9 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 10 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 11 - Fitness: 0.9333333333333333, Number of Features: 2
+Ant 12 - Fitness: 0.9333333333333333, Number of Features: 2
+Ant 13 - Fitness: 0.9333333333333333, Number of Features: 2
+Ant 14 - Fitness: 0.9333333333333333, Number of Features: 2
+Ant 15 - Fitness: 0.93, Number of Features: 3
+Ant 16 - Fitness: 0.9266666666666667, Number of Features: 4
+Ant 17 - Fitness: 0.9266666666666667, Number of Features: 4
+Ant 18 - Fitness: 0.9066666666666667, Number of Features: 1
+Ant 19 - Fitness: 0.8766666666666667, Number of Features: 1
+Ant 20 - Fitness: 0.8766666666666667, Number of Features: 1
+Ant 21 - Fitness: 0.8766666666666667, Number of Features: 1
+Ant 22 - Fitness: 0.8733333333333333, Number of Features: 2
+Ant 23 - Fitness: 0.7866666666666667, Number of Features: 1
+Ant 24 - Fitness: 0.7866666666666667, Number of Features: 1
+Ant 25 - Fitness: 0.7266666666666667, Number of Features: 1
+Ant 26 - Fitness: 0.7266666666666667, Number of Features: 1
+Ant 27 - Fitness: 0.6366666666666667, Number of Features: 1
+Ant 28 - Fitness: 0.5766666666666667, Number of Features: 1
+Ant 29 - Fitness: 0.5766666666666667, Number of Features: 1
+Ant 30 - Fitness: 0.42666666666666664, Number of Features: 1
+================================================================================
+
+Iteration 40: Best Fitness=0.99667, Avg Fitness=0.90856, Selected Features (1): ['radius_worst']
+
+Number of agents: 30
+
+------------- Best Agent ---------------
+Fitness: 0.9966666666666667
+Number of Features: 1
+----------------------------------------
+
+Ant 1 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 2 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 3 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 4 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 5 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 6 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 7 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 8 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 9 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 10 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 11 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 12 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 13 - Fitness: 0.9933333333333333, Number of Features: 2
+Ant 14 - Fitness: 0.9933333333333333, Number of Features: 2
+Ant 15 - Fitness: 0.99, Number of Features: 3
+Ant 16 - Fitness: 0.96, Number of Features: 3
+Ant 17 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 18 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 19 - Fitness: 0.9333333333333333, Number of Features: 2
+Ant 20 - Fitness: 0.9333333333333333, Number of Features: 2
+Ant 21 - Fitness: 0.9333333333333333, Number of Features: 2
+Ant 22 - Fitness: 0.9333333333333333, Number of Features: 2
+Ant 23 - Fitness: 0.8766666666666667, Number of Features: 1
+Ant 24 - Fitness: 0.8766666666666667, Number of Features: 1
+Ant 25 - Fitness: 0.8166666666666668, Number of Features: 1
+Ant 26 - Fitness: 0.7866666666666667, Number of Features: 1
+Ant 27 - Fitness: 0.7266666666666667, Number of Features: 1
+Ant 28 - Fitness: 0.6966666666666667, Number of Features: 1
+Ant 29 - Fitness: 0.5466666666666666, Number of Features: 1
+Ant 30 - Fitness: 0.42666666666666664, Number of Features: 1
+================================================================================
+
+Iteration 41: Best Fitness=0.99667, Avg Fitness=0.84744, Selected Features (1): ['radius_worst']
+
+Number of agents: 30
+
+------------- Best Agent ---------------
+Fitness: 0.9966666666666667
+Number of Features: 1
+----------------------------------------
+
+Ant 1 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 2 - Fitness: 0.9633333333333333, Number of Features: 2
+Ant 3 - Fitness: 0.9633333333333333, Number of Features: 2
+Ant 4 - Fitness: 0.96, Number of Features: 3
+Ant 5 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 6 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 7 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 8 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 9 - Fitness: 0.9333333333333333, Number of Features: 2
+Ant 10 - Fitness: 0.9266666666666667, Number of Features: 4
+Ant 11 - Fitness: 0.9066666666666667, Number of Features: 1
+Ant 12 - Fitness: 0.9066666666666667, Number of Features: 1
+Ant 13 - Fitness: 0.9033333333333333, Number of Features: 2
+Ant 14 - Fitness: 0.8766666666666667, Number of Features: 1
+Ant 15 - Fitness: 0.8766666666666667, Number of Features: 1
+Ant 16 - Fitness: 0.8766666666666667, Number of Features: 1
+Ant 17 - Fitness: 0.8766666666666667, Number of Features: 1
+Ant 18 - Fitness: 0.8733333333333333, Number of Features: 2
+Ant 19 - Fitness: 0.8433333333333333, Number of Features: 2
+Ant 20 - Fitness: 0.8166666666666668, Number of Features: 1
+Ant 21 - Fitness: 0.7866666666666667, Number of Features: 1
+Ant 22 - Fitness: 0.7866666666666667, Number of Features: 1
+Ant 23 - Fitness: 0.7866666666666667, Number of Features: 1
+Ant 24 - Fitness: 0.7866666666666667, Number of Features: 1
+Ant 25 - Fitness: 0.7866666666666667, Number of Features: 1
+Ant 26 - Fitness: 0.6966666666666667, Number of Features: 1
+Ant 27 - Fitness: 0.6966666666666667, Number of Features: 1
+Ant 28 - Fitness: 0.6966666666666667, Number of Features: 1
+Ant 29 - Fitness: 0.6366666666666667, Number of Features: 1
+Ant 30 - Fitness: 0.5166666666666667, Number of Features: 1
+================================================================================
+
+Iteration 42: Best Fitness=0.99667, Avg Fitness=0.86256, Selected Features (1): ['radius_worst']
+
+Number of agents: 30
+
+------------- Best Agent ---------------
+Fitness: 0.9966666666666667
+Number of Features: 1
+----------------------------------------
+
+Ant 1 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 2 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 3 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 4 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 5 - Fitness: 0.9933333333333333, Number of Features: 2
+Ant 6 - Fitness: 0.9933333333333333, Number of Features: 2
+Ant 7 - Fitness: 0.9933333333333333, Number of Features: 2
+Ant 8 - Fitness: 0.9933333333333333, Number of Features: 2
+Ant 9 - Fitness: 0.96, Number of Features: 3
+Ant 10 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 11 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 12 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 13 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 14 - Fitness: 0.9333333333333333, Number of Features: 2
+Ant 15 - Fitness: 0.9333333333333333, Number of Features: 2
+Ant 16 - Fitness: 0.9066666666666667, Number of Features: 1
+Ant 17 - Fitness: 0.8766666666666667, Number of Features: 1
+Ant 18 - Fitness: 0.8766666666666667, Number of Features: 1
+Ant 19 - Fitness: 0.8766666666666667, Number of Features: 1
+Ant 20 - Fitness: 0.7866666666666667, Number of Features: 1
+Ant 21 - Fitness: 0.7866666666666667, Number of Features: 1
+Ant 22 - Fitness: 0.7866666666666667, Number of Features: 1
+Ant 23 - Fitness: 0.7866666666666667, Number of Features: 1
+Ant 24 - Fitness: 0.7833333333333333, Number of Features: 2
+Ant 25 - Fitness: 0.7533333333333332, Number of Features: 2
+Ant 26 - Fitness: 0.6966666666666667, Number of Features: 1
+Ant 27 - Fitness: 0.6666666666666666, Number of Features: 1
+Ant 28 - Fitness: 0.6066666666666667, Number of Features: 1
+Ant 29 - Fitness: 0.5766666666666667, Number of Features: 1
+Ant 30 - Fitness: 0.5766666666666667, Number of Features: 1
+================================================================================
+
+Iteration 43: Best Fitness=0.99667, Avg Fitness=0.89689, Selected Features (1): ['radius_worst']
+
+Number of agents: 30
+
+------------- Best Agent ---------------
+Fitness: 0.9966666666666667
+Number of Features: 1
+----------------------------------------
+
+Ant 1 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 2 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 3 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 4 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 5 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 6 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 7 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 8 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 9 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 10 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 11 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 12 - Fitness: 0.9933333333333333, Number of Features: 2
+Ant 13 - Fitness: 0.9933333333333333, Number of Features: 2
+Ant 14 - Fitness: 0.9933333333333333, Number of Features: 2
+Ant 15 - Fitness: 0.9933333333333333, Number of Features: 2
+Ant 16 - Fitness: 0.99, Number of Features: 3
+Ant 17 - Fitness: 0.9633333333333333, Number of Features: 2
+Ant 18 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 19 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 20 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 21 - Fitness: 0.8766666666666667, Number of Features: 1
+Ant 22 - Fitness: 0.8766666666666667, Number of Features: 1
+Ant 23 - Fitness: 0.8766666666666667, Number of Features: 1
+Ant 24 - Fitness: 0.8166666666666668, Number of Features: 1
+Ant 25 - Fitness: 0.7866666666666667, Number of Features: 1
+Ant 26 - Fitness: 0.6966666666666667, Number of Features: 1
+Ant 27 - Fitness: 0.6966666666666667, Number of Features: 1
+Ant 28 - Fitness: 0.5466666666666666, Number of Features: 1
+Ant 29 - Fitness: 0.5166666666666667, Number of Features: 1
+Ant 30 - Fitness: 0.5166666666666667, Number of Features: 1
+================================================================================
+
+Iteration 44: Best Fitness=0.99667, Avg Fitness=0.90411, Selected Features (1): ['radius_worst']
+
+Number of agents: 30
+
+------------- Best Agent ---------------
+Fitness: 0.9966666666666667
+Number of Features: 1
+----------------------------------------
+
+Ant 1 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 2 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 3 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 4 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 5 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 6 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 7 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 8 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 9 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 10 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 11 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 12 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 13 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 14 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 15 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 16 - Fitness: 0.9933333333333333, Number of Features: 2
+Ant 17 - Fitness: 0.9933333333333333, Number of Features: 2
+Ant 18 - Fitness: 0.9933333333333333, Number of Features: 2
+Ant 19 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 20 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 21 - Fitness: 0.9333333333333333, Number of Features: 2
+Ant 22 - Fitness: 0.8733333333333333, Number of Features: 2
+Ant 23 - Fitness: 0.8166666666666668, Number of Features: 1
+Ant 24 - Fitness: 0.7866666666666667, Number of Features: 1
+Ant 25 - Fitness: 0.7866666666666667, Number of Features: 1
+Ant 26 - Fitness: 0.7266666666666667, Number of Features: 1
+Ant 27 - Fitness: 0.6966666666666667, Number of Features: 1
+Ant 28 - Fitness: 0.6066666666666667, Number of Features: 1
+Ant 29 - Fitness: 0.5766666666666667, Number of Features: 1
+Ant 30 - Fitness: 0.5166666666666667, Number of Features: 1
+================================================================================
+
+Iteration 45: Best Fitness=0.99667, Avg Fitness=0.97833, Selected Features (1): ['radius_worst']
+
+Number of agents: 30
+
+------------- Best Agent ---------------
+Fitness: 0.9966666666666667
+Number of Features: 1
+----------------------------------------
+
+Ant 1 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 2 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 3 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 4 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 5 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 6 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 7 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 8 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 9 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 10 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 11 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 12 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 13 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 14 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 15 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 16 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 17 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 18 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 19 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 20 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 21 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 22 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 23 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 24 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 25 - Fitness: 0.9933333333333333, Number of Features: 2
+Ant 26 - Fitness: 0.9933333333333333, Number of Features: 2
+Ant 27 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 28 - Fitness: 0.9033333333333333, Number of Features: 2
+Ant 29 - Fitness: 0.8166666666666668, Number of Features: 1
+Ant 30 - Fitness: 0.7866666666666667, Number of Features: 1
+================================================================================
+
+Iteration 46: Best Fitness=0.99667, Avg Fitness=0.83111, Selected Features (1): ['radius_worst']
+
+Number of agents: 30
+
+------------- Best Agent ---------------
+Fitness: 0.9966666666666667
+Number of Features: 1
+----------------------------------------
+
+Ant 1 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 2 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 3 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 4 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 5 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 6 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 7 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 8 - Fitness: 0.9333333333333333, Number of Features: 2
+Ant 9 - Fitness: 0.9066666666666667, Number of Features: 1
+Ant 10 - Fitness: 0.8966666666666667, Number of Features: 4
+Ant 11 - Fitness: 0.8766666666666667, Number of Features: 1
+Ant 12 - Fitness: 0.8766666666666667, Number of Features: 1
+Ant 13 - Fitness: 0.8766666666666667, Number of Features: 1
+Ant 14 - Fitness: 0.8766666666666667, Number of Features: 1
+Ant 15 - Fitness: 0.8133333333333334, Number of Features: 2
+Ant 16 - Fitness: 0.7866666666666667, Number of Features: 1
+Ant 17 - Fitness: 0.7866666666666667, Number of Features: 1
+Ant 18 - Fitness: 0.7866666666666667, Number of Features: 1
+Ant 19 - Fitness: 0.7866666666666667, Number of Features: 1
+Ant 20 - Fitness: 0.7866666666666667, Number of Features: 1
+Ant 21 - Fitness: 0.7866666666666667, Number of Features: 1
+Ant 22 - Fitness: 0.7866666666666667, Number of Features: 1
+Ant 23 - Fitness: 0.7866666666666667, Number of Features: 1
+Ant 24 - Fitness: 0.7866666666666667, Number of Features: 1
+Ant 25 - Fitness: 0.7266666666666667, Number of Features: 1
+Ant 26 - Fitness: 0.7266666666666667, Number of Features: 1
+Ant 27 - Fitness: 0.6966666666666667, Number of Features: 1
+Ant 28 - Fitness: 0.6666666666666666, Number of Features: 1
+Ant 29 - Fitness: 0.6666666666666666, Number of Features: 1
+Ant 30 - Fitness: 0.6366666666666667, Number of Features: 1
+================================================================================
+
+Iteration 47: Best Fitness=0.99667, Avg Fitness=0.85722, Selected Features (1): ['radius_worst']
+
+Number of agents: 30
+
+------------- Best Agent ---------------
+Fitness: 0.9966666666666667
+Number of Features: 1
+----------------------------------------
+
+Ant 1 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 2 - Fitness: 0.9933333333333333, Number of Features: 2
+Ant 3 - Fitness: 0.9633333333333333, Number of Features: 2
+Ant 4 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 5 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 6 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 7 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 8 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 9 - Fitness: 0.9333333333333333, Number of Features: 2
+Ant 10 - Fitness: 0.9333333333333333, Number of Features: 2
+Ant 11 - Fitness: 0.93, Number of Features: 3
+Ant 12 - Fitness: 0.9266666666666667, Number of Features: 4
+Ant 13 - Fitness: 0.9066666666666667, Number of Features: 1
+Ant 14 - Fitness: 0.9, Number of Features: 3
+Ant 15 - Fitness: 0.8766666666666667, Number of Features: 1
+Ant 16 - Fitness: 0.8766666666666667, Number of Features: 1
+Ant 17 - Fitness: 0.8766666666666667, Number of Features: 1
+Ant 18 - Fitness: 0.8766666666666667, Number of Features: 1
+Ant 19 - Fitness: 0.8733333333333333, Number of Features: 2
+Ant 20 - Fitness: 0.8433333333333333, Number of Features: 2
+Ant 21 - Fitness: 0.8166666666666668, Number of Features: 1
+Ant 22 - Fitness: 0.8166666666666668, Number of Features: 1
+Ant 23 - Fitness: 0.8166666666666668, Number of Features: 1
+Ant 24 - Fitness: 0.7866666666666667, Number of Features: 1
+Ant 25 - Fitness: 0.7866666666666667, Number of Features: 1
+Ant 26 - Fitness: 0.7866666666666667, Number of Features: 1
+Ant 27 - Fitness: 0.7266666666666667, Number of Features: 1
+Ant 28 - Fitness: 0.6966666666666667, Number of Features: 1
+Ant 29 - Fitness: 0.5466666666666666, Number of Features: 1
+Ant 30 - Fitness: 0.5466666666666666, Number of Features: 1
+================================================================================
+
+Iteration 48: Best Fitness=0.99667, Avg Fitness=0.84233, Selected Features (1): ['radius_worst']
+
+Number of agents: 30
+
+------------- Best Agent ---------------
+Fitness: 0.9966666666666667
+Number of Features: 1
+----------------------------------------
+
+Ant 1 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 2 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 3 - Fitness: 0.9933333333333333, Number of Features: 2
+Ant 4 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 5 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 6 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 7 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 8 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 9 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 10 - Fitness: 0.9333333333333333, Number of Features: 2
+Ant 11 - Fitness: 0.9333333333333333, Number of Features: 2
+Ant 12 - Fitness: 0.9333333333333333, Number of Features: 2
+Ant 13 - Fitness: 0.93, Number of Features: 3
+Ant 14 - Fitness: 0.93, Number of Features: 3
+Ant 15 - Fitness: 0.9033333333333333, Number of Features: 2
+Ant 16 - Fitness: 0.9033333333333333, Number of Features: 2
+Ant 17 - Fitness: 0.8766666666666667, Number of Features: 1
+Ant 18 - Fitness: 0.8433333333333333, Number of Features: 2
+Ant 19 - Fitness: 0.8166666666666668, Number of Features: 1
+Ant 20 - Fitness: 0.8166666666666668, Number of Features: 1
+Ant 21 - Fitness: 0.8133333333333334, Number of Features: 2
+Ant 22 - Fitness: 0.7866666666666667, Number of Features: 1
+Ant 23 - Fitness: 0.7866666666666667, Number of Features: 1
+Ant 24 - Fitness: 0.7266666666666667, Number of Features: 1
+Ant 25 - Fitness: 0.6966666666666667, Number of Features: 1
+Ant 26 - Fitness: 0.6966666666666667, Number of Features: 1
+Ant 27 - Fitness: 0.6966666666666667, Number of Features: 1
+Ant 28 - Fitness: 0.6966666666666667, Number of Features: 1
+Ant 29 - Fitness: 0.5166666666666667, Number of Features: 1
+Ant 30 - Fitness: 0.42666666666666664, Number of Features: 1
+================================================================================
+
+Iteration 49: Best Fitness=0.99667, Avg Fitness=0.85800, Selected Features (1): ['radius_worst']
+
+Number of agents: 30
+
+------------- Best Agent ---------------
+Fitness: 0.9966666666666667
+Number of Features: 1
+----------------------------------------
+
+Ant 1 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 2 - Fitness: 0.9933333333333333, Number of Features: 2
+Ant 3 - Fitness: 0.9933333333333333, Number of Features: 2
+Ant 4 - Fitness: 0.9933333333333333, Number of Features: 2
+Ant 5 - Fitness: 0.9933333333333333, Number of Features: 2
+Ant 6 - Fitness: 0.9933333333333333, Number of Features: 2
+Ant 7 - Fitness: 0.99, Number of Features: 3
+Ant 8 - Fitness: 0.9633333333333333, Number of Features: 2
+Ant 9 - Fitness: 0.9633333333333333, Number of Features: 2
+Ant 10 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 11 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 12 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 13 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 14 - Fitness: 0.9333333333333333, Number of Features: 2
+Ant 15 - Fitness: 0.9333333333333333, Number of Features: 2
+Ant 16 - Fitness: 0.9333333333333333, Number of Features: 2
+Ant 17 - Fitness: 0.93, Number of Features: 3
+Ant 18 - Fitness: 0.9066666666666667, Number of Features: 1
+Ant 19 - Fitness: 0.9033333333333333, Number of Features: 2
+Ant 20 - Fitness: 0.8766666666666667, Number of Features: 1
+Ant 21 - Fitness: 0.8166666666666668, Number of Features: 1
+Ant 22 - Fitness: 0.7866666666666667, Number of Features: 1
+Ant 23 - Fitness: 0.7266666666666667, Number of Features: 1
+Ant 24 - Fitness: 0.7266666666666667, Number of Features: 1
+Ant 25 - Fitness: 0.6966666666666667, Number of Features: 1
+Ant 26 - Fitness: 0.6366666666666667, Number of Features: 1
+Ant 27 - Fitness: 0.6066666666666667, Number of Features: 1
+Ant 28 - Fitness: 0.6066666666666667, Number of Features: 1
+Ant 29 - Fitness: 0.5466666666666666, Number of Features: 1
+Ant 30 - Fitness: 0.5466666666666666, Number of Features: 1
+================================================================================
+
+Iteration 50: Best Fitness=0.99667, Avg Fitness=0.90100, Selected Features (1): ['radius_worst']
+
+Number of agents: 30
+
+------------- Best Agent ---------------
+Fitness: 0.9966666666666667
+Number of Features: 1
+----------------------------------------
+
+Ant 1 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 2 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 3 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 4 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 5 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 6 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 7 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 8 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 9 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 10 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 11 - Fitness: 0.9966666666666667, Number of Features: 1
+Ant 12 - Fitness: 0.9933333333333333, Number of Features: 2
+Ant 13 - Fitness: 0.9933333333333333, Number of Features: 2
+Ant 14 - Fitness: 0.9933333333333333, Number of Features: 2
+Ant 15 - Fitness: 0.9933333333333333, Number of Features: 2
+Ant 16 - Fitness: 0.9933333333333333, Number of Features: 2
+Ant 17 - Fitness: 0.9933333333333333, Number of Features: 2
+Ant 18 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 19 - Fitness: 0.9366666666666668, Number of Features: 1
+Ant 20 - Fitness: 0.9066666666666667, Number of Features: 1
+Ant 21 - Fitness: 0.8766666666666667, Number of Features: 1
+Ant 22 - Fitness: 0.8166666666666668, Number of Features: 1
+Ant 23 - Fitness: 0.7866666666666667, Number of Features: 1
+Ant 24 - Fitness: 0.7866666666666667, Number of Features: 1
+Ant 25 - Fitness: 0.7866666666666667, Number of Features: 1
+Ant 26 - Fitness: 0.7266666666666667, Number of Features: 1
+Ant 27 - Fitness: 0.6966666666666667, Number of Features: 1
+Ant 28 - Fitness: 0.6366666666666667, Number of Features: 1
+Ant 29 - Fitness: 0.6066666666666667, Number of Features: 1
+Ant 30 - Fitness: 0.6066666666666667, Number of Features: 1
+================================================================================
+
+
+------------- Leader Agent ---------------
+Fitness: 0.9966666666666667
+Number of Features: 1
+----------------------------------------
+
+
+------------- Leader Agent ------------------------
+Fitness: 0.99667
+Vector: [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0]
+Selected 1 features: ['radius_worst']
+---------------------------------------------------

@@ -1,0 +1,2264 @@
+
+Accuracy using all 30 features: 0.95322
+
+================================================================================
+Iteration - 1
+================================================================================
+Iteration 1: Best Fitness=0.94000, Avg Fitness=0.90378, Selected Features (9): ['area_mean', 'smoothness_mean', 'smoothness_se', 'fractal_dimension_se', 'texture_worst', 'perimeter_worst', 'smoothness_worst', 'symmetry_worst', 'fractal_dimension_worst']
+
+Number of agents: 30
+
+------------- Best Agent ---------------
+Fitness: 0.94
+Number of Features: 9
+----------------------------------------
+
+Particle 1 - Fitness: 0.94, Number of Features: 9
+Particle 2 - Fitness: 0.94, Number of Features: 9
+Particle 3 - Fitness: 0.94, Number of Features: 9
+Particle 4 - Fitness: 0.9366666666666666, Number of Features: 10
+Particle 5 - Fitness: 0.9366666666666666, Number of Features: 10
+Particle 6 - Fitness: 0.9299999999999999, Number of Features: 12
+Particle 7 - Fitness: 0.9266666666666666, Number of Features: 13
+Particle 8 - Fitness: 0.9266666666666666, Number of Features: 13
+Particle 9 - Fitness: 0.9266666666666666, Number of Features: 13
+Particle 10 - Fitness: 0.9166666666666667, Number of Features: 7
+Particle 11 - Fitness: 0.9133333333333333, Number of Features: 17
+Particle 12 - Fitness: 0.9133333333333333, Number of Features: 17
+Particle 13 - Fitness: 0.91, Number of Features: 9
+Particle 14 - Fitness: 0.9066666666666667, Number of Features: 10
+Particle 15 - Fitness: 0.9066666666666667, Number of Features: 10
+Particle 16 - Fitness: 0.9066666666666667, Number of Features: 10
+Particle 17 - Fitness: 0.9033333333333334, Number of Features: 11
+Particle 18 - Fitness: 0.9, Number of Features: 12
+Particle 19 - Fitness: 0.8966666666666667, Number of Features: 13
+Particle 20 - Fitness: 0.8966666666666667, Number of Features: 13
+Particle 21 - Fitness: 0.8933333333333334, Number of Features: 14
+Particle 22 - Fitness: 0.8933333333333334, Number of Features: 14
+Particle 23 - Fitness: 0.88, Number of Features: 9
+Particle 24 - Fitness: 0.87, Number of Features: 12
+Particle 25 - Fitness: 0.87, Number of Features: 12
+Particle 26 - Fitness: 0.87, Number of Features: 12
+Particle 27 - Fitness: 0.8666666666666667, Number of Features: 13
+Particle 28 - Fitness: 0.8666666666666667, Number of Features: 13
+Particle 29 - Fitness: 0.8666666666666667, Number of Features: 13
+Particle 30 - Fitness: 0.8633333333333334, Number of Features: 14
+================================================================================
+
+
+================================================================================
+Iteration - 2
+================================================================================
+Iteration 2: Best Fitness=0.96667, Avg Fitness=0.90400, Selected Features (10): ['radius_mean', 'texture_mean', 'smoothness_mean', 'concave points_mean', 'radius_se', 'area_se', 'smoothness_se', 'fractal_dimension_se', 'radius_worst', 'symmetry_worst']
+
+Number of agents: 30
+
+------------- Best Agent ---------------
+Fitness: 0.9666666666666667
+Number of Features: 10
+----------------------------------------
+
+Particle 1 - Fitness: 0.9666666666666667, Number of Features: 10
+Particle 2 - Fitness: 0.96, Number of Features: 12
+Particle 3 - Fitness: 0.9433333333333334, Number of Features: 8
+Particle 4 - Fitness: 0.9366666666666666, Number of Features: 10
+Particle 5 - Fitness: 0.9366666666666666, Number of Features: 10
+Particle 6 - Fitness: 0.9333333333333333, Number of Features: 11
+Particle 7 - Fitness: 0.9299999999999999, Number of Features: 12
+Particle 8 - Fitness: 0.9299999999999999, Number of Features: 12
+Particle 9 - Fitness: 0.9233333333333333, Number of Features: 5
+Particle 10 - Fitness: 0.9233333333333333, Number of Features: 14
+Particle 11 - Fitness: 0.9233333333333333, Number of Features: 14
+Particle 12 - Fitness: 0.9199999999999999, Number of Features: 15
+Particle 13 - Fitness: 0.9166666666666666, Number of Features: 16
+Particle 14 - Fitness: 0.9033333333333334, Number of Features: 11
+Particle 15 - Fitness: 0.9033333333333334, Number of Features: 11
+Particle 16 - Fitness: 0.9033333333333334, Number of Features: 11
+Particle 17 - Fitness: 0.8966666666666667, Number of Features: 13
+Particle 18 - Fitness: 0.8966666666666667, Number of Features: 13
+Particle 19 - Fitness: 0.8966666666666667, Number of Features: 13
+Particle 20 - Fitness: 0.8966666666666667, Number of Features: 13
+Particle 21 - Fitness: 0.8866666666666667, Number of Features: 7
+Particle 22 - Fitness: 0.8733333333333334, Number of Features: 11
+Particle 23 - Fitness: 0.8733333333333334, Number of Features: 11
+Particle 24 - Fitness: 0.87, Number of Features: 12
+Particle 25 - Fitness: 0.8666666666666667, Number of Features: 13
+Particle 26 - Fitness: 0.8666666666666667, Number of Features: 13
+Particle 27 - Fitness: 0.8633333333333334, Number of Features: 14
+Particle 28 - Fitness: 0.8633333333333334, Number of Features: 14
+Particle 29 - Fitness: 0.8600000000000001, Number of Features: 15
+Particle 30 - Fitness: 0.8566666666666667, Number of Features: 7
+================================================================================
+
+
+================================================================================
+Iteration - 3
+================================================================================
+Iteration 3: Best Fitness=0.96667, Avg Fitness=0.91433, Selected Features (10): ['radius_mean', 'texture_mean', 'smoothness_mean', 'concave points_mean', 'radius_se', 'area_se', 'smoothness_se', 'fractal_dimension_se', 'radius_worst', 'symmetry_worst']
+
+Number of agents: 30
+
+------------- Best Agent ---------------
+Fitness: 0.96
+Number of Features: 12
+----------------------------------------
+
+Particle 1 - Fitness: 0.96, Number of Features: 12
+Particle 2 - Fitness: 0.94, Number of Features: 9
+Particle 3 - Fitness: 0.9366666666666666, Number of Features: 10
+Particle 4 - Fitness: 0.9366666666666666, Number of Features: 10
+Particle 5 - Fitness: 0.9333333333333333, Number of Features: 11
+Particle 6 - Fitness: 0.9299999999999999, Number of Features: 12
+Particle 7 - Fitness: 0.9299999999999999, Number of Features: 12
+Particle 8 - Fitness: 0.9299999999999999, Number of Features: 12
+Particle 9 - Fitness: 0.9266666666666666, Number of Features: 13
+Particle 10 - Fitness: 0.9266666666666666, Number of Features: 13
+Particle 11 - Fitness: 0.9233333333333333, Number of Features: 14
+Particle 12 - Fitness: 0.9233333333333333, Number of Features: 14
+Particle 13 - Fitness: 0.9199999999999999, Number of Features: 15
+Particle 14 - Fitness: 0.9199999999999999, Number of Features: 15
+Particle 15 - Fitness: 0.9166666666666667, Number of Features: 7
+Particle 16 - Fitness: 0.9166666666666666, Number of Features: 16
+Particle 17 - Fitness: 0.9166666666666666, Number of Features: 16
+Particle 18 - Fitness: 0.9166666666666666, Number of Features: 16
+Particle 19 - Fitness: 0.9133333333333333, Number of Features: 17
+Particle 20 - Fitness: 0.9033333333333334, Number of Features: 11
+Particle 21 - Fitness: 0.9033333333333334, Number of Features: 11
+Particle 22 - Fitness: 0.9033333333333334, Number of Features: 11
+Particle 23 - Fitness: 0.9, Number of Features: 12
+Particle 24 - Fitness: 0.8933333333333334, Number of Features: 14
+Particle 25 - Fitness: 0.8900000000000001, Number of Features: 15
+Particle 26 - Fitness: 0.8900000000000001, Number of Features: 15
+Particle 27 - Fitness: 0.8900000000000001, Number of Features: 15
+Particle 28 - Fitness: 0.8900000000000001, Number of Features: 15
+Particle 29 - Fitness: 0.8766666666666667, Number of Features: 10
+Particle 30 - Fitness: 0.8733333333333334, Number of Features: 11
+================================================================================
+
+
+================================================================================
+Iteration - 4
+================================================================================
+Iteration 4: Best Fitness=0.96667, Avg Fitness=0.90622, Selected Features (10): ['radius_mean', 'texture_mean', 'smoothness_mean', 'concave points_mean', 'radius_se', 'area_se', 'smoothness_se', 'fractal_dimension_se', 'radius_worst', 'symmetry_worst']
+
+Number of agents: 30
+
+------------- Best Agent ---------------
+Fitness: 0.96
+Number of Features: 12
+----------------------------------------
+
+Particle 1 - Fitness: 0.96, Number of Features: 12
+Particle 2 - Fitness: 0.9433333333333334, Number of Features: 8
+Particle 3 - Fitness: 0.9433333333333334, Number of Features: 8
+Particle 4 - Fitness: 0.94, Number of Features: 9
+Particle 5 - Fitness: 0.9366666666666666, Number of Features: 10
+Particle 6 - Fitness: 0.9366666666666666, Number of Features: 10
+Particle 7 - Fitness: 0.9366666666666666, Number of Features: 10
+Particle 8 - Fitness: 0.9366666666666666, Number of Features: 10
+Particle 9 - Fitness: 0.9333333333333333, Number of Features: 11
+Particle 10 - Fitness: 0.9333333333333333, Number of Features: 11
+Particle 11 - Fitness: 0.9299999999999999, Number of Features: 12
+Particle 12 - Fitness: 0.9233333333333333, Number of Features: 14
+Particle 13 - Fitness: 0.9233333333333333, Number of Features: 14
+Particle 14 - Fitness: 0.9199999999999999, Number of Features: 15
+Particle 15 - Fitness: 0.9166666666666667, Number of Features: 7
+Particle 16 - Fitness: 0.9133333333333333, Number of Features: 8
+Particle 17 - Fitness: 0.9033333333333334, Number of Features: 11
+Particle 18 - Fitness: 0.9033333333333334, Number of Features: 11
+Particle 19 - Fitness: 0.9033333333333334, Number of Features: 11
+Particle 20 - Fitness: 0.9033333333333334, Number of Features: 11
+Particle 21 - Fitness: 0.9, Number of Features: 12
+Particle 22 - Fitness: 0.8966666666666667, Number of Features: 13
+Particle 23 - Fitness: 0.87, Number of Features: 12
+Particle 24 - Fitness: 0.8666666666666667, Number of Features: 13
+Particle 25 - Fitness: 0.8633333333333334, Number of Features: 14
+Particle 26 - Fitness: 0.8600000000000001, Number of Features: 15
+Particle 27 - Fitness: 0.8600000000000001, Number of Features: 15
+Particle 28 - Fitness: 0.8533333333333333, Number of Features: 8
+Particle 29 - Fitness: 0.8433333333333334, Number of Features: 20
+Particle 30 - Fitness: 0.8333333333333334, Number of Features: 14
+================================================================================
+
+
+================================================================================
+Iteration - 5
+================================================================================
+Iteration 5: Best Fitness=0.98667, Avg Fitness=0.90567, Selected Features (4): ['perimeter_se', 'fractal_dimension_se', 'radius_worst', 'symmetry_worst']
+
+Number of agents: 30
+
+------------- Best Agent ---------------
+Fitness: 0.9866666666666667
+Number of Features: 4
+----------------------------------------
+
+Particle 1 - Fitness: 0.9866666666666667, Number of Features: 4
+Particle 2 - Fitness: 0.97, Number of Features: 9
+Particle 3 - Fitness: 0.9666666666666667, Number of Features: 10
+Particle 4 - Fitness: 0.94, Number of Features: 9
+Particle 5 - Fitness: 0.9366666666666666, Number of Features: 10
+Particle 6 - Fitness: 0.9366666666666666, Number of Features: 10
+Particle 7 - Fitness: 0.9299999999999999, Number of Features: 12
+Particle 8 - Fitness: 0.9299999999999999, Number of Features: 12
+Particle 9 - Fitness: 0.9299999999999999, Number of Features: 12
+Particle 10 - Fitness: 0.9266666666666666, Number of Features: 13
+Particle 11 - Fitness: 0.9266666666666666, Number of Features: 13
+Particle 12 - Fitness: 0.9166666666666666, Number of Features: 16
+Particle 13 - Fitness: 0.91, Number of Features: 9
+Particle 14 - Fitness: 0.91, Number of Features: 9
+Particle 15 - Fitness: 0.9066666666666667, Number of Features: 10
+Particle 16 - Fitness: 0.9066666666666667, Number of Features: 10
+Particle 17 - Fitness: 0.9033333333333334, Number of Features: 11
+Particle 18 - Fitness: 0.9, Number of Features: 12
+Particle 19 - Fitness: 0.8966666666666667, Number of Features: 13
+Particle 20 - Fitness: 0.8933333333333334, Number of Features: 14
+Particle 21 - Fitness: 0.8900000000000001, Number of Features: 15
+Particle 22 - Fitness: 0.87, Number of Features: 12
+Particle 23 - Fitness: 0.87, Number of Features: 12
+Particle 24 - Fitness: 0.8666666666666667, Number of Features: 13
+Particle 25 - Fitness: 0.8666666666666667, Number of Features: 13
+Particle 26 - Fitness: 0.8633333333333334, Number of Features: 14
+Particle 27 - Fitness: 0.8633333333333334, Number of Features: 14
+Particle 28 - Fitness: 0.8600000000000001, Number of Features: 15
+Particle 29 - Fitness: 0.8500000000000001, Number of Features: 18
+Particle 30 - Fitness: 0.8466666666666667, Number of Features: 19
+================================================================================
+
+
+================================================================================
+Iteration - 6
+================================================================================
+Iteration 6: Best Fitness=0.98667, Avg Fitness=0.91033, Selected Features (4): ['perimeter_se', 'fractal_dimension_se', 'radius_worst', 'symmetry_worst']
+
+Number of agents: 30
+
+------------- Best Agent ---------------
+Fitness: 0.9633333333333334
+Number of Features: 11
+----------------------------------------
+
+Particle 1 - Fitness: 0.9633333333333334, Number of Features: 11
+Particle 2 - Fitness: 0.9566666666666667, Number of Features: 13
+Particle 3 - Fitness: 0.9466666666666667, Number of Features: 7
+Particle 4 - Fitness: 0.9466666666666667, Number of Features: 7
+Particle 5 - Fitness: 0.94, Number of Features: 9
+Particle 6 - Fitness: 0.9366666666666666, Number of Features: 10
+Particle 7 - Fitness: 0.9333333333333333, Number of Features: 11
+Particle 8 - Fitness: 0.9299999999999999, Number of Features: 12
+Particle 9 - Fitness: 0.9299999999999999, Number of Features: 12
+Particle 10 - Fitness: 0.9299999999999999, Number of Features: 12
+Particle 11 - Fitness: 0.9266666666666666, Number of Features: 13
+Particle 12 - Fitness: 0.9266666666666666, Number of Features: 13
+Particle 13 - Fitness: 0.9233333333333333, Number of Features: 14
+Particle 14 - Fitness: 0.9199999999999999, Number of Features: 15
+Particle 15 - Fitness: 0.9133333333333333, Number of Features: 8
+Particle 16 - Fitness: 0.9133333333333333, Number of Features: 8
+Particle 17 - Fitness: 0.9066666666666667, Number of Features: 10
+Particle 18 - Fitness: 0.9033333333333334, Number of Features: 11
+Particle 19 - Fitness: 0.9033333333333334, Number of Features: 11
+Particle 20 - Fitness: 0.9, Number of Features: 12
+Particle 21 - Fitness: 0.9, Number of Features: 12
+Particle 22 - Fitness: 0.8933333333333334, Number of Features: 14
+Particle 23 - Fitness: 0.8900000000000001, Number of Features: 15
+Particle 24 - Fitness: 0.8900000000000001, Number of Features: 15
+Particle 25 - Fitness: 0.8833333333333333, Number of Features: 8
+Particle 26 - Fitness: 0.87, Number of Features: 12
+Particle 27 - Fitness: 0.8633333333333334, Number of Features: 14
+Particle 28 - Fitness: 0.8600000000000001, Number of Features: 15
+Particle 29 - Fitness: 0.8600000000000001, Number of Features: 15
+Particle 30 - Fitness: 0.85, Number of Features: 9
+================================================================================
+
+
+================================================================================
+Iteration - 7
+================================================================================
+Iteration 7: Best Fitness=0.98667, Avg Fitness=0.90244, Selected Features (4): ['perimeter_se', 'fractal_dimension_se', 'radius_worst', 'symmetry_worst']
+
+Number of agents: 30
+
+------------- Best Agent ---------------
+Fitness: 0.97
+Number of Features: 9
+----------------------------------------
+
+Particle 1 - Fitness: 0.97, Number of Features: 9
+Particle 2 - Fitness: 0.94, Number of Features: 9
+Particle 3 - Fitness: 0.9366666666666666, Number of Features: 10
+Particle 4 - Fitness: 0.9366666666666666, Number of Features: 10
+Particle 5 - Fitness: 0.9299999999999999, Number of Features: 12
+Particle 6 - Fitness: 0.9299999999999999, Number of Features: 12
+Particle 7 - Fitness: 0.9266666666666666, Number of Features: 13
+Particle 8 - Fitness: 0.9233333333333333, Number of Features: 14
+Particle 9 - Fitness: 0.9199999999999999, Number of Features: 15
+Particle 10 - Fitness: 0.9166666666666667, Number of Features: 7
+Particle 11 - Fitness: 0.91, Number of Features: 9
+Particle 12 - Fitness: 0.91, Number of Features: 9
+Particle 13 - Fitness: 0.91, Number of Features: 9
+Particle 14 - Fitness: 0.91, Number of Features: 9
+Particle 15 - Fitness: 0.9066666666666667, Number of Features: 10
+Particle 16 - Fitness: 0.9066666666666667, Number of Features: 10
+Particle 17 - Fitness: 0.9033333333333334, Number of Features: 11
+Particle 18 - Fitness: 0.8966666666666667, Number of Features: 13
+Particle 19 - Fitness: 0.8966666666666667, Number of Features: 13
+Particle 20 - Fitness: 0.8900000000000001, Number of Features: 15
+Particle 21 - Fitness: 0.8866666666666667, Number of Features: 16
+Particle 22 - Fitness: 0.88, Number of Features: 9
+Particle 23 - Fitness: 0.8766666666666667, Number of Features: 10
+Particle 24 - Fitness: 0.8766666666666667, Number of Features: 10
+Particle 25 - Fitness: 0.8733333333333334, Number of Features: 20
+Particle 26 - Fitness: 0.87, Number of Features: 12
+Particle 27 - Fitness: 0.8666666666666667, Number of Features: 13
+Particle 28 - Fitness: 0.8633333333333334, Number of Features: 14
+Particle 29 - Fitness: 0.8600000000000001, Number of Features: 15
+Particle 30 - Fitness: 0.8500000000000001, Number of Features: 18
+================================================================================
+
+
+================================================================================
+Iteration - 8
+================================================================================
+Iteration 8: Best Fitness=0.98667, Avg Fitness=0.90544, Selected Features (4): ['perimeter_se', 'fractal_dimension_se', 'radius_worst', 'symmetry_worst']
+
+Number of agents: 30
+
+------------- Best Agent ---------------
+Fitness: 0.95
+Number of Features: 6
+----------------------------------------
+
+Particle 1 - Fitness: 0.95, Number of Features: 6
+Particle 2 - Fitness: 0.9433333333333334, Number of Features: 8
+Particle 3 - Fitness: 0.9366666666666666, Number of Features: 10
+Particle 4 - Fitness: 0.9366666666666666, Number of Features: 10
+Particle 5 - Fitness: 0.9366666666666666, Number of Features: 10
+Particle 6 - Fitness: 0.9333333333333333, Number of Features: 11
+Particle 7 - Fitness: 0.9333333333333333, Number of Features: 11
+Particle 8 - Fitness: 0.9333333333333333, Number of Features: 11
+Particle 9 - Fitness: 0.9299999999999999, Number of Features: 12
+Particle 10 - Fitness: 0.9299999999999999, Number of Features: 12
+Particle 11 - Fitness: 0.92, Number of Features: 6
+Particle 12 - Fitness: 0.9199999999999999, Number of Features: 15
+Particle 13 - Fitness: 0.9166666666666666, Number of Features: 16
+Particle 14 - Fitness: 0.91, Number of Features: 9
+Particle 15 - Fitness: 0.91, Number of Features: 9
+Particle 16 - Fitness: 0.9066666666666667, Number of Features: 10
+Particle 17 - Fitness: 0.9066666666666667, Number of Features: 10
+Particle 18 - Fitness: 0.9066666666666667, Number of Features: 10
+Particle 19 - Fitness: 0.9033333333333334, Number of Features: 11
+Particle 20 - Fitness: 0.9033333333333334, Number of Features: 11
+Particle 21 - Fitness: 0.9033333333333334, Number of Features: 11
+Particle 22 - Fitness: 0.9033333333333334, Number of Features: 11
+Particle 23 - Fitness: 0.9, Number of Features: 12
+Particle 24 - Fitness: 0.8933333333333334, Number of Features: 14
+Particle 25 - Fitness: 0.8900000000000001, Number of Features: 15
+Particle 26 - Fitness: 0.8866666666666667, Number of Features: 16
+Particle 27 - Fitness: 0.8733333333333334, Number of Features: 11
+Particle 28 - Fitness: 0.8666666666666667, Number of Features: 13
+Particle 29 - Fitness: 0.8666666666666667, Number of Features: 13
+Particle 30 - Fitness: 0.7133333333333334, Number of Features: 5
+================================================================================
+
+
+================================================================================
+Iteration - 9
+================================================================================
+Iteration 9: Best Fitness=0.98667, Avg Fitness=0.92278, Selected Features (4): ['perimeter_se', 'fractal_dimension_se', 'radius_worst', 'symmetry_worst']
+
+Number of agents: 30
+
+------------- Best Agent ---------------
+Fitness: 0.9733333333333334
+Number of Features: 8
+----------------------------------------
+
+Particle 1 - Fitness: 0.9733333333333334, Number of Features: 8
+Particle 2 - Fitness: 0.9733333333333334, Number of Features: 8
+Particle 3 - Fitness: 0.97, Number of Features: 9
+Particle 4 - Fitness: 0.9633333333333334, Number of Features: 11
+Particle 5 - Fitness: 0.95, Number of Features: 15
+Particle 6 - Fitness: 0.9466666666666667, Number of Features: 7
+Particle 7 - Fitness: 0.94, Number of Features: 9
+Particle 8 - Fitness: 0.9366666666666666, Number of Features: 10
+Particle 9 - Fitness: 0.9366666666666666, Number of Features: 10
+Particle 10 - Fitness: 0.9333333333333333, Number of Features: 11
+Particle 11 - Fitness: 0.9333333333333333, Number of Features: 11
+Particle 12 - Fitness: 0.9333333333333333, Number of Features: 11
+Particle 13 - Fitness: 0.9299999999999999, Number of Features: 12
+Particle 14 - Fitness: 0.9266666666666666, Number of Features: 13
+Particle 15 - Fitness: 0.9266666666666666, Number of Features: 13
+Particle 16 - Fitness: 0.9266666666666666, Number of Features: 13
+Particle 17 - Fitness: 0.9266666666666666, Number of Features: 13
+Particle 18 - Fitness: 0.9233333333333333, Number of Features: 5
+Particle 19 - Fitness: 0.9233333333333333, Number of Features: 14
+Particle 20 - Fitness: 0.9166666666666667, Number of Features: 7
+Particle 21 - Fitness: 0.91, Number of Features: 9
+Particle 22 - Fitness: 0.9066666666666667, Number of Features: 10
+Particle 23 - Fitness: 0.9066666666666666, Number of Features: 19
+Particle 24 - Fitness: 0.9, Number of Features: 12
+Particle 25 - Fitness: 0.9, Number of Features: 12
+Particle 26 - Fitness: 0.8966666666666667, Number of Features: 13
+Particle 27 - Fitness: 0.8900000000000001, Number of Features: 15
+Particle 28 - Fitness: 0.87, Number of Features: 12
+Particle 29 - Fitness: 0.8633333333333334, Number of Features: 14
+Particle 30 - Fitness: 0.85, Number of Features: 9
+================================================================================
+
+
+================================================================================
+Iteration - 10
+================================================================================
+Iteration 10: Best Fitness=0.98667, Avg Fitness=0.91567, Selected Features (4): ['perimeter_se', 'fractal_dimension_se', 'radius_worst', 'symmetry_worst']
+
+Number of agents: 30
+
+------------- Best Agent ---------------
+Fitness: 0.98
+Number of Features: 6
+----------------------------------------
+
+Particle 1 - Fitness: 0.98, Number of Features: 6
+Particle 2 - Fitness: 0.9733333333333334, Number of Features: 8
+Particle 3 - Fitness: 0.97, Number of Features: 9
+Particle 4 - Fitness: 0.9666666666666667, Number of Features: 10
+Particle 5 - Fitness: 0.94, Number of Features: 9
+Particle 6 - Fitness: 0.94, Number of Features: 9
+Particle 7 - Fitness: 0.9366666666666666, Number of Features: 10
+Particle 8 - Fitness: 0.9299999999999999, Number of Features: 12
+Particle 9 - Fitness: 0.9299999999999999, Number of Features: 12
+Particle 10 - Fitness: 0.9299999999999999, Number of Features: 12
+Particle 11 - Fitness: 0.9299999999999999, Number of Features: 12
+Particle 12 - Fitness: 0.9299999999999999, Number of Features: 12
+Particle 13 - Fitness: 0.9233333333333333, Number of Features: 14
+Particle 14 - Fitness: 0.9233333333333333, Number of Features: 14
+Particle 15 - Fitness: 0.91, Number of Features: 9
+Particle 16 - Fitness: 0.91, Number of Features: 9
+Particle 17 - Fitness: 0.91, Number of Features: 9
+Particle 18 - Fitness: 0.91, Number of Features: 9
+Particle 19 - Fitness: 0.91, Number of Features: 9
+Particle 20 - Fitness: 0.9066666666666667, Number of Features: 10
+Particle 21 - Fitness: 0.9033333333333334, Number of Features: 11
+Particle 22 - Fitness: 0.9033333333333334, Number of Features: 11
+Particle 23 - Fitness: 0.8966666666666667, Number of Features: 13
+Particle 24 - Fitness: 0.8933333333333334, Number of Features: 14
+Particle 25 - Fitness: 0.8900000000000001, Number of Features: 15
+Particle 26 - Fitness: 0.8733333333333334, Number of Features: 11
+Particle 27 - Fitness: 0.8633333333333334, Number of Features: 14
+Particle 28 - Fitness: 0.8633333333333334, Number of Features: 14
+Particle 29 - Fitness: 0.8633333333333334, Number of Features: 14
+Particle 30 - Fitness: 0.8600000000000001, Number of Features: 15
+================================================================================
+
+
+================================================================================
+Iteration - 11
+================================================================================
+Iteration 11: Best Fitness=0.98667, Avg Fitness=0.91767, Selected Features (4): ['perimeter_se', 'fractal_dimension_se', 'radius_worst', 'symmetry_worst']
+
+Number of agents: 30
+
+------------- Best Agent ---------------
+Fitness: 0.97
+Number of Features: 9
+----------------------------------------
+
+Particle 1 - Fitness: 0.97, Number of Features: 9
+Particle 2 - Fitness: 0.9633333333333334, Number of Features: 11
+Particle 3 - Fitness: 0.9566666666666667, Number of Features: 13
+Particle 4 - Fitness: 0.9466666666666667, Number of Features: 7
+Particle 5 - Fitness: 0.94, Number of Features: 9
+Particle 6 - Fitness: 0.9366666666666666, Number of Features: 10
+Particle 7 - Fitness: 0.9366666666666666, Number of Features: 10
+Particle 8 - Fitness: 0.9333333333333333, Number of Features: 11
+Particle 9 - Fitness: 0.9333333333333333, Number of Features: 11
+Particle 10 - Fitness: 0.9333333333333333, Number of Features: 11
+Particle 11 - Fitness: 0.9299999999999999, Number of Features: 12
+Particle 12 - Fitness: 0.9299999999999999, Number of Features: 12
+Particle 13 - Fitness: 0.9233333333333333, Number of Features: 14
+Particle 14 - Fitness: 0.9199999999999999, Number of Features: 15
+Particle 15 - Fitness: 0.9166666666666667, Number of Features: 7
+Particle 16 - Fitness: 0.9166666666666667, Number of Features: 7
+Particle 17 - Fitness: 0.91, Number of Features: 9
+Particle 18 - Fitness: 0.91, Number of Features: 9
+Particle 19 - Fitness: 0.91, Number of Features: 9
+Particle 20 - Fitness: 0.9066666666666667, Number of Features: 10
+Particle 21 - Fitness: 0.9066666666666667, Number of Features: 10
+Particle 22 - Fitness: 0.9033333333333334, Number of Features: 11
+Particle 23 - Fitness: 0.9033333333333334, Number of Features: 11
+Particle 24 - Fitness: 0.8966666666666667, Number of Features: 13
+Particle 25 - Fitness: 0.8966666666666667, Number of Features: 13
+Particle 26 - Fitness: 0.8933333333333334, Number of Features: 14
+Particle 27 - Fitness: 0.8866666666666667, Number of Features: 16
+Particle 28 - Fitness: 0.88, Number of Features: 9
+Particle 29 - Fitness: 0.8733333333333334, Number of Features: 11
+Particle 30 - Fitness: 0.8666666666666667, Number of Features: 13
+================================================================================
+
+
+================================================================================
+Iteration - 12
+================================================================================
+Iteration 12: Best Fitness=0.98667, Avg Fitness=0.90478, Selected Features (4): ['perimeter_se', 'fractal_dimension_se', 'radius_worst', 'symmetry_worst']
+
+Number of agents: 30
+
+------------- Best Agent ---------------
+Fitness: 0.9766666666666667
+Number of Features: 7
+----------------------------------------
+
+Particle 1 - Fitness: 0.9766666666666667, Number of Features: 7
+Particle 2 - Fitness: 0.97, Number of Features: 9
+Particle 3 - Fitness: 0.9566666666666667, Number of Features: 13
+Particle 4 - Fitness: 0.9533333333333334, Number of Features: 14
+Particle 5 - Fitness: 0.94, Number of Features: 9
+Particle 6 - Fitness: 0.9333333333333333, Number of Features: 11
+Particle 7 - Fitness: 0.9333333333333333, Number of Features: 11
+Particle 8 - Fitness: 0.9333333333333333, Number of Features: 11
+Particle 9 - Fitness: 0.9333333333333333, Number of Features: 11
+Particle 10 - Fitness: 0.9299999999999999, Number of Features: 12
+Particle 11 - Fitness: 0.9233333333333333, Number of Features: 14
+Particle 12 - Fitness: 0.91, Number of Features: 9
+Particle 13 - Fitness: 0.9033333333333334, Number of Features: 11
+Particle 14 - Fitness: 0.9, Number of Features: 12
+Particle 15 - Fitness: 0.9, Number of Features: 12
+Particle 16 - Fitness: 0.8966666666666667, Number of Features: 13
+Particle 17 - Fitness: 0.8966666666666667, Number of Features: 13
+Particle 18 - Fitness: 0.8933333333333334, Number of Features: 14
+Particle 19 - Fitness: 0.89, Number of Features: 6
+Particle 20 - Fitness: 0.8866666666666667, Number of Features: 7
+Particle 21 - Fitness: 0.8833333333333334, Number of Features: 17
+Particle 22 - Fitness: 0.88, Number of Features: 9
+Particle 23 - Fitness: 0.88, Number of Features: 9
+Particle 24 - Fitness: 0.8766666666666667, Number of Features: 10
+Particle 25 - Fitness: 0.8766666666666667, Number of Features: 10
+Particle 26 - Fitness: 0.8766666666666667, Number of Features: 10
+Particle 27 - Fitness: 0.8633333333333334, Number of Features: 14
+Particle 28 - Fitness: 0.8633333333333334, Number of Features: 14
+Particle 29 - Fitness: 0.8533333333333334, Number of Features: 17
+Particle 30 - Fitness: 0.8300000000000001, Number of Features: 15
+================================================================================
+
+
+================================================================================
+Iteration - 13
+================================================================================
+Iteration 13: Best Fitness=0.98667, Avg Fitness=0.90456, Selected Features (4): ['perimeter_se', 'fractal_dimension_se', 'radius_worst', 'symmetry_worst']
+
+Number of agents: 30
+
+------------- Best Agent ---------------
+Fitness: 0.9633333333333334
+Number of Features: 11
+----------------------------------------
+
+Particle 1 - Fitness: 0.9633333333333334, Number of Features: 11
+Particle 2 - Fitness: 0.9633333333333334, Number of Features: 11
+Particle 3 - Fitness: 0.9533333333333334, Number of Features: 14
+Particle 4 - Fitness: 0.94, Number of Features: 9
+Particle 5 - Fitness: 0.9366666666666666, Number of Features: 10
+Particle 6 - Fitness: 0.9333333333333333, Number of Features: 11
+Particle 7 - Fitness: 0.9233333333333333, Number of Features: 14
+Particle 8 - Fitness: 0.9199999999999999, Number of Features: 15
+Particle 9 - Fitness: 0.9166666666666666, Number of Features: 16
+Particle 10 - Fitness: 0.9133333333333333, Number of Features: 8
+Particle 11 - Fitness: 0.9133333333333333, Number of Features: 8
+Particle 12 - Fitness: 0.91, Number of Features: 9
+Particle 13 - Fitness: 0.9066666666666667, Number of Features: 10
+Particle 14 - Fitness: 0.9033333333333334, Number of Features: 11
+Particle 15 - Fitness: 0.9033333333333334, Number of Features: 11
+Particle 16 - Fitness: 0.9033333333333334, Number of Features: 11
+Particle 17 - Fitness: 0.9033333333333334, Number of Features: 11
+Particle 18 - Fitness: 0.9033333333333334, Number of Features: 11
+Particle 19 - Fitness: 0.9, Number of Features: 12
+Particle 20 - Fitness: 0.8966666666666667, Number of Features: 13
+Particle 21 - Fitness: 0.8933333333333334, Number of Features: 14
+Particle 22 - Fitness: 0.8900000000000001, Number of Features: 15
+Particle 23 - Fitness: 0.8866666666666667, Number of Features: 16
+Particle 24 - Fitness: 0.8733333333333334, Number of Features: 11
+Particle 25 - Fitness: 0.87, Number of Features: 12
+Particle 26 - Fitness: 0.8666666666666667, Number of Features: 13
+Particle 27 - Fitness: 0.8633333333333334, Number of Features: 14
+Particle 28 - Fitness: 0.8633333333333334, Number of Features: 14
+Particle 29 - Fitness: 0.8633333333333333, Number of Features: 5
+Particle 30 - Fitness: 0.8600000000000001, Number of Features: 15
+================================================================================
+
+
+================================================================================
+Iteration - 14
+================================================================================
+Iteration 14: Best Fitness=0.98667, Avg Fitness=0.90078, Selected Features (4): ['perimeter_se', 'fractal_dimension_se', 'radius_worst', 'symmetry_worst']
+
+Number of agents: 30
+
+------------- Best Agent ---------------
+Fitness: 0.97
+Number of Features: 9
+----------------------------------------
+
+Particle 1 - Fitness: 0.97, Number of Features: 9
+Particle 2 - Fitness: 0.97, Number of Features: 9
+Particle 3 - Fitness: 0.94, Number of Features: 9
+Particle 4 - Fitness: 0.94, Number of Features: 9
+Particle 5 - Fitness: 0.9366666666666666, Number of Features: 10
+Particle 6 - Fitness: 0.9366666666666666, Number of Features: 10
+Particle 7 - Fitness: 0.9366666666666666, Number of Features: 10
+Particle 8 - Fitness: 0.9333333333333333, Number of Features: 11
+Particle 9 - Fitness: 0.9333333333333333, Number of Features: 11
+Particle 10 - Fitness: 0.9233333333333333, Number of Features: 14
+Particle 11 - Fitness: 0.9233333333333333, Number of Features: 14
+Particle 12 - Fitness: 0.92, Number of Features: 6
+Particle 13 - Fitness: 0.9199999999999999, Number of Features: 15
+Particle 14 - Fitness: 0.9166666666666667, Number of Features: 7
+Particle 15 - Fitness: 0.9166666666666666, Number of Features: 16
+Particle 16 - Fitness: 0.9066666666666667, Number of Features: 10
+Particle 17 - Fitness: 0.9066666666666667, Number of Features: 10
+Particle 18 - Fitness: 0.9033333333333334, Number of Features: 11
+Particle 19 - Fitness: 0.9033333333333334, Number of Features: 11
+Particle 20 - Fitness: 0.9, Number of Features: 12
+Particle 21 - Fitness: 0.9, Number of Features: 12
+Particle 22 - Fitness: 0.8966666666666667, Number of Features: 13
+Particle 23 - Fitness: 0.8866666666666667, Number of Features: 16
+Particle 24 - Fitness: 0.8733333333333334, Number of Features: 11
+Particle 25 - Fitness: 0.8733333333333334, Number of Features: 11
+Particle 26 - Fitness: 0.8666666666666667, Number of Features: 13
+Particle 27 - Fitness: 0.8666666666666667, Number of Features: 13
+Particle 28 - Fitness: 0.8566666666666667, Number of Features: 16
+Particle 29 - Fitness: 0.7666666666666667, Number of Features: 7
+Particle 30 - Fitness: 0.7, Number of Features: 9
+================================================================================
+
+
+================================================================================
+Iteration - 15
+================================================================================
+Iteration 15: Best Fitness=0.98667, Avg Fitness=0.91122, Selected Features (4): ['perimeter_se', 'fractal_dimension_se', 'radius_worst', 'symmetry_worst']
+
+Number of agents: 30
+
+------------- Best Agent ---------------
+Fitness: 0.9766666666666667
+Number of Features: 7
+----------------------------------------
+
+Particle 1 - Fitness: 0.9766666666666667, Number of Features: 7
+Particle 2 - Fitness: 0.9733333333333334, Number of Features: 8
+Particle 3 - Fitness: 0.97, Number of Features: 9
+Particle 4 - Fitness: 0.94, Number of Features: 9
+Particle 5 - Fitness: 0.94, Number of Features: 9
+Particle 6 - Fitness: 0.9366666666666666, Number of Features: 10
+Particle 7 - Fitness: 0.9333333333333333, Number of Features: 11
+Particle 8 - Fitness: 0.9333333333333333, Number of Features: 11
+Particle 9 - Fitness: 0.9299999999999999, Number of Features: 12
+Particle 10 - Fitness: 0.9266666666666666, Number of Features: 13
+Particle 11 - Fitness: 0.9233333333333333, Number of Features: 14
+Particle 12 - Fitness: 0.92, Number of Features: 6
+Particle 13 - Fitness: 0.9199999999999999, Number of Features: 15
+Particle 14 - Fitness: 0.9199999999999999, Number of Features: 15
+Particle 15 - Fitness: 0.9066666666666667, Number of Features: 10
+Particle 16 - Fitness: 0.9033333333333334, Number of Features: 11
+Particle 17 - Fitness: 0.9033333333333334, Number of Features: 11
+Particle 18 - Fitness: 0.9, Number of Features: 12
+Particle 19 - Fitness: 0.9, Number of Features: 12
+Particle 20 - Fitness: 0.9, Number of Features: 12
+Particle 21 - Fitness: 0.9, Number of Features: 12
+Particle 22 - Fitness: 0.8966666666666667, Number of Features: 13
+Particle 23 - Fitness: 0.8966666666666667, Number of Features: 13
+Particle 24 - Fitness: 0.8866666666666667, Number of Features: 16
+Particle 25 - Fitness: 0.8833333333333334, Number of Features: 17
+Particle 26 - Fitness: 0.8766666666666667, Number of Features: 10
+Particle 27 - Fitness: 0.8666666666666667, Number of Features: 13
+Particle 28 - Fitness: 0.8600000000000001, Number of Features: 15
+Particle 29 - Fitness: 0.86, Number of Features: 6
+Particle 30 - Fitness: 0.8533333333333334, Number of Features: 17
+================================================================================
+
+
+================================================================================
+Iteration - 16
+================================================================================
+Iteration 16: Best Fitness=0.98667, Avg Fitness=0.90256, Selected Features (4): ['perimeter_se', 'fractal_dimension_se', 'radius_worst', 'symmetry_worst']
+
+Number of agents: 30
+
+------------- Best Agent ---------------
+Fitness: 0.9566666666666667
+Number of Features: 13
+----------------------------------------
+
+Particle 1 - Fitness: 0.9566666666666667, Number of Features: 13
+Particle 2 - Fitness: 0.95, Number of Features: 6
+Particle 3 - Fitness: 0.9433333333333334, Number of Features: 8
+Particle 4 - Fitness: 0.9366666666666666, Number of Features: 10
+Particle 5 - Fitness: 0.9266666666666666, Number of Features: 13
+Particle 6 - Fitness: 0.9233333333333333, Number of Features: 5
+Particle 7 - Fitness: 0.9199999999999999, Number of Features: 15
+Particle 8 - Fitness: 0.9199999999999999, Number of Features: 15
+Particle 9 - Fitness: 0.9199999999999999, Number of Features: 15
+Particle 10 - Fitness: 0.9166666666666666, Number of Features: 16
+Particle 11 - Fitness: 0.9133333333333333, Number of Features: 8
+Particle 12 - Fitness: 0.9133333333333333, Number of Features: 8
+Particle 13 - Fitness: 0.91, Number of Features: 18
+Particle 14 - Fitness: 0.91, Number of Features: 9
+Particle 15 - Fitness: 0.91, Number of Features: 9
+Particle 16 - Fitness: 0.9033333333333334, Number of Features: 11
+Particle 17 - Fitness: 0.9033333333333334, Number of Features: 11
+Particle 18 - Fitness: 0.8966666666666667, Number of Features: 13
+Particle 19 - Fitness: 0.8966666666666667, Number of Features: 13
+Particle 20 - Fitness: 0.8933333333333334, Number of Features: 14
+Particle 21 - Fitness: 0.8933333333333334, Number of Features: 14
+Particle 22 - Fitness: 0.8866666666666667, Number of Features: 7
+Particle 23 - Fitness: 0.8733333333333334, Number of Features: 11
+Particle 24 - Fitness: 0.8733333333333334, Number of Features: 11
+Particle 25 - Fitness: 0.87, Number of Features: 12
+Particle 26 - Fitness: 0.8666666666666667, Number of Features: 13
+Particle 27 - Fitness: 0.8666666666666667, Number of Features: 13
+Particle 28 - Fitness: 0.8633333333333334, Number of Features: 14
+Particle 29 - Fitness: 0.8633333333333334, Number of Features: 14
+Particle 30 - Fitness: 0.8566666666666667, Number of Features: 16
+================================================================================
+
+
+================================================================================
+Iteration - 17
+================================================================================
+Iteration 17: Best Fitness=0.98667, Avg Fitness=0.90444, Selected Features (4): ['perimeter_se', 'fractal_dimension_se', 'radius_worst', 'symmetry_worst']
+
+Number of agents: 30
+
+------------- Best Agent ---------------
+Fitness: 0.9633333333333334
+Number of Features: 11
+----------------------------------------
+
+Particle 1 - Fitness: 0.9633333333333334, Number of Features: 11
+Particle 2 - Fitness: 0.96, Number of Features: 12
+Particle 3 - Fitness: 0.95, Number of Features: 15
+Particle 4 - Fitness: 0.94, Number of Features: 9
+Particle 5 - Fitness: 0.94, Number of Features: 9
+Particle 6 - Fitness: 0.9366666666666666, Number of Features: 10
+Particle 7 - Fitness: 0.9333333333333333, Number of Features: 11
+Particle 8 - Fitness: 0.9333333333333333, Number of Features: 11
+Particle 9 - Fitness: 0.9299999999999999, Number of Features: 12
+Particle 10 - Fitness: 0.9233333333333333, Number of Features: 14
+Particle 11 - Fitness: 0.9233333333333333, Number of Features: 14
+Particle 12 - Fitness: 0.9199999999999999, Number of Features: 15
+Particle 13 - Fitness: 0.9166666666666667, Number of Features: 7
+Particle 14 - Fitness: 0.9133333333333333, Number of Features: 8
+Particle 15 - Fitness: 0.91, Number of Features: 9
+Particle 16 - Fitness: 0.9066666666666667, Number of Features: 10
+Particle 17 - Fitness: 0.9033333333333334, Number of Features: 11
+Particle 18 - Fitness: 0.9033333333333334, Number of Features: 11
+Particle 19 - Fitness: 0.9, Number of Features: 12
+Particle 20 - Fitness: 0.8900000000000001, Number of Features: 15
+Particle 21 - Fitness: 0.88, Number of Features: 9
+Particle 22 - Fitness: 0.88, Number of Features: 9
+Particle 23 - Fitness: 0.8733333333333334, Number of Features: 11
+Particle 24 - Fitness: 0.87, Number of Features: 12
+Particle 25 - Fitness: 0.87, Number of Features: 12
+Particle 26 - Fitness: 0.8666666666666667, Number of Features: 13
+Particle 27 - Fitness: 0.8566666666666667, Number of Features: 16
+Particle 28 - Fitness: 0.8566666666666667, Number of Features: 16
+Particle 29 - Fitness: 0.8433333333333334, Number of Features: 11
+Particle 30 - Fitness: 0.84, Number of Features: 12
+================================================================================
+
+
+================================================================================
+Iteration - 18
+================================================================================
+Iteration 18: Best Fitness=0.98667, Avg Fitness=0.90700, Selected Features (4): ['perimeter_se', 'fractal_dimension_se', 'radius_worst', 'symmetry_worst']
+
+Number of agents: 30
+
+------------- Best Agent ---------------
+Fitness: 0.9633333333333334
+Number of Features: 11
+----------------------------------------
+
+Particle 1 - Fitness: 0.9633333333333334, Number of Features: 11
+Particle 2 - Fitness: 0.96, Number of Features: 12
+Particle 3 - Fitness: 0.9466666666666667, Number of Features: 16
+Particle 4 - Fitness: 0.94, Number of Features: 9
+Particle 5 - Fitness: 0.94, Number of Features: 9
+Particle 6 - Fitness: 0.9366666666666666, Number of Features: 10
+Particle 7 - Fitness: 0.9266666666666666, Number of Features: 13
+Particle 8 - Fitness: 0.9266666666666666, Number of Features: 13
+Particle 9 - Fitness: 0.9266666666666666, Number of Features: 13
+Particle 10 - Fitness: 0.9233333333333333, Number of Features: 14
+Particle 11 - Fitness: 0.9233333333333333, Number of Features: 14
+Particle 12 - Fitness: 0.9233333333333333, Number of Features: 14
+Particle 13 - Fitness: 0.9233333333333333, Number of Features: 14
+Particle 14 - Fitness: 0.91, Number of Features: 9
+Particle 15 - Fitness: 0.91, Number of Features: 9
+Particle 16 - Fitness: 0.9066666666666667, Number of Features: 10
+Particle 17 - Fitness: 0.9, Number of Features: 12
+Particle 18 - Fitness: 0.8966666666666667, Number of Features: 13
+Particle 19 - Fitness: 0.8966666666666667, Number of Features: 13
+Particle 20 - Fitness: 0.8933333333333334, Number of Features: 14
+Particle 21 - Fitness: 0.8933333333333334, Number of Features: 14
+Particle 22 - Fitness: 0.8900000000000001, Number of Features: 15
+Particle 23 - Fitness: 0.8900000000000001, Number of Features: 15
+Particle 24 - Fitness: 0.8866666666666667, Number of Features: 7
+Particle 25 - Fitness: 0.87, Number of Features: 12
+Particle 26 - Fitness: 0.87, Number of Features: 12
+Particle 27 - Fitness: 0.87, Number of Features: 12
+Particle 28 - Fitness: 0.8666666666666667, Number of Features: 13
+Particle 29 - Fitness: 0.8533333333333334, Number of Features: 17
+Particle 30 - Fitness: 0.8466666666666667, Number of Features: 19
+================================================================================
+
+
+================================================================================
+Iteration - 19
+================================================================================
+Iteration 19: Best Fitness=0.98667, Avg Fitness=0.90578, Selected Features (4): ['perimeter_se', 'fractal_dimension_se', 'radius_worst', 'symmetry_worst']
+
+Number of agents: 30
+
+------------- Best Agent ---------------
+Fitness: 0.9666666666666667
+Number of Features: 10
+----------------------------------------
+
+Particle 1 - Fitness: 0.9666666666666667, Number of Features: 10
+Particle 2 - Fitness: 0.9633333333333334, Number of Features: 11
+Particle 3 - Fitness: 0.96, Number of Features: 12
+Particle 4 - Fitness: 0.96, Number of Features: 12
+Particle 5 - Fitness: 0.94, Number of Features: 9
+Particle 6 - Fitness: 0.9299999999999999, Number of Features: 12
+Particle 7 - Fitness: 0.9299999999999999, Number of Features: 12
+Particle 8 - Fitness: 0.9266666666666666, Number of Features: 13
+Particle 9 - Fitness: 0.9266666666666666, Number of Features: 13
+Particle 10 - Fitness: 0.9233333333333333, Number of Features: 14
+Particle 11 - Fitness: 0.9199999999999999, Number of Features: 15
+Particle 12 - Fitness: 0.91, Number of Features: 9
+Particle 13 - Fitness: 0.91, Number of Features: 9
+Particle 14 - Fitness: 0.91, Number of Features: 18
+Particle 15 - Fitness: 0.9033333333333334, Number of Features: 11
+Particle 16 - Fitness: 0.9033333333333334, Number of Features: 11
+Particle 17 - Fitness: 0.9033333333333334, Number of Features: 11
+Particle 18 - Fitness: 0.9, Number of Features: 12
+Particle 19 - Fitness: 0.8966666666666667, Number of Features: 13
+Particle 20 - Fitness: 0.8900000000000001, Number of Features: 15
+Particle 21 - Fitness: 0.8833333333333333, Number of Features: 8
+Particle 22 - Fitness: 0.8833333333333333, Number of Features: 8
+Particle 23 - Fitness: 0.88, Number of Features: 9
+Particle 24 - Fitness: 0.88, Number of Features: 9
+Particle 25 - Fitness: 0.8766666666666667, Number of Features: 10
+Particle 26 - Fitness: 0.8766666666666667, Number of Features: 10
+Particle 27 - Fitness: 0.8666666666666667, Number of Features: 13
+Particle 28 - Fitness: 0.8666666666666667, Number of Features: 13
+Particle 29 - Fitness: 0.8633333333333334, Number of Features: 14
+Particle 30 - Fitness: 0.8233333333333334, Number of Features: 17
+================================================================================
+
+
+================================================================================
+Iteration - 20
+================================================================================
+Iteration 20: Best Fitness=0.98667, Avg Fitness=0.90400, Selected Features (4): ['perimeter_se', 'fractal_dimension_se', 'radius_worst', 'symmetry_worst']
+
+Number of agents: 30
+
+------------- Best Agent ---------------
+Fitness: 0.9666666666666667
+Number of Features: 10
+----------------------------------------
+
+Particle 1 - Fitness: 0.9666666666666667, Number of Features: 10
+Particle 2 - Fitness: 0.9366666666666666, Number of Features: 10
+Particle 3 - Fitness: 0.9333333333333333, Number of Features: 11
+Particle 4 - Fitness: 0.9333333333333333, Number of Features: 11
+Particle 5 - Fitness: 0.9299999999999999, Number of Features: 12
+Particle 6 - Fitness: 0.9266666666666666, Number of Features: 13
+Particle 7 - Fitness: 0.9266666666666666, Number of Features: 13
+Particle 8 - Fitness: 0.9266666666666666, Number of Features: 13
+Particle 9 - Fitness: 0.9233333333333333, Number of Features: 14
+Particle 10 - Fitness: 0.9233333333333333, Number of Features: 14
+Particle 11 - Fitness: 0.9233333333333333, Number of Features: 14
+Particle 12 - Fitness: 0.9233333333333333, Number of Features: 14
+Particle 13 - Fitness: 0.9199999999999999, Number of Features: 15
+Particle 14 - Fitness: 0.9133333333333333, Number of Features: 8
+Particle 15 - Fitness: 0.9033333333333334, Number of Features: 11
+Particle 16 - Fitness: 0.9, Number of Features: 12
+Particle 17 - Fitness: 0.8966666666666667, Number of Features: 13
+Particle 18 - Fitness: 0.8966666666666667, Number of Features: 13
+Particle 19 - Fitness: 0.8966666666666667, Number of Features: 13
+Particle 20 - Fitness: 0.8966666666666667, Number of Features: 13
+Particle 21 - Fitness: 0.8900000000000001, Number of Features: 15
+Particle 22 - Fitness: 0.8866666666666667, Number of Features: 16
+Particle 23 - Fitness: 0.8866666666666667, Number of Features: 16
+Particle 24 - Fitness: 0.8766666666666667, Number of Features: 10
+Particle 25 - Fitness: 0.87, Number of Features: 12
+Particle 26 - Fitness: 0.87, Number of Features: 12
+Particle 27 - Fitness: 0.8633333333333334, Number of Features: 14
+Particle 28 - Fitness: 0.8633333333333334, Number of Features: 14
+Particle 29 - Fitness: 0.8600000000000001, Number of Features: 15
+Particle 30 - Fitness: 0.8566666666666667, Number of Features: 16
+================================================================================
+
+
+================================================================================
+Iteration - 21
+================================================================================
+Iteration 21: Best Fitness=0.98667, Avg Fitness=0.89600, Selected Features (4): ['perimeter_se', 'fractal_dimension_se', 'radius_worst', 'symmetry_worst']
+
+Number of agents: 30
+
+------------- Best Agent ---------------
+Fitness: 0.9566666666666667
+Number of Features: 13
+----------------------------------------
+
+Particle 1 - Fitness: 0.9566666666666667, Number of Features: 13
+Particle 2 - Fitness: 0.9433333333333334, Number of Features: 8
+Particle 3 - Fitness: 0.9433333333333334, Number of Features: 8
+Particle 4 - Fitness: 0.94, Number of Features: 9
+Particle 5 - Fitness: 0.94, Number of Features: 9
+Particle 6 - Fitness: 0.9233333333333333, Number of Features: 14
+Particle 7 - Fitness: 0.92, Number of Features: 6
+Particle 8 - Fitness: 0.9199999999999999, Number of Features: 15
+Particle 9 - Fitness: 0.9166666666666667, Number of Features: 7
+Particle 10 - Fitness: 0.9166666666666666, Number of Features: 16
+Particle 11 - Fitness: 0.9133333333333333, Number of Features: 17
+Particle 12 - Fitness: 0.9033333333333334, Number of Features: 11
+Particle 13 - Fitness: 0.9, Number of Features: 12
+Particle 14 - Fitness: 0.8966666666666667, Number of Features: 13
+Particle 15 - Fitness: 0.8933333333333334, Number of Features: 14
+Particle 16 - Fitness: 0.89, Number of Features: 6
+Particle 17 - Fitness: 0.8866666666666667, Number of Features: 7
+Particle 18 - Fitness: 0.8833333333333334, Number of Features: 17
+Particle 19 - Fitness: 0.8833333333333334, Number of Features: 17
+Particle 20 - Fitness: 0.8833333333333334, Number of Features: 17
+Particle 21 - Fitness: 0.8766666666666667, Number of Features: 10
+Particle 22 - Fitness: 0.8766666666666667, Number of Features: 10
+Particle 23 - Fitness: 0.8733333333333334, Number of Features: 11
+Particle 24 - Fitness: 0.87, Number of Features: 12
+Particle 25 - Fitness: 0.8666666666666667, Number of Features: 13
+Particle 26 - Fitness: 0.8633333333333334, Number of Features: 14
+Particle 27 - Fitness: 0.8633333333333334, Number of Features: 14
+Particle 28 - Fitness: 0.8633333333333334, Number of Features: 14
+Particle 29 - Fitness: 0.8533333333333334, Number of Features: 17
+Particle 30 - Fitness: 0.8200000000000001, Number of Features: 18
+================================================================================
+
+
+================================================================================
+Iteration - 22
+================================================================================
+Iteration 22: Best Fitness=0.98667, Avg Fitness=0.91122, Selected Features (4): ['perimeter_se', 'fractal_dimension_se', 'radius_worst', 'symmetry_worst']
+
+Number of agents: 30
+
+------------- Best Agent ---------------
+Fitness: 0.96
+Number of Features: 12
+----------------------------------------
+
+Particle 1 - Fitness: 0.96, Number of Features: 12
+Particle 2 - Fitness: 0.96, Number of Features: 12
+Particle 3 - Fitness: 0.9366666666666666, Number of Features: 10
+Particle 4 - Fitness: 0.9333333333333333, Number of Features: 11
+Particle 5 - Fitness: 0.9333333333333333, Number of Features: 11
+Particle 6 - Fitness: 0.9299999999999999, Number of Features: 12
+Particle 7 - Fitness: 0.9266666666666666, Number of Features: 13
+Particle 8 - Fitness: 0.9266666666666666, Number of Features: 13
+Particle 9 - Fitness: 0.9233333333333333, Number of Features: 5
+Particle 10 - Fitness: 0.9233333333333333, Number of Features: 14
+Particle 11 - Fitness: 0.9199999999999999, Number of Features: 15
+Particle 12 - Fitness: 0.9199999999999999, Number of Features: 15
+Particle 13 - Fitness: 0.9166666666666666, Number of Features: 16
+Particle 14 - Fitness: 0.91, Number of Features: 9
+Particle 15 - Fitness: 0.91, Number of Features: 9
+Particle 16 - Fitness: 0.9066666666666667, Number of Features: 10
+Particle 17 - Fitness: 0.9, Number of Features: 12
+Particle 18 - Fitness: 0.9, Number of Features: 12
+Particle 19 - Fitness: 0.9, Number of Features: 12
+Particle 20 - Fitness: 0.9, Number of Features: 12
+Particle 21 - Fitness: 0.9, Number of Features: 12
+Particle 22 - Fitness: 0.8966666666666667, Number of Features: 13
+Particle 23 - Fitness: 0.8966666666666667, Number of Features: 13
+Particle 24 - Fitness: 0.8933333333333334, Number of Features: 14
+Particle 25 - Fitness: 0.8933333333333334, Number of Features: 14
+Particle 26 - Fitness: 0.8900000000000001, Number of Features: 15
+Particle 27 - Fitness: 0.8900000000000001, Number of Features: 15
+Particle 28 - Fitness: 0.8866666666666667, Number of Features: 16
+Particle 29 - Fitness: 0.8833333333333334, Number of Features: 17
+Particle 30 - Fitness: 0.87, Number of Features: 12
+================================================================================
+
+
+================================================================================
+Iteration - 23
+================================================================================
+Iteration 23: Best Fitness=0.98667, Avg Fitness=0.91000, Selected Features (4): ['perimeter_se', 'fractal_dimension_se', 'radius_worst', 'symmetry_worst']
+
+Number of agents: 30
+
+------------- Best Agent ---------------
+Fitness: 0.9833333333333334
+Number of Features: 5
+----------------------------------------
+
+Particle 1 - Fitness: 0.9833333333333334, Number of Features: 5
+Particle 2 - Fitness: 0.9533333333333334, Number of Features: 14
+Particle 3 - Fitness: 0.94, Number of Features: 9
+Particle 4 - Fitness: 0.94, Number of Features: 9
+Particle 5 - Fitness: 0.9366666666666666, Number of Features: 10
+Particle 6 - Fitness: 0.9333333333333333, Number of Features: 11
+Particle 7 - Fitness: 0.9299999999999999, Number of Features: 12
+Particle 8 - Fitness: 0.9266666666666666, Number of Features: 13
+Particle 9 - Fitness: 0.9266666666666666, Number of Features: 13
+Particle 10 - Fitness: 0.9266666666666666, Number of Features: 13
+Particle 11 - Fitness: 0.9266666666666666, Number of Features: 13
+Particle 12 - Fitness: 0.9266666666666666, Number of Features: 13
+Particle 13 - Fitness: 0.9199999999999999, Number of Features: 15
+Particle 14 - Fitness: 0.9199999999999999, Number of Features: 15
+Particle 15 - Fitness: 0.9166666666666667, Number of Features: 7
+Particle 16 - Fitness: 0.91, Number of Features: 18
+Particle 17 - Fitness: 0.9066666666666667, Number of Features: 10
+Particle 18 - Fitness: 0.9033333333333334, Number of Features: 11
+Particle 19 - Fitness: 0.9033333333333334, Number of Features: 11
+Particle 20 - Fitness: 0.9, Number of Features: 12
+Particle 21 - Fitness: 0.9, Number of Features: 12
+Particle 22 - Fitness: 0.8966666666666667, Number of Features: 13
+Particle 23 - Fitness: 0.8966666666666667, Number of Features: 13
+Particle 24 - Fitness: 0.8866666666666667, Number of Features: 16
+Particle 25 - Fitness: 0.8766666666666667, Number of Features: 10
+Particle 26 - Fitness: 0.8733333333333334, Number of Features: 11
+Particle 27 - Fitness: 0.8733333333333334, Number of Features: 11
+Particle 28 - Fitness: 0.8666666666666667, Number of Features: 13
+Particle 29 - Fitness: 0.8500000000000001, Number of Features: 18
+Particle 30 - Fitness: 0.8500000000000001, Number of Features: 18
+================================================================================
+
+
+================================================================================
+Iteration - 24
+================================================================================
+Iteration 24: Best Fitness=0.98667, Avg Fitness=0.90100, Selected Features (4): ['perimeter_se', 'fractal_dimension_se', 'radius_worst', 'symmetry_worst']
+
+Number of agents: 30
+
+------------- Best Agent ---------------
+Fitness: 0.9633333333333334
+Number of Features: 11
+----------------------------------------
+
+Particle 1 - Fitness: 0.9633333333333334, Number of Features: 11
+Particle 2 - Fitness: 0.9633333333333334, Number of Features: 11
+Particle 3 - Fitness: 0.9566666666666667, Number of Features: 13
+Particle 4 - Fitness: 0.9433333333333334, Number of Features: 17
+Particle 5 - Fitness: 0.94, Number of Features: 9
+Particle 6 - Fitness: 0.9366666666666666, Number of Features: 10
+Particle 7 - Fitness: 0.9266666666666666, Number of Features: 13
+Particle 8 - Fitness: 0.9266666666666666, Number of Features: 13
+Particle 9 - Fitness: 0.9199999999999999, Number of Features: 15
+Particle 10 - Fitness: 0.9133333333333333, Number of Features: 17
+Particle 11 - Fitness: 0.91, Number of Features: 9
+Particle 12 - Fitness: 0.9066666666666667, Number of Features: 10
+Particle 13 - Fitness: 0.9033333333333334, Number of Features: 11
+Particle 14 - Fitness: 0.9, Number of Features: 12
+Particle 15 - Fitness: 0.8966666666666667, Number of Features: 13
+Particle 16 - Fitness: 0.8966666666666667, Number of Features: 13
+Particle 17 - Fitness: 0.8933333333333334, Number of Features: 14
+Particle 18 - Fitness: 0.8933333333333334, Number of Features: 14
+Particle 19 - Fitness: 0.8900000000000001, Number of Features: 15
+Particle 20 - Fitness: 0.8766666666666667, Number of Features: 10
+Particle 21 - Fitness: 0.8766666666666667, Number of Features: 19
+Particle 22 - Fitness: 0.8733333333333334, Number of Features: 11
+Particle 23 - Fitness: 0.87, Number of Features: 12
+Particle 24 - Fitness: 0.87, Number of Features: 12
+Particle 25 - Fitness: 0.87, Number of Features: 12
+Particle 26 - Fitness: 0.87, Number of Features: 12
+Particle 27 - Fitness: 0.8666666666666667, Number of Features: 13
+Particle 28 - Fitness: 0.8633333333333334, Number of Features: 14
+Particle 29 - Fitness: 0.8566666666666667, Number of Features: 16
+Particle 30 - Fitness: 0.8566666666666667, Number of Features: 16
+================================================================================
+
+
+================================================================================
+Iteration - 25
+================================================================================
+Iteration 25: Best Fitness=0.98667, Avg Fitness=0.90033, Selected Features (4): ['perimeter_se', 'fractal_dimension_se', 'radius_worst', 'symmetry_worst']
+
+Number of agents: 30
+
+------------- Best Agent ---------------
+Fitness: 0.96
+Number of Features: 12
+----------------------------------------
+
+Particle 1 - Fitness: 0.96, Number of Features: 12
+Particle 2 - Fitness: 0.9299999999999999, Number of Features: 12
+Particle 3 - Fitness: 0.9299999999999999, Number of Features: 12
+Particle 4 - Fitness: 0.9299999999999999, Number of Features: 12
+Particle 5 - Fitness: 0.9299999999999999, Number of Features: 12
+Particle 6 - Fitness: 0.9299999999999999, Number of Features: 12
+Particle 7 - Fitness: 0.9299999999999999, Number of Features: 12
+Particle 8 - Fitness: 0.9266666666666666, Number of Features: 13
+Particle 9 - Fitness: 0.9266666666666666, Number of Features: 13
+Particle 10 - Fitness: 0.9199999999999999, Number of Features: 15
+Particle 11 - Fitness: 0.9133333333333333, Number of Features: 8
+Particle 12 - Fitness: 0.9133333333333333, Number of Features: 8
+Particle 13 - Fitness: 0.91, Number of Features: 9
+Particle 14 - Fitness: 0.9066666666666667, Number of Features: 10
+Particle 15 - Fitness: 0.9066666666666667, Number of Features: 10
+Particle 16 - Fitness: 0.9066666666666667, Number of Features: 10
+Particle 17 - Fitness: 0.9033333333333334, Number of Features: 11
+Particle 18 - Fitness: 0.9033333333333334, Number of Features: 11
+Particle 19 - Fitness: 0.8966666666666667, Number of Features: 13
+Particle 20 - Fitness: 0.8966666666666667, Number of Features: 13
+Particle 21 - Fitness: 0.8933333333333334, Number of Features: 14
+Particle 22 - Fitness: 0.8733333333333334, Number of Features: 11
+Particle 23 - Fitness: 0.8733333333333334, Number of Features: 11
+Particle 24 - Fitness: 0.8666666666666667, Number of Features: 13
+Particle 25 - Fitness: 0.8666666666666667, Number of Features: 13
+Particle 26 - Fitness: 0.8600000000000001, Number of Features: 15
+Particle 27 - Fitness: 0.8566666666666667, Number of Features: 16
+Particle 28 - Fitness: 0.8533333333333334, Number of Features: 17
+Particle 29 - Fitness: 0.85, Number of Features: 9
+Particle 30 - Fitness: 0.8466666666666667, Number of Features: 19
+================================================================================
+
+
+================================================================================
+Iteration - 26
+================================================================================
+Iteration 26: Best Fitness=0.98667, Avg Fitness=0.91256, Selected Features (4): ['perimeter_se', 'fractal_dimension_se', 'radius_worst', 'symmetry_worst']
+
+Number of agents: 30
+
+------------- Best Agent ---------------
+Fitness: 0.9566666666666667
+Number of Features: 13
+----------------------------------------
+
+Particle 1 - Fitness: 0.9566666666666667, Number of Features: 13
+Particle 2 - Fitness: 0.95, Number of Features: 15
+Particle 3 - Fitness: 0.95, Number of Features: 15
+Particle 4 - Fitness: 0.9433333333333334, Number of Features: 8
+Particle 5 - Fitness: 0.9433333333333334, Number of Features: 8
+Particle 6 - Fitness: 0.94, Number of Features: 9
+Particle 7 - Fitness: 0.94, Number of Features: 9
+Particle 8 - Fitness: 0.9366666666666666, Number of Features: 19
+Particle 9 - Fitness: 0.9333333333333333, Number of Features: 11
+Particle 10 - Fitness: 0.9299999999999999, Number of Features: 12
+Particle 11 - Fitness: 0.9299999999999999, Number of Features: 12
+Particle 12 - Fitness: 0.9299999999999999, Number of Features: 12
+Particle 13 - Fitness: 0.9266666666666666, Number of Features: 13
+Particle 14 - Fitness: 0.9233333333333333, Number of Features: 14
+Particle 15 - Fitness: 0.9199999999999999, Number of Features: 15
+Particle 16 - Fitness: 0.9199999999999999, Number of Features: 15
+Particle 17 - Fitness: 0.9166666666666667, Number of Features: 7
+Particle 18 - Fitness: 0.91, Number of Features: 9
+Particle 19 - Fitness: 0.9066666666666667, Number of Features: 10
+Particle 20 - Fitness: 0.9033333333333334, Number of Features: 11
+Particle 21 - Fitness: 0.9033333333333334, Number of Features: 11
+Particle 22 - Fitness: 0.9, Number of Features: 12
+Particle 23 - Fitness: 0.8933333333333334, Number of Features: 14
+Particle 24 - Fitness: 0.8900000000000001, Number of Features: 15
+Particle 25 - Fitness: 0.8866666666666667, Number of Features: 16
+Particle 26 - Fitness: 0.8833333333333334, Number of Features: 17
+Particle 27 - Fitness: 0.8766666666666667, Number of Features: 10
+Particle 28 - Fitness: 0.8633333333333334, Number of Features: 14
+Particle 29 - Fitness: 0.8566666666666667, Number of Features: 16
+Particle 30 - Fitness: 0.8133333333333334, Number of Features: 11
+================================================================================
+
+
+================================================================================
+Iteration - 27
+================================================================================
+Iteration 27: Best Fitness=0.98667, Avg Fitness=0.91267, Selected Features (4): ['perimeter_se', 'fractal_dimension_se', 'radius_worst', 'symmetry_worst']
+
+Number of agents: 30
+
+------------- Best Agent ---------------
+Fitness: 0.9733333333333334
+Number of Features: 8
+----------------------------------------
+
+Particle 1 - Fitness: 0.9733333333333334, Number of Features: 8
+Particle 2 - Fitness: 0.9633333333333334, Number of Features: 11
+Particle 3 - Fitness: 0.9633333333333334, Number of Features: 11
+Particle 4 - Fitness: 0.95, Number of Features: 15
+Particle 5 - Fitness: 0.94, Number of Features: 9
+Particle 6 - Fitness: 0.9366666666666666, Number of Features: 10
+Particle 7 - Fitness: 0.9366666666666666, Number of Features: 10
+Particle 8 - Fitness: 0.9299999999999999, Number of Features: 12
+Particle 9 - Fitness: 0.9299999999999999, Number of Features: 12
+Particle 10 - Fitness: 0.9299999999999999, Number of Features: 12
+Particle 11 - Fitness: 0.9233333333333333, Number of Features: 14
+Particle 12 - Fitness: 0.9199999999999999, Number of Features: 15
+Particle 13 - Fitness: 0.9199999999999999, Number of Features: 15
+Particle 14 - Fitness: 0.9166666666666667, Number of Features: 7
+Particle 15 - Fitness: 0.9166666666666666, Number of Features: 16
+Particle 16 - Fitness: 0.9133333333333333, Number of Features: 17
+Particle 17 - Fitness: 0.9066666666666667, Number of Features: 10
+Particle 18 - Fitness: 0.9033333333333334, Number of Features: 11
+Particle 19 - Fitness: 0.9033333333333334, Number of Features: 11
+Particle 20 - Fitness: 0.9, Number of Features: 12
+Particle 21 - Fitness: 0.9, Number of Features: 12
+Particle 22 - Fitness: 0.8966666666666667, Number of Features: 13
+Particle 23 - Fitness: 0.8933333333333334, Number of Features: 14
+Particle 24 - Fitness: 0.8933333333333334, Number of Features: 14
+Particle 25 - Fitness: 0.8933333333333334, Number of Features: 14
+Particle 26 - Fitness: 0.8800000000000001, Number of Features: 18
+Particle 27 - Fitness: 0.87, Number of Features: 12
+Particle 28 - Fitness: 0.8633333333333334, Number of Features: 14
+Particle 29 - Fitness: 0.8633333333333334, Number of Features: 14
+Particle 30 - Fitness: 0.85, Number of Features: 9
+================================================================================
+
+
+================================================================================
+Iteration - 28
+================================================================================
+Iteration 28: Best Fitness=0.98667, Avg Fitness=0.90222, Selected Features (4): ['perimeter_se', 'fractal_dimension_se', 'radius_worst', 'symmetry_worst']
+
+Number of agents: 30
+
+------------- Best Agent ---------------
+Fitness: 0.9666666666666667
+Number of Features: 10
+----------------------------------------
+
+Particle 1 - Fitness: 0.9666666666666667, Number of Features: 10
+Particle 2 - Fitness: 0.96, Number of Features: 12
+Particle 3 - Fitness: 0.94, Number of Features: 9
+Particle 4 - Fitness: 0.9366666666666666, Number of Features: 10
+Particle 5 - Fitness: 0.9333333333333333, Number of Features: 11
+Particle 6 - Fitness: 0.9266666666666666, Number of Features: 13
+Particle 7 - Fitness: 0.9266666666666666, Number of Features: 13
+Particle 8 - Fitness: 0.9233333333333333, Number of Features: 14
+Particle 9 - Fitness: 0.9199999999999999, Number of Features: 15
+Particle 10 - Fitness: 0.9166666666666666, Number of Features: 16
+Particle 11 - Fitness: 0.9166666666666666, Number of Features: 16
+Particle 12 - Fitness: 0.9166666666666666, Number of Features: 16
+Particle 13 - Fitness: 0.9133333333333333, Number of Features: 8
+Particle 14 - Fitness: 0.91, Number of Features: 9
+Particle 15 - Fitness: 0.9033333333333334, Number of Features: 11
+Particle 16 - Fitness: 0.9033333333333334, Number of Features: 11
+Particle 17 - Fitness: 0.8966666666666667, Number of Features: 13
+Particle 18 - Fitness: 0.8933333333333334, Number of Features: 14
+Particle 19 - Fitness: 0.8900000000000001, Number of Features: 15
+Particle 20 - Fitness: 0.8900000000000001, Number of Features: 15
+Particle 21 - Fitness: 0.8866666666666667, Number of Features: 16
+Particle 22 - Fitness: 0.8833333333333334, Number of Features: 17
+Particle 23 - Fitness: 0.8800000000000001, Number of Features: 18
+Particle 24 - Fitness: 0.87, Number of Features: 12
+Particle 25 - Fitness: 0.87, Number of Features: 12
+Particle 26 - Fitness: 0.87, Number of Features: 12
+Particle 27 - Fitness: 0.8633333333333334, Number of Features: 14
+Particle 28 - Fitness: 0.8600000000000001, Number of Features: 15
+Particle 29 - Fitness: 0.8500000000000001, Number of Features: 18
+Particle 30 - Fitness: 0.85, Number of Features: 9
+================================================================================
+
+
+================================================================================
+Iteration - 29
+================================================================================
+Iteration 29: Best Fitness=0.98667, Avg Fitness=0.89622, Selected Features (4): ['perimeter_se', 'fractal_dimension_se', 'radius_worst', 'symmetry_worst']
+
+Number of agents: 30
+
+------------- Best Agent ---------------
+Fitness: 0.98
+Number of Features: 6
+----------------------------------------
+
+Particle 1 - Fitness: 0.98, Number of Features: 6
+Particle 2 - Fitness: 0.9566666666666667, Number of Features: 13
+Particle 3 - Fitness: 0.94, Number of Features: 9
+Particle 4 - Fitness: 0.9333333333333333, Number of Features: 11
+Particle 5 - Fitness: 0.9299999999999999, Number of Features: 12
+Particle 6 - Fitness: 0.9233333333333333, Number of Features: 14
+Particle 7 - Fitness: 0.9199999999999999, Number of Features: 15
+Particle 8 - Fitness: 0.9199999999999999, Number of Features: 15
+Particle 9 - Fitness: 0.9166666666666666, Number of Features: 16
+Particle 10 - Fitness: 0.9166666666666666, Number of Features: 16
+Particle 11 - Fitness: 0.9166666666666666, Number of Features: 16
+Particle 12 - Fitness: 0.9133333333333333, Number of Features: 17
+Particle 13 - Fitness: 0.91, Number of Features: 9
+Particle 14 - Fitness: 0.9066666666666667, Number of Features: 10
+Particle 15 - Fitness: 0.9, Number of Features: 12
+Particle 16 - Fitness: 0.8966666666666667, Number of Features: 13
+Particle 17 - Fitness: 0.8900000000000001, Number of Features: 15
+Particle 18 - Fitness: 0.8866666666666667, Number of Features: 16
+Particle 19 - Fitness: 0.8766666666666667, Number of Features: 10
+Particle 20 - Fitness: 0.87, Number of Features: 12
+Particle 21 - Fitness: 0.8666666666666667, Number of Features: 13
+Particle 22 - Fitness: 0.8633333333333334, Number of Features: 14
+Particle 23 - Fitness: 0.8633333333333334, Number of Features: 14
+Particle 24 - Fitness: 0.8633333333333334, Number of Features: 14
+Particle 25 - Fitness: 0.8600000000000001, Number of Features: 15
+Particle 26 - Fitness: 0.8566666666666667, Number of Features: 16
+Particle 27 - Fitness: 0.8566666666666667, Number of Features: 16
+Particle 28 - Fitness: 0.8533333333333334, Number of Features: 17
+Particle 29 - Fitness: 0.8500000000000001, Number of Features: 18
+Particle 30 - Fitness: 0.8500000000000001, Number of Features: 18
+================================================================================
+
+
+================================================================================
+Iteration - 30
+================================================================================
+Iteration 30: Best Fitness=0.98667, Avg Fitness=0.89589, Selected Features (4): ['perimeter_se', 'fractal_dimension_se', 'radius_worst', 'symmetry_worst']
+
+Number of agents: 30
+
+------------- Best Agent ---------------
+Fitness: 0.9566666666666667
+Number of Features: 13
+----------------------------------------
+
+Particle 1 - Fitness: 0.9566666666666667, Number of Features: 13
+Particle 2 - Fitness: 0.9433333333333334, Number of Features: 8
+Particle 3 - Fitness: 0.9366666666666666, Number of Features: 10
+Particle 4 - Fitness: 0.9333333333333333, Number of Features: 11
+Particle 5 - Fitness: 0.9299999999999999, Number of Features: 12
+Particle 6 - Fitness: 0.9266666666666666, Number of Features: 13
+Particle 7 - Fitness: 0.9233333333333333, Number of Features: 14
+Particle 8 - Fitness: 0.9233333333333333, Number of Features: 14
+Particle 9 - Fitness: 0.9233333333333333, Number of Features: 14
+Particle 10 - Fitness: 0.9199999999999999, Number of Features: 15
+Particle 11 - Fitness: 0.9033333333333334, Number of Features: 11
+Particle 12 - Fitness: 0.9033333333333334, Number of Features: 11
+Particle 13 - Fitness: 0.9, Number of Features: 12
+Particle 14 - Fitness: 0.9, Number of Features: 12
+Particle 15 - Fitness: 0.8933333333333334, Number of Features: 14
+Particle 16 - Fitness: 0.8933333333333334, Number of Features: 14
+Particle 17 - Fitness: 0.8866666666666667, Number of Features: 7
+Particle 18 - Fitness: 0.8866666666666667, Number of Features: 16
+Particle 19 - Fitness: 0.8833333333333334, Number of Features: 17
+Particle 20 - Fitness: 0.8833333333333334, Number of Features: 17
+Particle 21 - Fitness: 0.8833333333333334, Number of Features: 17
+Particle 22 - Fitness: 0.8833333333333333, Number of Features: 8
+Particle 23 - Fitness: 0.8766666666666667, Number of Features: 10
+Particle 24 - Fitness: 0.8766666666666667, Number of Features: 10
+Particle 25 - Fitness: 0.8733333333333334, Number of Features: 11
+Particle 26 - Fitness: 0.87, Number of Features: 12
+Particle 27 - Fitness: 0.87, Number of Features: 12
+Particle 28 - Fitness: 0.8633333333333334, Number of Features: 14
+Particle 29 - Fitness: 0.8600000000000001, Number of Features: 15
+Particle 30 - Fitness: 0.77, Number of Features: 6
+================================================================================
+
+
+================================================================================
+Iteration - 31
+================================================================================
+Iteration 31: Best Fitness=0.98667, Avg Fitness=0.90144, Selected Features (4): ['perimeter_se', 'fractal_dimension_se', 'radius_worst', 'symmetry_worst']
+
+Number of agents: 30
+
+------------- Best Agent ---------------
+Fitness: 0.97
+Number of Features: 9
+----------------------------------------
+
+Particle 1 - Fitness: 0.97, Number of Features: 9
+Particle 2 - Fitness: 0.9433333333333334, Number of Features: 8
+Particle 3 - Fitness: 0.94, Number of Features: 9
+Particle 4 - Fitness: 0.9366666666666666, Number of Features: 10
+Particle 5 - Fitness: 0.9366666666666666, Number of Features: 10
+Particle 6 - Fitness: 0.9366666666666666, Number of Features: 10
+Particle 7 - Fitness: 0.9333333333333333, Number of Features: 11
+Particle 8 - Fitness: 0.9333333333333333, Number of Features: 11
+Particle 9 - Fitness: 0.9333333333333333, Number of Features: 11
+Particle 10 - Fitness: 0.92, Number of Features: 6
+Particle 11 - Fitness: 0.9166666666666666, Number of Features: 16
+Particle 12 - Fitness: 0.9133333333333333, Number of Features: 17
+Particle 13 - Fitness: 0.9033333333333334, Number of Features: 11
+Particle 14 - Fitness: 0.9, Number of Features: 12
+Particle 15 - Fitness: 0.8966666666666667, Number of Features: 13
+Particle 16 - Fitness: 0.8966666666666667, Number of Features: 13
+Particle 17 - Fitness: 0.8933333333333334, Number of Features: 14
+Particle 18 - Fitness: 0.8933333333333334, Number of Features: 14
+Particle 19 - Fitness: 0.8933333333333334, Number of Features: 14
+Particle 20 - Fitness: 0.8900000000000001, Number of Features: 15
+Particle 21 - Fitness: 0.8833333333333334, Number of Features: 17
+Particle 22 - Fitness: 0.8833333333333333, Number of Features: 8
+Particle 23 - Fitness: 0.8766666666666667, Number of Features: 10
+Particle 24 - Fitness: 0.8766666666666667, Number of Features: 10
+Particle 25 - Fitness: 0.87, Number of Features: 12
+Particle 26 - Fitness: 0.8666666666666667, Number of Features: 13
+Particle 27 - Fitness: 0.8566666666666667, Number of Features: 16
+Particle 28 - Fitness: 0.8533333333333334, Number of Features: 17
+Particle 29 - Fitness: 0.8533333333333334, Number of Features: 17
+Particle 30 - Fitness: 0.8433333333333334, Number of Features: 11
+================================================================================
+
+
+================================================================================
+Iteration - 32
+================================================================================
+Iteration 32: Best Fitness=0.98667, Avg Fitness=0.90867, Selected Features (4): ['perimeter_se', 'fractal_dimension_se', 'radius_worst', 'symmetry_worst']
+
+Number of agents: 30
+
+------------- Best Agent ---------------
+Fitness: 0.97
+Number of Features: 9
+----------------------------------------
+
+Particle 1 - Fitness: 0.97, Number of Features: 9
+Particle 2 - Fitness: 0.96, Number of Features: 12
+Particle 3 - Fitness: 0.95, Number of Features: 15
+Particle 4 - Fitness: 0.95, Number of Features: 15
+Particle 5 - Fitness: 0.94, Number of Features: 9
+Particle 6 - Fitness: 0.9366666666666666, Number of Features: 10
+Particle 7 - Fitness: 0.9366666666666666, Number of Features: 10
+Particle 8 - Fitness: 0.9333333333333333, Number of Features: 11
+Particle 9 - Fitness: 0.9299999999999999, Number of Features: 12
+Particle 10 - Fitness: 0.9266666666666666, Number of Features: 13
+Particle 11 - Fitness: 0.9166666666666666, Number of Features: 16
+Particle 12 - Fitness: 0.9166666666666666, Number of Features: 16
+Particle 13 - Fitness: 0.9166666666666666, Number of Features: 16
+Particle 14 - Fitness: 0.9066666666666667, Number of Features: 10
+Particle 15 - Fitness: 0.9033333333333334, Number of Features: 11
+Particle 16 - Fitness: 0.9033333333333334, Number of Features: 11
+Particle 17 - Fitness: 0.9033333333333334, Number of Features: 11
+Particle 18 - Fitness: 0.9033333333333334, Number of Features: 11
+Particle 19 - Fitness: 0.8966666666666667, Number of Features: 13
+Particle 20 - Fitness: 0.8933333333333334, Number of Features: 14
+Particle 21 - Fitness: 0.8933333333333334, Number of Features: 14
+Particle 22 - Fitness: 0.8900000000000001, Number of Features: 15
+Particle 23 - Fitness: 0.8900000000000001, Number of Features: 15
+Particle 24 - Fitness: 0.8900000000000001, Number of Features: 15
+Particle 25 - Fitness: 0.8900000000000001, Number of Features: 15
+Particle 26 - Fitness: 0.8766666666666667, Number of Features: 19
+Particle 27 - Fitness: 0.8666666666666667, Number of Features: 13
+Particle 28 - Fitness: 0.8666666666666667, Number of Features: 13
+Particle 29 - Fitness: 0.8600000000000001, Number of Features: 15
+Particle 30 - Fitness: 0.8433333333333334, Number of Features: 11
+================================================================================
+
+
+================================================================================
+Iteration - 33
+================================================================================
+Iteration 33: Best Fitness=0.98667, Avg Fitness=0.90189, Selected Features (4): ['perimeter_se', 'fractal_dimension_se', 'radius_worst', 'symmetry_worst']
+
+Number of agents: 30
+
+------------- Best Agent ---------------
+Fitness: 0.97
+Number of Features: 9
+----------------------------------------
+
+Particle 1 - Fitness: 0.97, Number of Features: 9
+Particle 2 - Fitness: 0.96, Number of Features: 12
+Particle 3 - Fitness: 0.9566666666666667, Number of Features: 13
+Particle 4 - Fitness: 0.95, Number of Features: 15
+Particle 5 - Fitness: 0.9366666666666666, Number of Features: 10
+Particle 6 - Fitness: 0.9333333333333333, Number of Features: 11
+Particle 7 - Fitness: 0.9299999999999999, Number of Features: 12
+Particle 8 - Fitness: 0.9233333333333333, Number of Features: 14
+Particle 9 - Fitness: 0.9233333333333333, Number of Features: 14
+Particle 10 - Fitness: 0.9233333333333333, Number of Features: 14
+Particle 11 - Fitness: 0.9133333333333333, Number of Features: 8
+Particle 12 - Fitness: 0.9133333333333333, Number of Features: 8
+Particle 13 - Fitness: 0.91, Number of Features: 9
+Particle 14 - Fitness: 0.9033333333333334, Number of Features: 11
+Particle 15 - Fitness: 0.9, Number of Features: 12
+Particle 16 - Fitness: 0.8966666666666667, Number of Features: 13
+Particle 17 - Fitness: 0.8966666666666667, Number of Features: 13
+Particle 18 - Fitness: 0.8933333333333334, Number of Features: 14
+Particle 19 - Fitness: 0.8900000000000001, Number of Features: 15
+Particle 20 - Fitness: 0.8900000000000001, Number of Features: 15
+Particle 21 - Fitness: 0.8900000000000001, Number of Features: 15
+Particle 22 - Fitness: 0.8833333333333334, Number of Features: 17
+Particle 23 - Fitness: 0.88, Number of Features: 9
+Particle 24 - Fitness: 0.87, Number of Features: 12
+Particle 25 - Fitness: 0.8566666666666667, Number of Features: 16
+Particle 26 - Fitness: 0.8566666666666667, Number of Features: 16
+Particle 27 - Fitness: 0.8533333333333334, Number of Features: 17
+Particle 28 - Fitness: 0.8533333333333334, Number of Features: 17
+Particle 29 - Fitness: 0.8500000000000001, Number of Features: 18
+Particle 30 - Fitness: 0.8500000000000001, Number of Features: 18
+================================================================================
+
+
+================================================================================
+Iteration - 34
+================================================================================
+Iteration 34: Best Fitness=0.98667, Avg Fitness=0.89889, Selected Features (4): ['perimeter_se', 'fractal_dimension_se', 'radius_worst', 'symmetry_worst']
+
+Number of agents: 30
+
+------------- Best Agent ---------------
+Fitness: 0.9666666666666667
+Number of Features: 10
+----------------------------------------
+
+Particle 1 - Fitness: 0.9666666666666667, Number of Features: 10
+Particle 2 - Fitness: 0.95, Number of Features: 15
+Particle 3 - Fitness: 0.9466666666666667, Number of Features: 16
+Particle 4 - Fitness: 0.9366666666666666, Number of Features: 10
+Particle 5 - Fitness: 0.9333333333333333, Number of Features: 11
+Particle 6 - Fitness: 0.9233333333333333, Number of Features: 14
+Particle 7 - Fitness: 0.9233333333333333, Number of Features: 14
+Particle 8 - Fitness: 0.9199999999999999, Number of Features: 15
+Particle 9 - Fitness: 0.9133333333333333, Number of Features: 8
+Particle 10 - Fitness: 0.91, Number of Features: 9
+Particle 11 - Fitness: 0.91, Number of Features: 9
+Particle 12 - Fitness: 0.9066666666666667, Number of Features: 10
+Particle 13 - Fitness: 0.9033333333333334, Number of Features: 11
+Particle 14 - Fitness: 0.9033333333333334, Number of Features: 11
+Particle 15 - Fitness: 0.9, Number of Features: 12
+Particle 16 - Fitness: 0.9, Number of Features: 12
+Particle 17 - Fitness: 0.8966666666666667, Number of Features: 13
+Particle 18 - Fitness: 0.8966666666666667, Number of Features: 13
+Particle 19 - Fitness: 0.8966666666666667, Number of Features: 13
+Particle 20 - Fitness: 0.8933333333333334, Number of Features: 14
+Particle 21 - Fitness: 0.8866666666666667, Number of Features: 16
+Particle 22 - Fitness: 0.8866666666666667, Number of Features: 16
+Particle 23 - Fitness: 0.8733333333333334, Number of Features: 11
+Particle 24 - Fitness: 0.8733333333333334, Number of Features: 11
+Particle 25 - Fitness: 0.8700000000000001, Number of Features: 21
+Particle 26 - Fitness: 0.8633333333333334, Number of Features: 14
+Particle 27 - Fitness: 0.8633333333333334, Number of Features: 14
+Particle 28 - Fitness: 0.8600000000000001, Number of Features: 15
+Particle 29 - Fitness: 0.8366666666666667, Number of Features: 13
+Particle 30 - Fitness: 0.8233333333333334, Number of Features: 17
+================================================================================
+
+
+================================================================================
+Iteration - 35
+================================================================================
+Iteration 35: Best Fitness=0.98667, Avg Fitness=0.90600, Selected Features (4): ['perimeter_se', 'fractal_dimension_se', 'radius_worst', 'symmetry_worst']
+
+Number of agents: 30
+
+------------- Best Agent ---------------
+Fitness: 0.9566666666666667
+Number of Features: 13
+----------------------------------------
+
+Particle 1 - Fitness: 0.9566666666666667, Number of Features: 13
+Particle 2 - Fitness: 0.9533333333333334, Number of Features: 14
+Particle 3 - Fitness: 0.9433333333333334, Number of Features: 17
+Particle 4 - Fitness: 0.9433333333333334, Number of Features: 8
+Particle 5 - Fitness: 0.9333333333333333, Number of Features: 11
+Particle 6 - Fitness: 0.9333333333333333, Number of Features: 11
+Particle 7 - Fitness: 0.9299999999999999, Number of Features: 12
+Particle 8 - Fitness: 0.9266666666666666, Number of Features: 13
+Particle 9 - Fitness: 0.9266666666666666, Number of Features: 13
+Particle 10 - Fitness: 0.9266666666666666, Number of Features: 13
+Particle 11 - Fitness: 0.9233333333333333, Number of Features: 14
+Particle 12 - Fitness: 0.9233333333333333, Number of Features: 14
+Particle 13 - Fitness: 0.9199999999999999, Number of Features: 15
+Particle 14 - Fitness: 0.9199999999999999, Number of Features: 15
+Particle 15 - Fitness: 0.91, Number of Features: 9
+Particle 16 - Fitness: 0.9066666666666667, Number of Features: 10
+Particle 17 - Fitness: 0.9066666666666667, Number of Features: 10
+Particle 18 - Fitness: 0.9033333333333334, Number of Features: 11
+Particle 19 - Fitness: 0.9, Number of Features: 12
+Particle 20 - Fitness: 0.8933333333333334, Number of Features: 14
+Particle 21 - Fitness: 0.8933333333333334, Number of Features: 14
+Particle 22 - Fitness: 0.8900000000000001, Number of Features: 15
+Particle 23 - Fitness: 0.8866666666666667, Number of Features: 16
+Particle 24 - Fitness: 0.8733333333333334, Number of Features: 11
+Particle 25 - Fitness: 0.8666666666666667, Number of Features: 13
+Particle 26 - Fitness: 0.8633333333333334, Number of Features: 14
+Particle 27 - Fitness: 0.8633333333333334, Number of Features: 14
+Particle 28 - Fitness: 0.8633333333333334, Number of Features: 14
+Particle 29 - Fitness: 0.8600000000000001, Number of Features: 15
+Particle 30 - Fitness: 0.84, Number of Features: 12
+================================================================================
+
+
+================================================================================
+Iteration - 36
+================================================================================
+Iteration 36: Best Fitness=0.98667, Avg Fitness=0.89856, Selected Features (4): ['perimeter_se', 'fractal_dimension_se', 'radius_worst', 'symmetry_worst']
+
+Number of agents: 30
+
+------------- Best Agent ---------------
+Fitness: 0.9533333333333334
+Number of Features: 14
+----------------------------------------
+
+Particle 1 - Fitness: 0.9533333333333334, Number of Features: 14
+Particle 2 - Fitness: 0.9333333333333333, Number of Features: 11
+Particle 3 - Fitness: 0.9299999999999999, Number of Features: 12
+Particle 4 - Fitness: 0.9299999999999999, Number of Features: 12
+Particle 5 - Fitness: 0.9266666666666666, Number of Features: 13
+Particle 6 - Fitness: 0.9266666666666666, Number of Features: 13
+Particle 7 - Fitness: 0.9199999999999999, Number of Features: 15
+Particle 8 - Fitness: 0.9166666666666667, Number of Features: 7
+Particle 9 - Fitness: 0.9166666666666667, Number of Features: 7
+Particle 10 - Fitness: 0.9066666666666667, Number of Features: 10
+Particle 11 - Fitness: 0.9033333333333334, Number of Features: 11
+Particle 12 - Fitness: 0.9033333333333334, Number of Features: 11
+Particle 13 - Fitness: 0.9033333333333334, Number of Features: 11
+Particle 14 - Fitness: 0.9, Number of Features: 12
+Particle 15 - Fitness: 0.9, Number of Features: 12
+Particle 16 - Fitness: 0.8966666666666667, Number of Features: 13
+Particle 17 - Fitness: 0.8966666666666667, Number of Features: 13
+Particle 18 - Fitness: 0.8933333333333334, Number of Features: 14
+Particle 19 - Fitness: 0.8900000000000001, Number of Features: 15
+Particle 20 - Fitness: 0.8800000000000001, Number of Features: 18
+Particle 21 - Fitness: 0.8800000000000001, Number of Features: 18
+Particle 22 - Fitness: 0.88, Number of Features: 9
+Particle 23 - Fitness: 0.88, Number of Features: 9
+Particle 24 - Fitness: 0.88, Number of Features: 9
+Particle 25 - Fitness: 0.8766666666666667, Number of Features: 10
+Particle 26 - Fitness: 0.8766666666666667, Number of Features: 10
+Particle 27 - Fitness: 0.8766666666666667, Number of Features: 10
+Particle 28 - Fitness: 0.8733333333333334, Number of Features: 11
+Particle 29 - Fitness: 0.8600000000000001, Number of Features: 15
+Particle 30 - Fitness: 0.8466666666666667, Number of Features: 10
+================================================================================
+
+
+================================================================================
+Iteration - 37
+================================================================================
+Iteration 37: Best Fitness=0.98667, Avg Fitness=0.89989, Selected Features (4): ['perimeter_se', 'fractal_dimension_se', 'radius_worst', 'symmetry_worst']
+
+Number of agents: 30
+
+------------- Best Agent ---------------
+Fitness: 0.9666666666666667
+Number of Features: 10
+----------------------------------------
+
+Particle 1 - Fitness: 0.9666666666666667, Number of Features: 10
+Particle 2 - Fitness: 0.9566666666666667, Number of Features: 13
+Particle 3 - Fitness: 0.9566666666666667, Number of Features: 13
+Particle 4 - Fitness: 0.95, Number of Features: 15
+Particle 5 - Fitness: 0.9333333333333333, Number of Features: 11
+Particle 6 - Fitness: 0.9299999999999999, Number of Features: 12
+Particle 7 - Fitness: 0.9299999999999999, Number of Features: 12
+Particle 8 - Fitness: 0.9299999999999999, Number of Features: 12
+Particle 9 - Fitness: 0.9199999999999999, Number of Features: 15
+Particle 10 - Fitness: 0.9199999999999999, Number of Features: 15
+Particle 11 - Fitness: 0.9199999999999999, Number of Features: 15
+Particle 12 - Fitness: 0.9166666666666666, Number of Features: 16
+Particle 13 - Fitness: 0.91, Number of Features: 9
+Particle 14 - Fitness: 0.91, Number of Features: 18
+Particle 15 - Fitness: 0.9033333333333334, Number of Features: 11
+Particle 16 - Fitness: 0.8966666666666667, Number of Features: 13
+Particle 17 - Fitness: 0.8966666666666667, Number of Features: 13
+Particle 18 - Fitness: 0.8966666666666667, Number of Features: 13
+Particle 19 - Fitness: 0.8800000000000001, Number of Features: 18
+Particle 20 - Fitness: 0.8800000000000001, Number of Features: 18
+Particle 21 - Fitness: 0.8733333333333334, Number of Features: 20
+Particle 22 - Fitness: 0.87, Number of Features: 12
+Particle 23 - Fitness: 0.87, Number of Features: 12
+Particle 24 - Fitness: 0.8666666666666667, Number of Features: 13
+Particle 25 - Fitness: 0.8633333333333334, Number of Features: 14
+Particle 26 - Fitness: 0.8600000000000001, Number of Features: 15
+Particle 27 - Fitness: 0.8500000000000001, Number of Features: 18
+Particle 28 - Fitness: 0.8500000000000001, Number of Features: 18
+Particle 29 - Fitness: 0.8466666666666667, Number of Features: 19
+Particle 30 - Fitness: 0.8433333333333334, Number of Features: 11
+================================================================================
+
+
+================================================================================
+Iteration - 38
+================================================================================
+Iteration 38: Best Fitness=0.98667, Avg Fitness=0.90433, Selected Features (4): ['perimeter_se', 'fractal_dimension_se', 'radius_worst', 'symmetry_worst']
+
+Number of agents: 30
+
+------------- Best Agent ---------------
+Fitness: 0.9633333333333334
+Number of Features: 11
+----------------------------------------
+
+Particle 1 - Fitness: 0.9633333333333334, Number of Features: 11
+Particle 2 - Fitness: 0.96, Number of Features: 12
+Particle 3 - Fitness: 0.95, Number of Features: 15
+Particle 4 - Fitness: 0.94, Number of Features: 9
+Particle 5 - Fitness: 0.94, Number of Features: 9
+Particle 6 - Fitness: 0.94, Number of Features: 9
+Particle 7 - Fitness: 0.9366666666666666, Number of Features: 10
+Particle 8 - Fitness: 0.9299999999999999, Number of Features: 12
+Particle 9 - Fitness: 0.9299999999999999, Number of Features: 12
+Particle 10 - Fitness: 0.9233333333333333, Number of Features: 14
+Particle 11 - Fitness: 0.9233333333333333, Number of Features: 14
+Particle 12 - Fitness: 0.9199999999999999, Number of Features: 15
+Particle 13 - Fitness: 0.9133333333333333, Number of Features: 17
+Particle 14 - Fitness: 0.9133333333333333, Number of Features: 8
+Particle 15 - Fitness: 0.9066666666666667, Number of Features: 10
+Particle 16 - Fitness: 0.9, Number of Features: 12
+Particle 17 - Fitness: 0.9, Number of Features: 12
+Particle 18 - Fitness: 0.8966666666666667, Number of Features: 13
+Particle 19 - Fitness: 0.8933333333333334, Number of Features: 14
+Particle 20 - Fitness: 0.8933333333333334, Number of Features: 14
+Particle 21 - Fitness: 0.8833333333333334, Number of Features: 17
+Particle 22 - Fitness: 0.88, Number of Features: 9
+Particle 23 - Fitness: 0.87, Number of Features: 12
+Particle 24 - Fitness: 0.8666666666666667, Number of Features: 13
+Particle 25 - Fitness: 0.8666666666666667, Number of Features: 13
+Particle 26 - Fitness: 0.8633333333333334, Number of Features: 14
+Particle 27 - Fitness: 0.8633333333333334, Number of Features: 14
+Particle 28 - Fitness: 0.8600000000000001, Number of Features: 15
+Particle 29 - Fitness: 0.8566666666666667, Number of Features: 16
+Particle 30 - Fitness: 0.8466666666666667, Number of Features: 19
+================================================================================
+
+
+================================================================================
+Iteration - 39
+================================================================================
+Iteration 39: Best Fitness=0.98667, Avg Fitness=0.90522, Selected Features (4): ['perimeter_se', 'fractal_dimension_se', 'radius_worst', 'symmetry_worst']
+
+Number of agents: 30
+
+------------- Best Agent ---------------
+Fitness: 0.9766666666666667
+Number of Features: 7
+----------------------------------------
+
+Particle 1 - Fitness: 0.9766666666666667, Number of Features: 7
+Particle 2 - Fitness: 0.9633333333333334, Number of Features: 11
+Particle 3 - Fitness: 0.94, Number of Features: 9
+Particle 4 - Fitness: 0.9366666666666666, Number of Features: 10
+Particle 5 - Fitness: 0.9266666666666666, Number of Features: 13
+Particle 6 - Fitness: 0.9233333333333333, Number of Features: 14
+Particle 7 - Fitness: 0.9233333333333333, Number of Features: 14
+Particle 8 - Fitness: 0.9199999999999999, Number of Features: 15
+Particle 9 - Fitness: 0.9199999999999999, Number of Features: 15
+Particle 10 - Fitness: 0.9199999999999999, Number of Features: 15
+Particle 11 - Fitness: 0.9166666666666666, Number of Features: 16
+Particle 12 - Fitness: 0.9066666666666667, Number of Features: 10
+Particle 13 - Fitness: 0.9033333333333334, Number of Features: 11
+Particle 14 - Fitness: 0.9033333333333334, Number of Features: 11
+Particle 15 - Fitness: 0.9, Number of Features: 12
+Particle 16 - Fitness: 0.9, Number of Features: 12
+Particle 17 - Fitness: 0.9, Number of Features: 12
+Particle 18 - Fitness: 0.8966666666666667, Number of Features: 13
+Particle 19 - Fitness: 0.8966666666666667, Number of Features: 13
+Particle 20 - Fitness: 0.8933333333333334, Number of Features: 14
+Particle 21 - Fitness: 0.8933333333333334, Number of Features: 14
+Particle 22 - Fitness: 0.8933333333333334, Number of Features: 14
+Particle 23 - Fitness: 0.8900000000000001, Number of Features: 15
+Particle 24 - Fitness: 0.8866666666666667, Number of Features: 16
+Particle 25 - Fitness: 0.8833333333333334, Number of Features: 17
+Particle 26 - Fitness: 0.8733333333333334, Number of Features: 11
+Particle 27 - Fitness: 0.87, Number of Features: 12
+Particle 28 - Fitness: 0.87, Number of Features: 12
+Particle 29 - Fitness: 0.8666666666666667, Number of Features: 13
+Particle 30 - Fitness: 0.8633333333333334, Number of Features: 14
+================================================================================
+
+
+================================================================================
+Iteration - 40
+================================================================================
+Iteration 40: Best Fitness=0.98667, Avg Fitness=0.90367, Selected Features (4): ['perimeter_se', 'fractal_dimension_se', 'radius_worst', 'symmetry_worst']
+
+Number of agents: 30
+
+------------- Best Agent ---------------
+Fitness: 0.9633333333333334
+Number of Features: 11
+----------------------------------------
+
+Particle 1 - Fitness: 0.9633333333333334, Number of Features: 11
+Particle 2 - Fitness: 0.95, Number of Features: 15
+Particle 3 - Fitness: 0.9299999999999999, Number of Features: 12
+Particle 4 - Fitness: 0.9266666666666666, Number of Features: 13
+Particle 5 - Fitness: 0.9266666666666666, Number of Features: 13
+Particle 6 - Fitness: 0.9266666666666666, Number of Features: 13
+Particle 7 - Fitness: 0.9266666666666666, Number of Features: 13
+Particle 8 - Fitness: 0.9266666666666666, Number of Features: 13
+Particle 9 - Fitness: 0.9233333333333333, Number of Features: 14
+Particle 10 - Fitness: 0.9233333333333333, Number of Features: 14
+Particle 11 - Fitness: 0.9199999999999999, Number of Features: 15
+Particle 12 - Fitness: 0.9199999999999999, Number of Features: 15
+Particle 13 - Fitness: 0.91, Number of Features: 18
+Particle 14 - Fitness: 0.91, Number of Features: 9
+Particle 15 - Fitness: 0.9033333333333334, Number of Features: 11
+Particle 16 - Fitness: 0.9033333333333334, Number of Features: 11
+Particle 17 - Fitness: 0.9, Number of Features: 12
+Particle 18 - Fitness: 0.8966666666666667, Number of Features: 13
+Particle 19 - Fitness: 0.8933333333333334, Number of Features: 14
+Particle 20 - Fitness: 0.8866666666666667, Number of Features: 16
+Particle 21 - Fitness: 0.8866666666666667, Number of Features: 16
+Particle 22 - Fitness: 0.8833333333333334, Number of Features: 17
+Particle 23 - Fitness: 0.8833333333333334, Number of Features: 17
+Particle 24 - Fitness: 0.8800000000000001, Number of Features: 18
+Particle 25 - Fitness: 0.88, Number of Features: 9
+Particle 26 - Fitness: 0.8733333333333334, Number of Features: 11
+Particle 27 - Fitness: 0.87, Number of Features: 12
+Particle 28 - Fitness: 0.87, Number of Features: 12
+Particle 29 - Fitness: 0.8600000000000001, Number of Features: 15
+Particle 30 - Fitness: 0.8566666666666667, Number of Features: 16
+================================================================================
+
+
+================================================================================
+Iteration - 41
+================================================================================
+Iteration 41: Best Fitness=0.98667, Avg Fitness=0.89467, Selected Features (4): ['perimeter_se', 'fractal_dimension_se', 'radius_worst', 'symmetry_worst']
+
+Number of agents: 30
+
+------------- Best Agent ---------------
+Fitness: 0.9733333333333334
+Number of Features: 8
+----------------------------------------
+
+Particle 1 - Fitness: 0.9733333333333334, Number of Features: 8
+Particle 2 - Fitness: 0.9666666666666667, Number of Features: 10
+Particle 3 - Fitness: 0.9666666666666667, Number of Features: 10
+Particle 4 - Fitness: 0.9566666666666667, Number of Features: 13
+Particle 5 - Fitness: 0.9433333333333334, Number of Features: 8
+Particle 6 - Fitness: 0.94, Number of Features: 9
+Particle 7 - Fitness: 0.9333333333333333, Number of Features: 11
+Particle 8 - Fitness: 0.9266666666666666, Number of Features: 13
+Particle 9 - Fitness: 0.9233333333333333, Number of Features: 14
+Particle 10 - Fitness: 0.9199999999999999, Number of Features: 15
+Particle 11 - Fitness: 0.9199999999999999, Number of Features: 15
+Particle 12 - Fitness: 0.9133333333333333, Number of Features: 17
+Particle 13 - Fitness: 0.9033333333333334, Number of Features: 11
+Particle 14 - Fitness: 0.8900000000000001, Number of Features: 15
+Particle 15 - Fitness: 0.8900000000000001, Number of Features: 15
+Particle 16 - Fitness: 0.8800000000000001, Number of Features: 18
+Particle 17 - Fitness: 0.88, Number of Features: 9
+Particle 18 - Fitness: 0.8733333333333334, Number of Features: 11
+Particle 19 - Fitness: 0.87, Number of Features: 12
+Particle 20 - Fitness: 0.8666666666666667, Number of Features: 13
+Particle 21 - Fitness: 0.8666666666666667, Number of Features: 13
+Particle 22 - Fitness: 0.8633333333333334, Number of Features: 14
+Particle 23 - Fitness: 0.8633333333333334, Number of Features: 14
+Particle 24 - Fitness: 0.8633333333333334, Number of Features: 14
+Particle 25 - Fitness: 0.8633333333333334, Number of Features: 14
+Particle 26 - Fitness: 0.8600000000000001, Number of Features: 15
+Particle 27 - Fitness: 0.8533333333333334, Number of Features: 17
+Particle 28 - Fitness: 0.8500000000000001, Number of Features: 18
+Particle 29 - Fitness: 0.8333333333333334, Number of Features: 14
+Particle 30 - Fitness: 0.7866666666666667, Number of Features: 10
+================================================================================
+
+
+================================================================================
+Iteration - 42
+================================================================================
+Iteration 42: Best Fitness=0.98667, Avg Fitness=0.89467, Selected Features (4): ['perimeter_se', 'fractal_dimension_se', 'radius_worst', 'symmetry_worst']
+
+Number of agents: 30
+
+------------- Best Agent ---------------
+Fitness: 0.9733333333333334
+Number of Features: 8
+----------------------------------------
+
+Particle 1 - Fitness: 0.9733333333333334, Number of Features: 8
+Particle 2 - Fitness: 0.9566666666666667, Number of Features: 13
+Particle 3 - Fitness: 0.9533333333333334, Number of Features: 14
+Particle 4 - Fitness: 0.94, Number of Features: 9
+Particle 5 - Fitness: 0.9299999999999999, Number of Features: 12
+Particle 6 - Fitness: 0.9266666666666666, Number of Features: 13
+Particle 7 - Fitness: 0.9233333333333333, Number of Features: 14
+Particle 8 - Fitness: 0.91, Number of Features: 18
+Particle 9 - Fitness: 0.9066666666666667, Number of Features: 10
+Particle 10 - Fitness: 0.9033333333333334, Number of Features: 11
+Particle 11 - Fitness: 0.9, Number of Features: 12
+Particle 12 - Fitness: 0.9, Number of Features: 12
+Particle 13 - Fitness: 0.8933333333333334, Number of Features: 14
+Particle 14 - Fitness: 0.8933333333333334, Number of Features: 14
+Particle 15 - Fitness: 0.8900000000000001, Number of Features: 15
+Particle 16 - Fitness: 0.8900000000000001, Number of Features: 15
+Particle 17 - Fitness: 0.8866666666666667, Number of Features: 16
+Particle 18 - Fitness: 0.8833333333333334, Number of Features: 17
+Particle 19 - Fitness: 0.88, Number of Features: 9
+Particle 20 - Fitness: 0.8733333333333334, Number of Features: 20
+Particle 21 - Fitness: 0.87, Number of Features: 12
+Particle 22 - Fitness: 0.87, Number of Features: 12
+Particle 23 - Fitness: 0.8666666666666667, Number of Features: 13
+Particle 24 - Fitness: 0.8666666666666667, Number of Features: 13
+Particle 25 - Fitness: 0.8633333333333334, Number of Features: 14
+Particle 26 - Fitness: 0.8633333333333334, Number of Features: 14
+Particle 27 - Fitness: 0.8633333333333334, Number of Features: 14
+Particle 28 - Fitness: 0.8566666666666667, Number of Features: 16
+Particle 29 - Fitness: 0.8533333333333334, Number of Features: 17
+Particle 30 - Fitness: 0.8533333333333334, Number of Features: 17
+================================================================================
+
+
+================================================================================
+Iteration - 43
+================================================================================
+Iteration 43: Best Fitness=0.98667, Avg Fitness=0.89922, Selected Features (4): ['perimeter_se', 'fractal_dimension_se', 'radius_worst', 'symmetry_worst']
+
+Number of agents: 30
+
+------------- Best Agent ---------------
+Fitness: 0.9433333333333334
+Number of Features: 17
+----------------------------------------
+
+Particle 1 - Fitness: 0.9433333333333334, Number of Features: 17
+Particle 2 - Fitness: 0.9366666666666666, Number of Features: 10
+Particle 3 - Fitness: 0.9333333333333333, Number of Features: 11
+Particle 4 - Fitness: 0.9299999999999999, Number of Features: 12
+Particle 5 - Fitness: 0.9299999999999999, Number of Features: 12
+Particle 6 - Fitness: 0.9266666666666666, Number of Features: 13
+Particle 7 - Fitness: 0.9266666666666666, Number of Features: 13
+Particle 8 - Fitness: 0.9266666666666666, Number of Features: 13
+Particle 9 - Fitness: 0.9233333333333333, Number of Features: 14
+Particle 10 - Fitness: 0.9233333333333333, Number of Features: 14
+Particle 11 - Fitness: 0.9233333333333333, Number of Features: 14
+Particle 12 - Fitness: 0.9199999999999999, Number of Features: 15
+Particle 13 - Fitness: 0.9133333333333333, Number of Features: 17
+Particle 14 - Fitness: 0.9133333333333333, Number of Features: 17
+Particle 15 - Fitness: 0.9133333333333333, Number of Features: 17
+Particle 16 - Fitness: 0.9033333333333334, Number of Features: 11
+Particle 17 - Fitness: 0.9033333333333334, Number of Features: 11
+Particle 18 - Fitness: 0.9, Number of Features: 12
+Particle 19 - Fitness: 0.8933333333333334, Number of Features: 14
+Particle 20 - Fitness: 0.8933333333333334, Number of Features: 14
+Particle 21 - Fitness: 0.8866666666666667, Number of Features: 16
+Particle 22 - Fitness: 0.8766666666666667, Number of Features: 10
+Particle 23 - Fitness: 0.8666666666666667, Number of Features: 13
+Particle 24 - Fitness: 0.8633333333333334, Number of Features: 14
+Particle 25 - Fitness: 0.8600000000000001, Number of Features: 15
+Particle 26 - Fitness: 0.8533333333333334, Number of Features: 17
+Particle 27 - Fitness: 0.8533333333333334, Number of Features: 17
+Particle 28 - Fitness: 0.8500000000000001, Number of Features: 18
+Particle 29 - Fitness: 0.8500000000000001, Number of Features: 18
+Particle 30 - Fitness: 0.84, Number of Features: 12
+================================================================================
+
+
+================================================================================
+Iteration - 44
+================================================================================
+Iteration 44: Best Fitness=0.98667, Avg Fitness=0.89533, Selected Features (4): ['perimeter_se', 'fractal_dimension_se', 'radius_worst', 'symmetry_worst']
+
+Number of agents: 30
+
+------------- Best Agent ---------------
+Fitness: 0.9733333333333334
+Number of Features: 8
+----------------------------------------
+
+Particle 1 - Fitness: 0.9733333333333334, Number of Features: 8
+Particle 2 - Fitness: 0.97, Number of Features: 9
+Particle 3 - Fitness: 0.9666666666666667, Number of Features: 10
+Particle 4 - Fitness: 0.96, Number of Features: 12
+Particle 5 - Fitness: 0.9299999999999999, Number of Features: 12
+Particle 6 - Fitness: 0.9266666666666666, Number of Features: 13
+Particle 7 - Fitness: 0.9266666666666666, Number of Features: 13
+Particle 8 - Fitness: 0.9233333333333333, Number of Features: 14
+Particle 9 - Fitness: 0.9033333333333334, Number of Features: 11
+Particle 10 - Fitness: 0.9, Number of Features: 12
+Particle 11 - Fitness: 0.9, Number of Features: 12
+Particle 12 - Fitness: 0.8966666666666667, Number of Features: 13
+Particle 13 - Fitness: 0.8966666666666667, Number of Features: 13
+Particle 14 - Fitness: 0.8933333333333334, Number of Features: 14
+Particle 15 - Fitness: 0.8933333333333334, Number of Features: 14
+Particle 16 - Fitness: 0.8933333333333334, Number of Features: 14
+Particle 17 - Fitness: 0.8833333333333334, Number of Features: 17
+Particle 18 - Fitness: 0.8833333333333334, Number of Features: 17
+Particle 19 - Fitness: 0.8833333333333334, Number of Features: 17
+Particle 20 - Fitness: 0.8733333333333334, Number of Features: 11
+Particle 21 - Fitness: 0.8733333333333334, Number of Features: 11
+Particle 22 - Fitness: 0.87, Number of Features: 12
+Particle 23 - Fitness: 0.8633333333333334, Number of Features: 14
+Particle 24 - Fitness: 0.8633333333333334, Number of Features: 14
+Particle 25 - Fitness: 0.8600000000000001, Number of Features: 15
+Particle 26 - Fitness: 0.8600000000000001, Number of Features: 15
+Particle 27 - Fitness: 0.8600000000000001, Number of Features: 15
+Particle 28 - Fitness: 0.8566666666666667, Number of Features: 16
+Particle 29 - Fitness: 0.84, Number of Features: 12
+Particle 30 - Fitness: 0.8366666666666667, Number of Features: 13
+================================================================================
+
+
+================================================================================
+Iteration - 45
+================================================================================
+Iteration 45: Best Fitness=0.98667, Avg Fitness=0.89589, Selected Features (4): ['perimeter_se', 'fractal_dimension_se', 'radius_worst', 'symmetry_worst']
+
+Number of agents: 30
+
+------------- Best Agent ---------------
+Fitness: 0.9333333333333333
+Number of Features: 11
+----------------------------------------
+
+Particle 1 - Fitness: 0.9333333333333333, Number of Features: 11
+Particle 2 - Fitness: 0.9299999999999999, Number of Features: 12
+Particle 3 - Fitness: 0.9266666666666666, Number of Features: 13
+Particle 4 - Fitness: 0.9266666666666666, Number of Features: 13
+Particle 5 - Fitness: 0.9266666666666666, Number of Features: 13
+Particle 6 - Fitness: 0.9233333333333333, Number of Features: 14
+Particle 7 - Fitness: 0.9199999999999999, Number of Features: 15
+Particle 8 - Fitness: 0.9133333333333333, Number of Features: 17
+Particle 9 - Fitness: 0.9133333333333333, Number of Features: 17
+Particle 10 - Fitness: 0.9133333333333333, Number of Features: 17
+Particle 11 - Fitness: 0.91, Number of Features: 18
+Particle 12 - Fitness: 0.9066666666666667, Number of Features: 10
+Particle 13 - Fitness: 0.8966666666666667, Number of Features: 13
+Particle 14 - Fitness: 0.8966666666666667, Number of Features: 13
+Particle 15 - Fitness: 0.8966666666666667, Number of Features: 13
+Particle 16 - Fitness: 0.8933333333333334, Number of Features: 14
+Particle 17 - Fitness: 0.8933333333333334, Number of Features: 14
+Particle 18 - Fitness: 0.8900000000000001, Number of Features: 15
+Particle 19 - Fitness: 0.8900000000000001, Number of Features: 15
+Particle 20 - Fitness: 0.8900000000000001, Number of Features: 15
+Particle 21 - Fitness: 0.8866666666666667, Number of Features: 16
+Particle 22 - Fitness: 0.8833333333333334, Number of Features: 17
+Particle 23 - Fitness: 0.8833333333333334, Number of Features: 17
+Particle 24 - Fitness: 0.8666666666666667, Number of Features: 13
+Particle 25 - Fitness: 0.8666666666666667, Number of Features: 13
+Particle 26 - Fitness: 0.8633333333333334, Number of Features: 14
+Particle 27 - Fitness: 0.8600000000000001, Number of Features: 15
+Particle 28 - Fitness: 0.8600000000000001, Number of Features: 15
+Particle 29 - Fitness: 0.8600000000000001, Number of Features: 15
+Particle 30 - Fitness: 0.8566666666666667, Number of Features: 16
+================================================================================
+
+
+================================================================================
+Iteration - 46
+================================================================================
+Iteration 46: Best Fitness=0.98667, Avg Fitness=0.90533, Selected Features (4): ['perimeter_se', 'fractal_dimension_se', 'radius_worst', 'symmetry_worst']
+
+Number of agents: 30
+
+------------- Best Agent ---------------
+Fitness: 0.9666666666666667
+Number of Features: 10
+----------------------------------------
+
+Particle 1 - Fitness: 0.9666666666666667, Number of Features: 10
+Particle 2 - Fitness: 0.9566666666666667, Number of Features: 13
+Particle 3 - Fitness: 0.9533333333333334, Number of Features: 14
+Particle 4 - Fitness: 0.95, Number of Features: 15
+Particle 5 - Fitness: 0.95, Number of Features: 15
+Particle 6 - Fitness: 0.94, Number of Features: 9
+Particle 7 - Fitness: 0.9266666666666666, Number of Features: 13
+Particle 8 - Fitness: 0.9233333333333333, Number of Features: 14
+Particle 9 - Fitness: 0.9199999999999999, Number of Features: 15
+Particle 10 - Fitness: 0.9199999999999999, Number of Features: 15
+Particle 11 - Fitness: 0.91, Number of Features: 9
+Particle 12 - Fitness: 0.9066666666666667, Number of Features: 10
+Particle 13 - Fitness: 0.9066666666666667, Number of Features: 10
+Particle 14 - Fitness: 0.9066666666666667, Number of Features: 10
+Particle 15 - Fitness: 0.9033333333333334, Number of Features: 11
+Particle 16 - Fitness: 0.9, Number of Features: 12
+Particle 17 - Fitness: 0.9, Number of Features: 12
+Particle 18 - Fitness: 0.8966666666666667, Number of Features: 13
+Particle 19 - Fitness: 0.8966666666666667, Number of Features: 13
+Particle 20 - Fitness: 0.8933333333333334, Number of Features: 14
+Particle 21 - Fitness: 0.8900000000000001, Number of Features: 15
+Particle 22 - Fitness: 0.8900000000000001, Number of Features: 15
+Particle 23 - Fitness: 0.8900000000000001, Number of Features: 15
+Particle 24 - Fitness: 0.8833333333333333, Number of Features: 8
+Particle 25 - Fitness: 0.8733333333333334, Number of Features: 11
+Particle 26 - Fitness: 0.87, Number of Features: 12
+Particle 27 - Fitness: 0.8666666666666667, Number of Features: 13
+Particle 28 - Fitness: 0.8566666666666667, Number of Features: 16
+Particle 29 - Fitness: 0.8566666666666667, Number of Features: 16
+Particle 30 - Fitness: 0.8566666666666667, Number of Features: 16
+================================================================================
+
+
+================================================================================
+Iteration - 47
+================================================================================
+Iteration 47: Best Fitness=0.98667, Avg Fitness=0.89111, Selected Features (4): ['perimeter_se', 'fractal_dimension_se', 'radius_worst', 'symmetry_worst']
+
+Number of agents: 30
+
+------------- Best Agent ---------------
+Fitness: 0.9566666666666667
+Number of Features: 13
+----------------------------------------
+
+Particle 1 - Fitness: 0.9566666666666667, Number of Features: 13
+Particle 2 - Fitness: 0.9333333333333333, Number of Features: 11
+Particle 3 - Fitness: 0.9333333333333333, Number of Features: 11
+Particle 4 - Fitness: 0.9266666666666666, Number of Features: 13
+Particle 5 - Fitness: 0.9233333333333333, Number of Features: 14
+Particle 6 - Fitness: 0.9233333333333333, Number of Features: 14
+Particle 7 - Fitness: 0.9199999999999999, Number of Features: 15
+Particle 8 - Fitness: 0.9166666666666666, Number of Features: 16
+Particle 9 - Fitness: 0.9066666666666667, Number of Features: 10
+Particle 10 - Fitness: 0.9033333333333334, Number of Features: 11
+Particle 11 - Fitness: 0.9033333333333334, Number of Features: 11
+Particle 12 - Fitness: 0.9033333333333334, Number of Features: 11
+Particle 13 - Fitness: 0.9, Number of Features: 12
+Particle 14 - Fitness: 0.9, Number of Features: 12
+Particle 15 - Fitness: 0.9, Number of Features: 21
+Particle 16 - Fitness: 0.8966666666666667, Number of Features: 13
+Particle 17 - Fitness: 0.8966666666666667, Number of Features: 13
+Particle 18 - Fitness: 0.8933333333333334, Number of Features: 14
+Particle 19 - Fitness: 0.8933333333333334, Number of Features: 14
+Particle 20 - Fitness: 0.8766666666666667, Number of Features: 10
+Particle 21 - Fitness: 0.8666666666666667, Number of Features: 13
+Particle 22 - Fitness: 0.8666666666666667, Number of Features: 13
+Particle 23 - Fitness: 0.8666666666666667, Number of Features: 13
+Particle 24 - Fitness: 0.8666666666666667, Number of Features: 13
+Particle 25 - Fitness: 0.8633333333333334, Number of Features: 14
+Particle 26 - Fitness: 0.8566666666666667, Number of Features: 16
+Particle 27 - Fitness: 0.8566666666666667, Number of Features: 16
+Particle 28 - Fitness: 0.8500000000000001, Number of Features: 18
+Particle 29 - Fitness: 0.8200000000000001, Number of Features: 18
+Particle 30 - Fitness: 0.8133333333333334, Number of Features: 11
+================================================================================
+
+
+================================================================================
+Iteration - 48
+================================================================================
+Iteration 48: Best Fitness=0.98667, Avg Fitness=0.89589, Selected Features (4): ['perimeter_se', 'fractal_dimension_se', 'radius_worst', 'symmetry_worst']
+
+Number of agents: 30
+
+------------- Best Agent ---------------
+Fitness: 0.95
+Number of Features: 15
+----------------------------------------
+
+Particle 1 - Fitness: 0.95, Number of Features: 15
+Particle 2 - Fitness: 0.9366666666666666, Number of Features: 10
+Particle 3 - Fitness: 0.9333333333333333, Number of Features: 11
+Particle 4 - Fitness: 0.9333333333333333, Number of Features: 11
+Particle 5 - Fitness: 0.9299999999999999, Number of Features: 12
+Particle 6 - Fitness: 0.9233333333333333, Number of Features: 14
+Particle 7 - Fitness: 0.9233333333333333, Number of Features: 14
+Particle 8 - Fitness: 0.9166666666666666, Number of Features: 16
+Particle 9 - Fitness: 0.9133333333333333, Number of Features: 8
+Particle 10 - Fitness: 0.91, Number of Features: 18
+Particle 11 - Fitness: 0.9, Number of Features: 12
+Particle 12 - Fitness: 0.9, Number of Features: 12
+Particle 13 - Fitness: 0.9, Number of Features: 12
+Particle 14 - Fitness: 0.9, Number of Features: 12
+Particle 15 - Fitness: 0.8966666666666667, Number of Features: 13
+Particle 16 - Fitness: 0.8966666666666667, Number of Features: 13
+Particle 17 - Fitness: 0.8966666666666667, Number of Features: 13
+Particle 18 - Fitness: 0.8933333333333334, Number of Features: 14
+Particle 19 - Fitness: 0.8933333333333334, Number of Features: 14
+Particle 20 - Fitness: 0.8900000000000001, Number of Features: 15
+Particle 21 - Fitness: 0.8866666666666667, Number of Features: 16
+Particle 22 - Fitness: 0.8733333333333334, Number of Features: 11
+Particle 23 - Fitness: 0.87, Number of Features: 12
+Particle 24 - Fitness: 0.8666666666666667, Number of Features: 13
+Particle 25 - Fitness: 0.8666666666666667, Number of Features: 13
+Particle 26 - Fitness: 0.8600000000000001, Number of Features: 15
+Particle 27 - Fitness: 0.8600000000000001, Number of Features: 15
+Particle 28 - Fitness: 0.8566666666666667, Number of Features: 16
+Particle 29 - Fitness: 0.8566666666666667, Number of Features: 16
+Particle 30 - Fitness: 0.8433333333333334, Number of Features: 20
+================================================================================
+
+
+================================================================================
+Iteration - 49
+================================================================================
+Iteration 49: Best Fitness=0.98667, Avg Fitness=0.89556, Selected Features (4): ['perimeter_se', 'fractal_dimension_se', 'radius_worst', 'symmetry_worst']
+
+Number of agents: 30
+
+------------- Best Agent ---------------
+Fitness: 0.9633333333333334
+Number of Features: 11
+----------------------------------------
+
+Particle 1 - Fitness: 0.9633333333333334, Number of Features: 11
+Particle 2 - Fitness: 0.9633333333333334, Number of Features: 11
+Particle 3 - Fitness: 0.96, Number of Features: 12
+Particle 4 - Fitness: 0.9366666666666666, Number of Features: 10
+Particle 5 - Fitness: 0.9299999999999999, Number of Features: 12
+Particle 6 - Fitness: 0.9266666666666666, Number of Features: 13
+Particle 7 - Fitness: 0.9266666666666666, Number of Features: 13
+Particle 8 - Fitness: 0.9266666666666666, Number of Features: 13
+Particle 9 - Fitness: 0.9233333333333333, Number of Features: 14
+Particle 10 - Fitness: 0.9166666666666666, Number of Features: 16
+Particle 11 - Fitness: 0.9133333333333333, Number of Features: 17
+Particle 12 - Fitness: 0.9033333333333334, Number of Features: 11
+Particle 13 - Fitness: 0.9033333333333334, Number of Features: 11
+Particle 14 - Fitness: 0.8966666666666667, Number of Features: 13
+Particle 15 - Fitness: 0.8966666666666667, Number of Features: 13
+Particle 16 - Fitness: 0.8933333333333334, Number of Features: 14
+Particle 17 - Fitness: 0.8900000000000001, Number of Features: 15
+Particle 18 - Fitness: 0.8833333333333334, Number of Features: 17
+Particle 19 - Fitness: 0.8833333333333333, Number of Features: 8
+Particle 20 - Fitness: 0.8800000000000001, Number of Features: 18
+Particle 21 - Fitness: 0.8666666666666667, Number of Features: 13
+Particle 22 - Fitness: 0.8633333333333334, Number of Features: 14
+Particle 23 - Fitness: 0.8600000000000001, Number of Features: 15
+Particle 24 - Fitness: 0.8566666666666667, Number of Features: 16
+Particle 25 - Fitness: 0.8566666666666667, Number of Features: 16
+Particle 26 - Fitness: 0.8566666666666667, Number of Features: 16
+Particle 27 - Fitness: 0.8566666666666667, Number of Features: 16
+Particle 28 - Fitness: 0.8500000000000001, Number of Features: 18
+Particle 29 - Fitness: 0.8466666666666667, Number of Features: 10
+Particle 30 - Fitness: 0.8366666666666667, Number of Features: 13
+================================================================================
+
+
+================================================================================
+Iteration - 50
+================================================================================
+Iteration 50: Best Fitness=0.98667, Avg Fitness=0.89689, Selected Features (4): ['perimeter_se', 'fractal_dimension_se', 'radius_worst', 'symmetry_worst']
+
+Number of agents: 30
+
+------------- Best Agent ---------------
+Fitness: 0.9533333333333334
+Number of Features: 14
+----------------------------------------
+
+Particle 1 - Fitness: 0.9533333333333334, Number of Features: 14
+Particle 2 - Fitness: 0.9299999999999999, Number of Features: 12
+Particle 3 - Fitness: 0.9266666666666666, Number of Features: 13
+Particle 4 - Fitness: 0.9266666666666666, Number of Features: 13
+Particle 5 - Fitness: 0.9266666666666666, Number of Features: 13
+Particle 6 - Fitness: 0.9266666666666666, Number of Features: 13
+Particle 7 - Fitness: 0.9266666666666666, Number of Features: 13
+Particle 8 - Fitness: 0.9266666666666666, Number of Features: 13
+Particle 9 - Fitness: 0.9233333333333333, Number of Features: 14
+Particle 10 - Fitness: 0.9199999999999999, Number of Features: 15
+Particle 11 - Fitness: 0.9199999999999999, Number of Features: 15
+Particle 12 - Fitness: 0.9166666666666666, Number of Features: 16
+Particle 13 - Fitness: 0.9166666666666666, Number of Features: 16
+Particle 14 - Fitness: 0.9133333333333333, Number of Features: 17
+Particle 15 - Fitness: 0.91, Number of Features: 18
+Particle 16 - Fitness: 0.9033333333333334, Number of Features: 11
+Particle 17 - Fitness: 0.9, Number of Features: 12
+Particle 18 - Fitness: 0.8966666666666667, Number of Features: 4
+Particle 19 - Fitness: 0.8833333333333334, Number of Features: 17
+Particle 20 - Fitness: 0.88, Number of Features: 9
+Particle 21 - Fitness: 0.87, Number of Features: 12
+Particle 22 - Fitness: 0.87, Number of Features: 12
+Particle 23 - Fitness: 0.8666666666666667, Number of Features: 13
+Particle 24 - Fitness: 0.8633333333333334, Number of Features: 14
+Particle 25 - Fitness: 0.8633333333333334, Number of Features: 14
+Particle 26 - Fitness: 0.8600000000000001, Number of Features: 15
+Particle 27 - Fitness: 0.8600000000000001, Number of Features: 15
+Particle 28 - Fitness: 0.8566666666666667, Number of Features: 16
+Particle 29 - Fitness: 0.8400000000000001, Number of Features: 21
+Particle 30 - Fitness: 0.8300000000000001, Number of Features: 15
+================================================================================
+
+
+------------- Leader Agent ---------------
+Fitness: 0.9866666666666667
+Number of Features: 12
+----------------------------------------
+
+
+------------- Leader Agent ------------------------
+Fitness: 0.98667
+Vector: [0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 0]
+Selected 4 features: ['perimeter_se', 'fractal_dimension_se', 'radius_worst', 'symmetry_worst']
+---------------------------------------------------
