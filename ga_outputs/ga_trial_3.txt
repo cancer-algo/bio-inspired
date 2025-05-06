@@ -1,0 +1,51 @@
+Accuracy using all 28 features: 0.89667
+Iteration 1: Best Fitness=0.87052, Avg Fitness=0.86012, Selected Features (6): age, smoking_habits, endoscopic_images, target_symbol, h_pylori_infection, gastritis
+Iteration 2: Best Fitness=0.87052, Avg Fitness=0.86048, Selected Features (6): age, smoking_habits, endoscopic_images, target_symbol, h_pylori_infection, gastritis
+Iteration 3: Best Fitness=0.87079, Avg Fitness=0.86083, Selected Features (7): smoking_habits, endoscopic_images, target_symbol, diana_microt, targetscan, hpylori, family_history
+Iteration 4: Best Fitness=0.87079, Avg Fitness=0.86119, Selected Features (7): smoking_habits, endoscopic_images, target_symbol, diana_microt, targetscan, hpylori, family_history
+Iteration 5: Best Fitness=0.87119, Avg Fitness=0.86154, Selected Features (6): age, endoscopic_images, target_symbol, diana_microt, predicted.sum, ulcer_history
+Iteration 6: Best Fitness=0.87147, Avg Fitness=0.86190, Selected Features (8): smoking_habits, dietary_habits, endoscopic_images, target_symbol, miranda, all.sum, h_pylori_infection, ethnicity
+Iteration 7: Best Fitness=0.87147, Avg Fitness=0.86225, Selected Features (8): smoking_habits, dietary_habits, endoscopic_images, target_symbol, miranda, all.sum, h_pylori_infection, ethnicity
+Iteration 8: Best Fitness=0.87182, Avg Fitness=0.86261, Selected Features (6): age, endoscopic_images, target_symbol, diana_microt, targetscan, gastritis
+Iteration 9: Best Fitness=0.87214, Avg Fitness=0.86296, Selected Features (7): smoking_habits, endoscopic_images, target_symbol, miranda, targetscan, hpylori, family_history
+Iteration 10: Best Fitness=0.87214, Avg Fitness=0.86332, Selected Features (7): smoking_habits, endoscopic_images, target_symbol, miranda, targetscan, hpylori, family_history
+Iteration 11: Best Fitness=0.87246, Avg Fitness=0.86367, Selected Features (5): endoscopic_images, target_symbol, diana_microt, targetscan, h_pylori_infection
+Iteration 12: Best Fitness=0.87278, Avg Fitness=0.86403, Selected Features (6): age, endoscopic_images, target_symbol, diana_microt, predicted.sum, ulcer_history
+Iteration 13: Best Fitness=0.87278, Avg Fitness=0.86438, Selected Features (6): age, endoscopic_images, target_symbol, diana_microt, predicted.sum, ulcer_history
+Iteration 14: Best Fitness=0.87309, Avg Fitness=0.86474, Selected Features (8): smoking_habits, alcohol, endoscopic_images, target_symbol, miranda, all.sum, h_pylori_infection, ethnicity
+Iteration 15: Best Fitness=0.87338, Avg Fitness=0.86509, Selected Features (7): endoscopic_images, target_symbol, diana_microt, targetscan, hpylori, family_history, gastritis
+Iteration 16: Best Fitness=0.87338, Avg Fitness=0.86545, Selected Features (7): endoscopic_images, target_symbol, diana_microt, targetscan, hpylori, family_history, gastritis
+Iteration 17: Best Fitness=0.87367, Avg Fitness=0.86580, Selected Features (6): age, endoscopic_images, target_symbol, diana_microt, predicted.sum, h_pylori_infection
+Iteration 18: Best Fitness=0.87394, Avg Fitness=0.86616, Selected Features (8): smoking_habits, endoscopic_images, target_symbol, miranda, targetscan, all.sum, hpylori, family_history
+Iteration 19: Best Fitness=0.87394, Avg Fitness=0.86651, Selected Features (8): smoking_habits, endoscopic_images, target_symbol, miranda, targetscan, all.sum, hpylori, family_history
+Iteration 20: Best Fitness=0.87422, Avg Fitness=0.86687, Selected Features (6): endoscopic_images, target_symbol, diana_microt, targetscan, h_pylori_infection, gastritis
+Iteration 21: Best Fitness=0.87449, Avg Fitness=0.86722, Selected Features (7): age, endoscopic_images, target_symbol, diana_microt, predicted.sum, hpylori, ulcer_history
+Iteration 22: Best Fitness=0.87449, Avg Fitness=0.86758, Selected Features (7): age, endoscopic_images, target_symbol, diana_microt, predicted.sum, hpylori, ulcer_history
+Iteration 23: Best Fitness=0.87476, Avg Fitness=0.86793, Selected Features (8): smoking_habits, endoscopic_images, target_symbol, miranda, targetscan, all.sum, h_pylori_infection, family_history
+Iteration 24: Best Fitness=0.87476, Avg Fitness=0.86829, Selected Features (8): smoking_habits, endoscopic_images, target_symbol, miranda, targetscan, all.sum, h_pylori_infection, family_history
+Iteration 25: Best Fitness=0.87503, Avg Fitness=0.86864, Selected Features (6): endoscopic_images, target_symbol, diana_microt, targetscan, hpylori, gastritis
+Iteration 26: Best Fitness=0.87529, Avg Fitness=0.86900, Selected Features (9): age, smoking_habits, endoscopic_images, target_symbol, miranda, targetscan, all.sum, h_pylori_infection, ethnicity
+Iteration 27: Best Fitness=0.87529, Avg Fitness=0.86935, Selected Features (9): age, smoking_habits, endoscopic_images, target_symbol, miranda, targetscan, all.sum, h_pylori_infection, ethnicity
+Iteration 28: Best Fitness=0.87556, Avg Fitness=0.86971, Selected Features (7): endoscopic_images, target_symbol, diana_microt, targetscan, hpylori, family_history, ulcer_history
+Iteration 29: Best Fitness=0.87582, Avg Fitness=0.87006, Selected Features (8): smoking_habits, endoscopic_images, target_symbol, miranda, targetscan, all.sum, h_pylori_infection, gastritis
+Iteration 30: Best Fitness=0.87582, Avg Fitness=0.87042, Selected Features (8): smoking_habits, endoscopic_images, target_symbol, miranda, targetscan, all.sum, h_pylori_infection, gastritis
+Iteration 31: Best Fitness=0.87609, Avg Fitness=0.87077, Selected Features (6): age, endoscopic_images, target_symbol, diana_microt, predicted.sum, hpylori
+Iteration 32: Best Fitness=0.87635, Avg Fitness=0.87113, Selected Features (8): smoking_habits, endoscopic_images, target_symbol, miranda, targetscan, all.sum, h_pylori_infection, family_history
+Iteration 33: Best Fitness=0.87635, Avg Fitness=0.87148, Selected Features (8): smoking_habits, endoscopic_images, target_symbol, miranda, targetscan, all.sum, h_pylori_infection, family_history
+Iteration 34: Best Fitness=0.87661, Avg Fitness=0.87184, Selected Features (7): endoscopic_images, target_symbol, diana_microt, targetscan, hpylori, gastritis, ulcer_history
+Iteration 35: Best Fitness=0.87686, Avg Fitness=0.87219, Selected Features (6): age, endoscopic_images, target_symbol, diana_microt, predicted.sum, h_pylori_infection
+Iteration 36: Best Fitness=0.87686, Avg Fitness=0.87255, Selected Features (6): age, endoscopic_images, target_symbol, diana_microt, predicted.sum, h_pylori_infection
+Iteration 37: Best Fitness=0.87712, Avg Fitness=0.87290, Selected Features (8): smoking_habits, endoscopic_images, target_symbol, miranda, targetscan, all.sum, hpylori, family_history
+Iteration 38: Best Fitness=0.87737, Avg Fitness=0.87326, Selected Features (6): endoscopic_images, target_symbol, diana_microt, targetscan, h_pylori_infection, gastritis
+Iteration 39: Best Fitness=0.87737, Avg Fitness=0.87361, Selected Features (6): endoscopic_images, target_symbol, diana_microt, targetscan, h_pylori_infection, gastritis
+Iteration 40: Best Fitness=0.87762, Avg Fitness=0.87397, Selected Features (7): age, endoscopic_images, target_symbol, diana_microt, predicted.sum, hpylori, ulcer_history
+Iteration 41: Best Fitness=0.87786, Avg Fitness=0.87432, Selected Features (8): smoking_habits, endoscopic_images, target_symbol, miranda, targetscan, all.sum, h_pylori_infection, family_history
+Iteration 42: Best Fitness=0.87786, Avg Fitness=0.87468, Selected Features (8): smoking_habits, endoscopic_images, target_symbol, miranda, targetscan, all.sum, h_pylori_infection, family_history
+Iteration 43: Best Fitness=0.87811, Avg Fitness=0.87503, Selected Features (6): endoscopic_images, target_symbol, diana_microt, targetscan, hpylori, gastritis
+Iteration 44: Best Fitness=0.87811, Avg Fitness=0.87539, Selected Features (6): endoscopic_images, target_symbol, diana_microt, targetscan, hpylori, gastritis
+Iteration 45: Best Fitness=0.87835, Avg Fitness=0.87574, Selected Features (7): age, endoscopic_images, target_symbol, diana_microt, predicted.sum, h_pylori_infection, ulcer_history
+Iteration 46: Best Fitness=0.87835, Avg Fitness=0.87610, Selected Features (7): age, endoscopic_images, target_symbol, diana_microt, predicted.sum, h_pylori_infection, ulcer_history
+Iteration 47: Best Fitness=0.87859, Avg Fitness=0.87645, Selected Features (8): smoking_habits, endoscopic_images, target_symbol, miranda, targetscan, all.sum, hpylori, family_history
+Iteration 48: Best Fitness=0.87859, Avg Fitness=0.87681, Selected Features (8): smoking_habits, endoscopic_images, target_symbol, miranda, targetscan, all.sum, hpylori, family_history
+Iteration 49: Best Fitness=0.87884, Avg Fitness=0.87716, Selected Features (7): age, endoscopic_images, target_symbol, diana_microt, predicted.sum, hpylori, family_history
+Iteration 50: Best Fitness=0.87884, Avg Fitness=0.87752, Selected Features (7): age, endoscopic_images, target_symbol, diana_microt, predicted.sum, hpylori, family_history

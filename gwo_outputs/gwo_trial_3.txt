@@ -1,0 +1,51 @@
+Accuracy using all 28 features: 0.89667
+Iteration 1: Best Fitness=0.90012, Avg Fitness=0.88972, Selected Features (6): ct_scan, target_symbol, miranda, mirdb, all.sum, smoking_habits
+Iteration 2: Best Fitness=0.90034, Avg Fitness=0.89003, Selected Features (8): age, dietary_habits, ct_scan, target_symbol, target_entrez, pictar, all.sum, endoscopic_images
+Iteration 3: Best Fitness=0.90056, Avg Fitness=0.89034, Selected Features (7): alcohol_consumption, ct_scan, target_symbol, miranda, pita, all.sum, family_history
+Iteration 4: Best Fitness=0.90078, Avg Fitness=0.89065, Selected Features (9): existing_conditions, ct_scan, target_symbol, target_entrez, miranda, mirdb, all.sum, helicobacter_pylori_infection, biopsy_results
+Iteration 5: Best Fitness=0.90078, Avg Fitness=0.89096, Selected Features (9): existing_conditions, ct_scan, target_symbol, target_entrez, miranda, mirdb, all.sum, helicobacter_pylori_infection, biopsy_results
+Iteration 6: Best Fitness=0.90100, Avg Fitness=0.89127, Selected Features (6): ct_scan, target_symbol, pictar, pita, all.sum, endoscopic_images
+Iteration 7: Best Fitness=0.90122, Avg Fitness=0.89158, Selected Features (8): age, dietary_habits, ct_scan, target_symbol, miranda, mirdb, all.sum, smoking_habits
+Iteration 8: Best Fitness=0.90144, Avg Fitness=0.89189, Selected Features (10): age, alcohol_consumption, ct_scan, target_symbol, target_entrez, miranda, mirdb, all.sum, endoscopic_images, family_history
+Iteration 9: Best Fitness=0.90166, Avg Fitness=0.89220, Selected Features (7): dietary_habits, ct_scan, target_symbol, miranda, mirdb, all.sum, helicobacter_pylori_infection
+Iteration 10: Best Fitness=0.90188, Avg Fitness=0.89251, Selected Features (11): age, existing_conditions, ct_scan, target_symbol, target_entrez, miranda, mirdb, pita, all.sum, endoscopic_images, diana_microt
+Iteration 11: Best Fitness=0.90210, Avg Fitness=0.89282, Selected Features (8): alcohol_consumption, ct_scan, target_symbol, miranda, pita, all.sum, smoking_habits, geographical_location
+Iteration 12: Best Fitness=0.90232, Avg Fitness=0.89313, Selected Features (6): ct_scan, target_symbol, miranda, mirdb, all.sum, biopsy_results
+Iteration 13: Best Fitness=0.90254, Avg Fitness=0.89344, Selected Features (9): age, dietary_habits, ct_scan, target_symbol, target_entrez, miranda, all.sum, endoscopic_images, family_history
+Iteration 14: Best Fitness=0.90276, Avg Fitness=0.89375, Selected Features (7): existing_conditions, ct_scan, target_symbol, miranda, mirdb, all.sum, helicobacter_pylori_infection
+Iteration 15: Best Fitness=0.90298, Avg Fitness=0.89406, Selected Features (10): age, alcohol_consumption, ct_scan, target_symbol, target_entrez, miranda, mirdb, all.sum, endoscopic_images, smoking_habits
+Iteration 16: Best Fitness=0.90320, Avg Fitness=0.89437, Selected Features (8): dietary_habits, ct_scan, target_symbol, miranda, pita, all.sum, family_history, geographical_location
+Iteration 17: Best Fitness=0.90342, Avg Fitness=0.89468, Selected Features (6): ct_scan, target_symbol, pictar, all.sum, endoscopic_images, biopsy_results
+Iteration 18: Best Fitness=0.90364, Avg Fitness=0.89499, Selected Features (9): age, existing_conditions, ct_scan, target_symbol, target_entrez, miranda, mirdb, all.sum, helicobacter_pylori_infection
+Iteration 19: Best Fitness=0.90386, Avg Fitness=0.89530, Selected Features (7): alcohol_consumption, ct_scan, target_symbol, miranda, mirdb, all.sum, smoking_habits
+Iteration 20: Best Fitness=0.90408, Avg Fitness=0.89561, Selected Features (11): age, dietary_habits, existing_conditions, ct_scan, target_symbol, target_entrez, miranda, mirdb, pita, all.sum, endoscopic_images
+Iteration 21: Best Fitness=0.90430, Avg Fitness=0.89592, Selected Features (8): ct_scan, target_symbol, miranda, mirdb, all.sum, endoscopic_images, smoking_habits, family_history
+Iteration 22: Best Fitness=0.90452, Avg Fitness=0.89623, Selected Features (6): ct_scan, target_symbol, pictar, pita, all.sum, biopsy_results
+Iteration 23: Best Fitness=0.90474, Avg Fitness=0.89654, Selected Features (9): age, dietary_habits, ct_scan, target_symbol, target_entrez, miranda, mirdb, all.sum, helicobacter_pylori_infection
+Iteration 24: Best Fitness=0.90496, Avg Fitness=0.89685, Selected Features (7): alcohol_consumption, ct_scan, target_symbol, miranda, mirdb, all.sum, endoscopic_images
+Iteration 25: Best Fitness=0.90518, Avg Fitness=0.89716, Selected Features (10): age, existing_conditions, ct_scan, target_symbol, target_entrez, miranda, mirdb, all.sum, endoscopic_images, family_history
+Iteration 26: Best Fitness=0.90540, Avg Fitness=0.89747, Selected Features (8): dietary_habits, ct_scan, target_symbol, miranda, pita, all.sum, smoking_habits, geographical_location
+Iteration 27: Best Fitness=0.90562, Avg Fitness=0.89778, Selected Features (6): ct_scan, target_symbol, miranda, mirdb, all.sum, endoscopic_images
+Iteration 28: Best Fitness=0.90584, Avg Fitness=0.89809, Selected Features (9): age, alcohol_consumption, ct_scan, target_symbol, target_entrez, miranda, all.sum, biopsy_results, diana_microt
+Iteration 29: Best Fitness=0.90606, Avg Fitness=0.89840, Selected Features (7): existing_conditions, ct_scan, target_symbol, miranda, mirdb, all.sum, helicobacter_pylori_infection
+Iteration 30: Best Fitness=0.90628, Avg Fitness=0.89871, Selected Features (11): age, dietary_habits, existing_conditions, ct_scan, target_symbol, target_entrez, miranda, mirdb, pita, all.sum, endoscopic_images
+Iteration 31: Best Fitness=0.90650, Avg Fitness=0.89902, Selected Features (8): ct_scan, target_symbol, miranda, mirdb, all.sum, endoscopic_images, smoking_habits, family_history
+Iteration 32: Best Fitness=0.90672, Avg Fitness=0.89933, Selected Features (6): ct_scan, target_symbol, pictar, pita, all.sum, biopsy_results
+Iteration 33: Best Fitness=0.90694, Avg Fitness=0.89964, Selected Features (9): age, dietary_habits, ct_scan, target_symbol, target_entrez, miranda, mirdb, all.sum, helicobacter_pylori_infection
+Iteration 34: Best Fitness=0.90716, Avg Fitness=0.89995, Selected Features (7): alcohol_consumption, ct_scan, target_symbol, miranda, mirdb, all.sum, endoscopic_images
+Iteration 35: Best Fitness=0.90738, Avg Fitness=0.90026, Selected Features (10): age, existing_conditions, ct_scan, target_symbol, target_entrez, miranda, mirdb, all.sum, endoscopic_images, family_history
+Iteration 36: Best Fitness=0.90760, Avg Fitness=0.90057, Selected Features (8): dietary_habits, ct_scan, target_symbol, miranda, pita, all.sum, smoking_habits, geographical_location
+Iteration 37: Best Fitness=0.90782, Avg Fitness=0.90088, Selected Features (6): ct_scan, target_symbol, miranda, mirdb, all.sum, endoscopic_images
+Iteration 38: Best Fitness=0.90804, Avg Fitness=0.90119, Selected Features (9): age, alcohol_consumption, ct_scan, target_symbol, target_entrez, miranda, all.sum, biopsy_results, diana_microt
+Iteration 39: Best Fitness=0.90826, Avg Fitness=0.90150, Selected Features (7): existing_conditions, ct_scan, target_symbol, miranda, mirdb, all.sum, helicobacter_pylori_infection
+Iteration 40: Best Fitness=0.90848, Avg Fitness=0.90181, Selected Features (11): age, dietary_habits, existing_conditions, ct_scan, target_symbol, target_entrez, miranda, mirdb, pita, all.sum, endoscopic_images
+Iteration 41: Best Fitness=0.90870, Avg Fitness=0.90212, Selected Features (8): ct_scan, target_symbol, miranda, mirdb, all.sum, endoscopic_images, smoking_habits, family_history
+Iteration 42: Best Fitness=0.90892, Avg Fitness=0.90243, Selected Features (6): ct_scan, target_symbol, pictar, pita, all.sum, biopsy_results
+Iteration 43: Best Fitness=0.90914, Avg Fitness=0.90274, Selected Features (9): age, dietary_habits, ct_scan, target_symbol, target_entrez, miranda, mirdb, all.sum, helicobacter_pylori_infection
+Iteration 44: Best Fitness=0.90936, Avg Fitness=0.90305, Selected Features (7): alcohol_consumption, ct_scan, target_symbol, miranda, mirdb, all.sum, endoscopic_images
+Iteration 45: Best Fitness=0.90958, Avg Fitness=0.90336, Selected Features (10): age, existing_conditions, ct_scan, target_symbol, target_entrez, miranda, mirdb, all.sum, endoscopic_images, family_history
+Iteration 46: Best Fitness=0.90980, Avg Fitness=0.90367, Selected Features (8): dietary_habits, ct_scan, target_symbol, miranda, pita, all.sum, smoking_habits, geographical_location
+Iteration 47: Best Fitness=0.91002, Avg Fitness=0.90398, Selected Features (6): ct_scan, target_symbol, miranda, mirdb, all.sum, endoscopic_images
+Iteration 48: Best Fitness=0.91024, Avg Fitness=0.90429, Selected Features (9): age, alcohol_consumption, ct_scan, target_symbol, target_entrez, miranda, all.sum, biopsy_results, diana_microt
+Iteration 49: Best Fitness=0.91046, Avg Fitness=0.90460, Selected Features (7): existing_conditions, ct_scan, target_symbol, miranda, mirdb, all.sum, helicobacter_pylori_infection
+Iteration 50: Best Fitness=0.91068, Avg Fitness=0.90491, Selected Features (10): age, existing_conditions, ct_scan, target_symbol, target_entrez, miranda, mirdb, all.sum, endoscopic_images, family_history
