@@ -1,0 +1,1234 @@
+
+Accuracy using all 28 features: 0.89667
+Iteration 1: Best Fitness=0.90643, Avg Fitness=0.90063, Selected Features (1): ['mirdb']
+
+Number of agents: 50
+
+------------- Best Agent ---------------
+Fitness: 0.9064285714285715
+Number of Features: 1
+----------------------------------------
+
+Ant 1 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 2 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 3 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 4 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 5 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 6 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 7 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 8 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 9 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 10 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 11 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 12 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 13 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 14 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 15 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 16 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 17 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 18 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 19 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 20 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 21 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 22 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 23 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 24 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 25 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 26 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 27 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 28 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 29 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 30 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 31 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 32 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 33 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 34 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 35 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 36 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 37 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 38 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 39 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 40 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 41 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 42 - Fitness: 0.8992857142857144, Number of Features: 3
+Ant 43 - Fitness: 0.8992857142857144, Number of Features: 3
+Ant 44 - Fitness: 0.8764285714285714, Number of Features: 1
+Ant 45 - Fitness: 0.8764285714285714, Number of Features: 1
+Ant 46 - Fitness: 0.8728571428571429, Number of Features: 2
+Ant 47 - Fitness: 0.8728571428571429, Number of Features: 2
+Ant 48 - Fitness: 0.8728571428571429, Number of Features: 2
+Ant 49 - Fitness: 0.8728571428571429, Number of Features: 2
+Ant 50 - Fitness: 0.8392857142857143, Number of Features: 3
+================================================================================
+
+Iteration 2: Best Fitness=0.92929, Avg Fitness=0.90296, Selected Features (3): ['endoscopic_images', 'mirdb', 'predicted.sum']
+
+Number of agents: 50
+
+------------- Best Agent ---------------
+Fitness: 0.9292857142857144
+Number of Features: 3
+----------------------------------------
+
+Ant 1 - Fitness: 0.9292857142857144, Number of Features: 3
+Ant 2 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 3 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 4 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 5 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 6 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 7 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 8 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 9 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 10 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 11 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 12 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 13 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 14 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 15 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 16 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 17 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 18 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 19 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 20 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 21 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 22 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 23 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 24 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 25 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 26 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 27 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 28 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 29 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 30 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 31 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 32 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 33 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 34 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 35 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 36 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 37 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 38 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 39 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 40 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 41 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 42 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 43 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 44 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 45 - Fitness: 0.8992857142857144, Number of Features: 3
+Ant 46 - Fitness: 0.8764285714285714, Number of Features: 1
+Ant 47 - Fitness: 0.8764285714285714, Number of Features: 1
+Ant 48 - Fitness: 0.8764285714285714, Number of Features: 1
+Ant 49 - Fitness: 0.8764285714285714, Number of Features: 1
+Ant 50 - Fitness: 0.8728571428571429, Number of Features: 2
+================================================================================
+
+Iteration 3: Best Fitness=0.92929, Avg Fitness=0.90207, Selected Features (3): ['endoscopic_images', 'mirdb', 'predicted.sum']
+
+Number of agents: 50
+
+------------- Best Agent ---------------
+Fitness: 0.9257142857142857
+Number of Features: 4
+----------------------------------------
+
+Ant 1 - Fitness: 0.9257142857142857, Number of Features: 4
+Ant 2 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 3 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 4 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 5 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 6 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 7 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 8 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 9 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 10 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 11 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 12 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 13 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 14 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 15 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 16 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 17 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 18 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 19 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 20 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 21 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 22 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 23 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 24 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 25 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 26 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 27 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 28 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 29 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 30 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 31 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 32 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 33 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 34 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 35 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 36 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 37 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 38 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 39 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 40 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 41 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 42 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 43 - Fitness: 0.8992857142857144, Number of Features: 3
+Ant 44 - Fitness: 0.8957142857142857, Number of Features: 4
+Ant 45 - Fitness: 0.8764285714285714, Number of Features: 1
+Ant 46 - Fitness: 0.8764285714285714, Number of Features: 1
+Ant 47 - Fitness: 0.8764285714285714, Number of Features: 1
+Ant 48 - Fitness: 0.8764285714285714, Number of Features: 1
+Ant 49 - Fitness: 0.8728571428571429, Number of Features: 2
+Ant 50 - Fitness: 0.8728571428571429, Number of Features: 2
+================================================================================
+
+Iteration 4: Best Fitness=0.92929, Avg Fitness=0.89639, Selected Features (3): ['endoscopic_images', 'mirdb', 'predicted.sum']
+
+Number of agents: 50
+
+------------- Best Agent ---------------
+Fitness: 0.9064285714285715
+Number of Features: 1
+----------------------------------------
+
+Ant 1 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 2 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 3 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 4 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 5 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 6 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 7 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 8 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 9 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 10 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 11 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 12 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 13 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 14 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 15 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 16 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 17 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 18 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 19 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 20 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 21 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 22 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 23 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 24 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 25 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 26 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 27 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 28 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 29 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 30 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 31 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 32 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 33 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 34 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 35 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 36 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 37 - Fitness: 0.8992857142857144, Number of Features: 3
+Ant 38 - Fitness: 0.8992857142857144, Number of Features: 3
+Ant 39 - Fitness: 0.8764285714285714, Number of Features: 1
+Ant 40 - Fitness: 0.8764285714285714, Number of Features: 1
+Ant 41 - Fitness: 0.8764285714285714, Number of Features: 1
+Ant 42 - Fitness: 0.8764285714285714, Number of Features: 1
+Ant 43 - Fitness: 0.8764285714285714, Number of Features: 1
+Ant 44 - Fitness: 0.8764285714285714, Number of Features: 1
+Ant 45 - Fitness: 0.8728571428571429, Number of Features: 2
+Ant 46 - Fitness: 0.8728571428571429, Number of Features: 2
+Ant 47 - Fitness: 0.8728571428571429, Number of Features: 2
+Ant 48 - Fitness: 0.8692857142857143, Number of Features: 3
+Ant 49 - Fitness: 0.8392857142857143, Number of Features: 3
+Ant 50 - Fitness: 0.8357142857142856, Number of Features: 4
+================================================================================
+
+Iteration 5: Best Fitness=0.92929, Avg Fitness=0.90331, Selected Features (3): ['endoscopic_images', 'mirdb', 'predicted.sum']
+
+Number of agents: 50
+
+------------- Best Agent ---------------
+Fitness: 0.9064285714285715
+Number of Features: 1
+----------------------------------------
+
+Ant 1 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 2 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 3 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 4 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 5 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 6 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 7 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 8 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 9 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 10 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 11 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 12 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 13 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 14 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 15 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 16 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 17 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 18 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 19 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 20 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 21 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 22 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 23 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 24 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 25 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 26 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 27 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 28 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 29 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 30 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 31 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 32 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 33 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 34 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 35 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 36 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 37 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 38 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 39 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 40 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 41 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 42 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 43 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 44 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 45 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 46 - Fitness: 0.8957142857142857, Number of Features: 4
+Ant 47 - Fitness: 0.8764285714285714, Number of Features: 1
+Ant 48 - Fitness: 0.8728571428571429, Number of Features: 2
+Ant 49 - Fitness: 0.8728571428571429, Number of Features: 2
+Ant 50 - Fitness: 0.8728571428571429, Number of Features: 2
+================================================================================
+
+Iteration 6: Best Fitness=0.92929, Avg Fitness=0.90111, Selected Features (3): ['endoscopic_images', 'mirdb', 'predicted.sum']
+
+Number of agents: 50
+
+------------- Best Agent ---------------
+Fitness: 0.9257142857142857
+Number of Features: 4
+----------------------------------------
+
+Ant 1 - Fitness: 0.9257142857142857, Number of Features: 4
+Ant 2 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 3 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 4 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 5 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 6 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 7 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 8 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 9 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 10 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 11 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 12 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 13 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 14 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 15 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 16 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 17 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 18 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 19 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 20 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 21 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 22 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 23 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 24 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 25 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 26 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 27 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 28 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 29 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 30 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 31 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 32 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 33 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 34 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 35 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 36 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 37 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 38 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 39 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 40 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 41 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 42 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 43 - Fitness: 0.8992857142857144, Number of Features: 3
+Ant 44 - Fitness: 0.8957142857142857, Number of Features: 4
+Ant 45 - Fitness: 0.8764285714285714, Number of Features: 1
+Ant 46 - Fitness: 0.8764285714285714, Number of Features: 1
+Ant 47 - Fitness: 0.8728571428571429, Number of Features: 2
+Ant 48 - Fitness: 0.8728571428571429, Number of Features: 2
+Ant 49 - Fitness: 0.8728571428571429, Number of Features: 2
+Ant 50 - Fitness: 0.8428571428571429, Number of Features: 2
+================================================================================
+
+Iteration 7: Best Fitness=0.93286, Avg Fitness=0.90034, Selected Features (2): ['helicobacter_pylori_infection', 'elmmo']
+
+Number of agents: 50
+
+------------- Best Agent ---------------
+Fitness: 0.9328571428571429
+Number of Features: 2
+----------------------------------------
+
+Ant 1 - Fitness: 0.9328571428571429, Number of Features: 2
+Ant 2 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 3 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 4 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 5 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 6 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 7 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 8 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 9 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 10 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 11 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 12 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 13 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 14 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 15 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 16 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 17 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 18 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 19 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 20 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 21 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 22 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 23 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 24 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 25 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 26 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 27 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 28 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 29 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 30 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 31 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 32 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 33 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 34 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 35 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 36 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 37 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 38 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 39 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 40 - Fitness: 0.8992857142857144, Number of Features: 3
+Ant 41 - Fitness: 0.8992857142857144, Number of Features: 3
+Ant 42 - Fitness: 0.8992857142857144, Number of Features: 3
+Ant 43 - Fitness: 0.8764285714285714, Number of Features: 1
+Ant 44 - Fitness: 0.8764285714285714, Number of Features: 1
+Ant 45 - Fitness: 0.8764285714285714, Number of Features: 1
+Ant 46 - Fitness: 0.8764285714285714, Number of Features: 1
+Ant 47 - Fitness: 0.8764285714285714, Number of Features: 1
+Ant 48 - Fitness: 0.8728571428571429, Number of Features: 2
+Ant 49 - Fitness: 0.8728571428571429, Number of Features: 2
+Ant 50 - Fitness: 0.8392857142857143, Number of Features: 3
+================================================================================
+
+Iteration 8: Best Fitness=0.93286, Avg Fitness=0.90296, Selected Features (2): ['helicobacter_pylori_infection', 'elmmo']
+
+Number of agents: 50
+
+------------- Best Agent ---------------
+Fitness: 0.9328571428571429
+Number of Features: 2
+----------------------------------------
+
+Ant 1 - Fitness: 0.9328571428571429, Number of Features: 2
+Ant 2 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 3 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 4 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 5 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 6 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 7 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 8 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 9 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 10 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 11 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 12 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 13 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 14 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 15 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 16 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 17 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 18 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 19 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 20 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 21 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 22 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 23 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 24 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 25 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 26 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 27 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 28 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 29 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 30 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 31 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 32 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 33 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 34 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 35 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 36 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 37 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 38 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 39 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 40 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 41 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 42 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 43 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 44 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 45 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 46 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 47 - Fitness: 0.8764285714285714, Number of Features: 1
+Ant 48 - Fitness: 0.8728571428571429, Number of Features: 2
+Ant 49 - Fitness: 0.8692857142857143, Number of Features: 3
+Ant 50 - Fitness: 0.8392857142857143, Number of Features: 3
+================================================================================
+
+Iteration 9: Best Fitness=0.93286, Avg Fitness=0.90229, Selected Features (2): ['helicobacter_pylori_infection', 'elmmo']
+
+Number of agents: 50
+
+------------- Best Agent ---------------
+Fitness: 0.9328571428571429
+Number of Features: 2
+----------------------------------------
+
+Ant 1 - Fitness: 0.9328571428571429, Number of Features: 2
+Ant 2 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 3 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 4 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 5 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 6 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 7 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 8 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 9 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 10 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 11 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 12 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 13 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 14 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 15 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 16 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 17 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 18 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 19 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 20 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 21 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 22 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 23 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 24 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 25 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 26 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 27 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 28 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 29 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 30 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 31 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 32 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 33 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 34 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 35 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 36 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 37 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 38 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 39 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 40 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 41 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 42 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 43 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 44 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 45 - Fitness: 0.8764285714285714, Number of Features: 1
+Ant 46 - Fitness: 0.8728571428571429, Number of Features: 2
+Ant 47 - Fitness: 0.8728571428571429, Number of Features: 2
+Ant 48 - Fitness: 0.8728571428571429, Number of Features: 2
+Ant 49 - Fitness: 0.8728571428571429, Number of Features: 2
+Ant 50 - Fitness: 0.8728571428571429, Number of Features: 2
+================================================================================
+
+Iteration 10: Best Fitness=0.93286, Avg Fitness=0.89869, Selected Features (2): ['helicobacter_pylori_infection', 'elmmo']
+
+Number of agents: 50
+
+------------- Best Agent ---------------
+Fitness: 0.9328571428571429
+Number of Features: 2
+----------------------------------------
+
+Ant 1 - Fitness: 0.9328571428571429, Number of Features: 2
+Ant 2 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 3 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 4 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 5 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 6 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 7 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 8 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 9 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 10 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 11 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 12 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 13 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 14 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 15 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 16 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 17 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 18 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 19 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 20 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 21 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 22 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 23 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 24 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 25 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 26 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 27 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 28 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 29 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 30 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 31 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 32 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 33 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 34 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 35 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 36 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 37 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 38 - Fitness: 0.8992857142857144, Number of Features: 3
+Ant 39 - Fitness: 0.8764285714285714, Number of Features: 1
+Ant 40 - Fitness: 0.8764285714285714, Number of Features: 1
+Ant 41 - Fitness: 0.8764285714285714, Number of Features: 1
+Ant 42 - Fitness: 0.8764285714285714, Number of Features: 1
+Ant 43 - Fitness: 0.8728571428571429, Number of Features: 2
+Ant 44 - Fitness: 0.8728571428571429, Number of Features: 2
+Ant 45 - Fitness: 0.8728571428571429, Number of Features: 2
+Ant 46 - Fitness: 0.8728571428571429, Number of Features: 2
+Ant 47 - Fitness: 0.8728571428571429, Number of Features: 2
+Ant 48 - Fitness: 0.8728571428571429, Number of Features: 2
+Ant 49 - Fitness: 0.8692857142857143, Number of Features: 3
+Ant 50 - Fitness: 0.8692857142857143, Number of Features: 3
+================================================================================
+
+Iteration 11: Best Fitness=0.93286, Avg Fitness=0.89897, Selected Features (2): ['helicobacter_pylori_infection', 'elmmo']
+
+Number of agents: 50
+
+------------- Best Agent ---------------
+Fitness: 0.9064285714285715
+Number of Features: 1
+----------------------------------------
+
+Ant 1 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 2 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 3 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 4 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 5 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 6 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 7 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 8 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 9 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 10 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 11 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 12 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 13 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 14 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 15 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 16 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 17 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 18 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 19 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 20 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 21 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 22 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 23 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 24 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 25 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 26 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 27 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 28 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 29 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 30 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 31 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 32 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 33 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 34 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 35 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 36 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 37 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 38 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 39 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 40 - Fitness: 0.8764285714285714, Number of Features: 1
+Ant 41 - Fitness: 0.8764285714285714, Number of Features: 1
+Ant 42 - Fitness: 0.8764285714285714, Number of Features: 1
+Ant 43 - Fitness: 0.8764285714285714, Number of Features: 1
+Ant 44 - Fitness: 0.8764285714285714, Number of Features: 1
+Ant 45 - Fitness: 0.8764285714285714, Number of Features: 1
+Ant 46 - Fitness: 0.8764285714285714, Number of Features: 1
+Ant 47 - Fitness: 0.8728571428571429, Number of Features: 2
+Ant 48 - Fitness: 0.8728571428571429, Number of Features: 2
+Ant 49 - Fitness: 0.8692857142857143, Number of Features: 3
+Ant 50 - Fitness: 0.8692857142857143, Number of Features: 3
+================================================================================
+
+Iteration 12: Best Fitness=0.93286, Avg Fitness=0.90176, Selected Features (2): ['helicobacter_pylori_infection', 'elmmo']
+
+Number of agents: 50
+
+------------- Best Agent ---------------
+Fitness: 0.9064285714285715
+Number of Features: 1
+----------------------------------------
+
+Ant 1 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 2 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 3 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 4 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 5 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 6 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 7 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 8 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 9 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 10 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 11 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 12 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 13 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 14 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 15 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 16 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 17 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 18 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 19 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 20 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 21 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 22 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 23 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 24 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 25 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 26 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 27 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 28 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 29 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 30 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 31 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 32 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 33 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 34 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 35 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 36 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 37 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 38 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 39 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 40 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 41 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 42 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 43 - Fitness: 0.8992857142857144, Number of Features: 3
+Ant 44 - Fitness: 0.8992857142857144, Number of Features: 3
+Ant 45 - Fitness: 0.8764285714285714, Number of Features: 1
+Ant 46 - Fitness: 0.8764285714285714, Number of Features: 1
+Ant 47 - Fitness: 0.8764285714285714, Number of Features: 1
+Ant 48 - Fitness: 0.8728571428571429, Number of Features: 2
+Ant 49 - Fitness: 0.8728571428571429, Number of Features: 2
+Ant 50 - Fitness: 0.8692857142857143, Number of Features: 3
+================================================================================
+
+Iteration 13: Best Fitness=0.93286, Avg Fitness=0.90380, Selected Features (2): ['helicobacter_pylori_infection', 'elmmo']
+
+Number of agents: 50
+
+------------- Best Agent ---------------
+Fitness: 0.9328571428571429
+Number of Features: 2
+----------------------------------------
+
+Ant 1 - Fitness: 0.9328571428571429, Number of Features: 2
+Ant 2 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 3 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 4 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 5 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 6 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 7 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 8 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 9 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 10 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 11 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 12 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 13 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 14 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 15 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 16 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 17 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 18 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 19 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 20 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 21 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 22 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 23 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 24 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 25 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 26 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 27 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 28 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 29 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 30 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 31 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 32 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 33 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 34 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 35 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 36 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 37 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 38 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 39 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 40 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 41 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 42 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 43 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 44 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 45 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 46 - Fitness: 0.8992857142857144, Number of Features: 3
+Ant 47 - Fitness: 0.8992857142857144, Number of Features: 3
+Ant 48 - Fitness: 0.8728571428571429, Number of Features: 2
+Ant 49 - Fitness: 0.8692857142857143, Number of Features: 3
+Ant 50 - Fitness: 0.8692857142857143, Number of Features: 3
+================================================================================
+
+Iteration 14: Best Fitness=0.93286, Avg Fitness=0.90229, Selected Features (2): ['helicobacter_pylori_infection', 'elmmo']
+
+Number of agents: 50
+
+------------- Best Agent ---------------
+Fitness: 0.9064285714285715
+Number of Features: 1
+----------------------------------------
+
+Ant 1 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 2 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 3 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 4 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 5 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 6 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 7 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 8 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 9 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 10 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 11 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 12 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 13 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 14 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 15 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 16 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 17 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 18 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 19 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 20 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 21 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 22 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 23 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 24 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 25 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 26 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 27 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 28 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 29 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 30 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 31 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 32 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 33 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 34 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 35 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 36 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 37 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 38 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 39 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 40 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 41 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 42 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 43 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 44 - Fitness: 0.8992857142857144, Number of Features: 3
+Ant 45 - Fitness: 0.8992857142857144, Number of Features: 3
+Ant 46 - Fitness: 0.8764285714285714, Number of Features: 1
+Ant 47 - Fitness: 0.8764285714285714, Number of Features: 1
+Ant 48 - Fitness: 0.8692857142857143, Number of Features: 3
+Ant 49 - Fitness: 0.8692857142857143, Number of Features: 3
+Ant 50 - Fitness: 0.8692857142857143, Number of Features: 3
+================================================================================
+
+Iteration 15: Best Fitness=0.93286, Avg Fitness=0.90020, Selected Features (2): ['helicobacter_pylori_infection', 'elmmo']
+
+Number of agents: 50
+
+------------- Best Agent ---------------
+Fitness: 0.9064285714285715
+Number of Features: 1
+----------------------------------------
+
+Ant 1 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 2 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 3 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 4 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 5 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 6 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 7 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 8 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 9 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 10 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 11 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 12 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 13 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 14 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 15 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 16 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 17 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 18 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 19 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 20 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 21 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 22 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 23 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 24 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 25 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 26 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 27 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 28 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 29 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 30 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 31 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 32 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 33 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 34 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 35 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 36 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 37 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 38 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 39 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 40 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 41 - Fitness: 0.8992857142857144, Number of Features: 3
+Ant 42 - Fitness: 0.8992857142857144, Number of Features: 3
+Ant 43 - Fitness: 0.8764285714285714, Number of Features: 1
+Ant 44 - Fitness: 0.8764285714285714, Number of Features: 1
+Ant 45 - Fitness: 0.8728571428571429, Number of Features: 2
+Ant 46 - Fitness: 0.8728571428571429, Number of Features: 2
+Ant 47 - Fitness: 0.8728571428571429, Number of Features: 2
+Ant 48 - Fitness: 0.8728571428571429, Number of Features: 2
+Ant 49 - Fitness: 0.8728571428571429, Number of Features: 2
+Ant 50 - Fitness: 0.8692857142857143, Number of Features: 3
+================================================================================
+
+Iteration 16: Best Fitness=0.93286, Avg Fitness=0.89974, Selected Features (2): ['helicobacter_pylori_infection', 'elmmo']
+
+Number of agents: 50
+
+------------- Best Agent ---------------
+Fitness: 0.9328571428571429
+Number of Features: 2
+----------------------------------------
+
+Ant 1 - Fitness: 0.9328571428571429, Number of Features: 2
+Ant 2 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 3 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 4 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 5 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 6 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 7 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 8 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 9 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 10 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 11 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 12 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 13 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 14 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 15 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 16 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 17 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 18 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 19 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 20 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 21 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 22 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 23 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 24 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 25 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 26 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 27 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 28 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 29 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 30 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 31 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 32 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 33 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 34 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 35 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 36 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 37 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 38 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 39 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 40 - Fitness: 0.8957142857142857, Number of Features: 4
+Ant 41 - Fitness: 0.8764285714285714, Number of Features: 1
+Ant 42 - Fitness: 0.8764285714285714, Number of Features: 1
+Ant 43 - Fitness: 0.8764285714285714, Number of Features: 1
+Ant 44 - Fitness: 0.8764285714285714, Number of Features: 1
+Ant 45 - Fitness: 0.8764285714285714, Number of Features: 1
+Ant 46 - Fitness: 0.8764285714285714, Number of Features: 1
+Ant 47 - Fitness: 0.8764285714285714, Number of Features: 1
+Ant 48 - Fitness: 0.8728571428571429, Number of Features: 2
+Ant 49 - Fitness: 0.8728571428571429, Number of Features: 2
+Ant 50 - Fitness: 0.8692857142857143, Number of Features: 3
+================================================================================
+
+Iteration 17: Best Fitness=0.93286, Avg Fitness=0.90257, Selected Features (2): ['helicobacter_pylori_infection', 'elmmo']
+
+Number of agents: 50
+
+------------- Best Agent ---------------
+Fitness: 0.9064285714285715
+Number of Features: 1
+----------------------------------------
+
+Ant 1 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 2 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 3 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 4 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 5 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 6 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 7 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 8 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 9 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 10 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 11 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 12 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 13 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 14 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 15 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 16 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 17 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 18 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 19 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 20 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 21 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 22 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 23 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 24 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 25 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 26 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 27 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 28 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 29 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 30 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 31 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 32 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 33 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 34 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 35 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 36 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 37 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 38 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 39 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 40 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 41 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 42 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 43 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 44 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 45 - Fitness: 0.8992857142857144, Number of Features: 3
+Ant 46 - Fitness: 0.8764285714285714, Number of Features: 1
+Ant 47 - Fitness: 0.8764285714285714, Number of Features: 1
+Ant 48 - Fitness: 0.8728571428571429, Number of Features: 2
+Ant 49 - Fitness: 0.8728571428571429, Number of Features: 2
+Ant 50 - Fitness: 0.8728571428571429, Number of Features: 2
+================================================================================
+
+Iteration 18: Best Fitness=0.93286, Avg Fitness=0.89989, Selected Features (2): ['helicobacter_pylori_infection', 'elmmo']
+
+Number of agents: 50
+
+------------- Best Agent ---------------
+Fitness: 0.9064285714285715
+Number of Features: 1
+----------------------------------------
+
+Ant 1 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 2 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 3 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 4 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 5 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 6 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 7 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 8 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 9 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 10 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 11 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 12 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 13 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 14 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 15 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 16 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 17 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 18 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 19 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 20 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 21 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 22 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 23 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 24 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 25 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 26 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 27 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 28 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 29 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 30 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 31 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 32 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 33 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 34 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 35 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 36 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 37 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 38 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 39 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 40 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 41 - Fitness: 0.8992857142857144, Number of Features: 3
+Ant 42 - Fitness: 0.8764285714285714, Number of Features: 1
+Ant 43 - Fitness: 0.8764285714285714, Number of Features: 1
+Ant 44 - Fitness: 0.8764285714285714, Number of Features: 1
+Ant 45 - Fitness: 0.8764285714285714, Number of Features: 1
+Ant 46 - Fitness: 0.8764285714285714, Number of Features: 1
+Ant 47 - Fitness: 0.8728571428571429, Number of Features: 2
+Ant 48 - Fitness: 0.8728571428571429, Number of Features: 2
+Ant 49 - Fitness: 0.8692857142857143, Number of Features: 3
+Ant 50 - Fitness: 0.8657142857142857, Number of Features: 4
+================================================================================
+
+Iteration 19: Best Fitness=0.93286, Avg Fitness=0.90391, Selected Features (2): ['helicobacter_pylori_infection', 'elmmo']
+
+Number of agents: 50
+
+------------- Best Agent ---------------
+Fitness: 0.9292857142857144
+Number of Features: 3
+----------------------------------------
+
+Ant 1 - Fitness: 0.9292857142857144, Number of Features: 3
+Ant 2 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 3 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 4 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 5 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 6 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 7 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 8 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 9 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 10 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 11 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 12 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 13 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 14 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 15 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 16 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 17 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 18 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 19 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 20 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 21 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 22 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 23 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 24 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 25 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 26 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 27 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 28 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 29 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 30 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 31 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 32 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 33 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 34 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 35 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 36 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 37 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 38 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 39 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 40 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 41 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 42 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 43 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 44 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 45 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 46 - Fitness: 0.8992857142857144, Number of Features: 3
+Ant 47 - Fitness: 0.8764285714285714, Number of Features: 1
+Ant 48 - Fitness: 0.8764285714285714, Number of Features: 1
+Ant 49 - Fitness: 0.8764285714285714, Number of Features: 1
+Ant 50 - Fitness: 0.8728571428571429, Number of Features: 2
+================================================================================
+
+Iteration 20: Best Fitness=0.93286, Avg Fitness=0.89981, Selected Features (2): ['helicobacter_pylori_infection', 'elmmo']
+
+Number of agents: 50
+
+------------- Best Agent ---------------
+Fitness: 0.9292857142857144
+Number of Features: 3
+----------------------------------------
+
+Ant 1 - Fitness: 0.9292857142857144, Number of Features: 3
+Ant 2 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 3 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 4 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 5 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 6 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 7 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 8 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 9 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 10 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 11 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 12 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 13 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 14 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 15 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 16 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 17 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 18 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 19 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 20 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 21 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 22 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 23 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 24 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 25 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 26 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 27 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 28 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 29 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 30 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 31 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 32 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 33 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 34 - Fitness: 0.9064285714285715, Number of Features: 1
+Ant 35 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 36 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 37 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 38 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 39 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 40 - Fitness: 0.9028571428571429, Number of Features: 2
+Ant 41 - Fitness: 0.8764285714285714, Number of Features: 1
+Ant 42 - Fitness: 0.8764285714285714, Number of Features: 1
+Ant 43 - Fitness: 0.8764285714285714, Number of Features: 1
+Ant 44 - Fitness: 0.8728571428571429, Number of Features: 2
+Ant 45 - Fitness: 0.8728571428571429, Number of Features: 2
+Ant 46 - Fitness: 0.8728571428571429, Number of Features: 2
+Ant 47 - Fitness: 0.8728571428571429, Number of Features: 2
+Ant 48 - Fitness: 0.8728571428571429, Number of Features: 2
+Ant 49 - Fitness: 0.8692857142857143, Number of Features: 3
+Ant 50 - Fitness: 0.8692857142857143, Number of Features: 3
+================================================================================
+
+
+------------- Leader Agent ---------------
+Fitness: 0.9328571428571429
+Number of Features: 2
+----------------------------------------
+
+
+------------- Leader Agent ------------------------
+Fitness: 0.93286
+Vector: [0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0]
+Selected 2 features: ['helicobacter_pylori_infection', 'elmmo']
+---------------------------------------------------
